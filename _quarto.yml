@@ -3,73 +3,60 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Dennis Baidoo"
+author-meta: "Dennis Baidoo"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "Dennis Baidoo"
+  image: "files/images/PIWC.JPG"
+  description: "Oustanding Student"
  
   navbar:
-    background: light  # You can change the background color here
+    background: blue  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
+      # - text: About
+      #   menu:
+      #     - text: News
+      #       href: posts.qmd#category=news
+      #     - text: Events
+      #       href: posts.qmd#category=event      
+      #     - text: Contact
+      #       href: contact.qmd             
       - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+        href: publications.qmd
+          # - text: Selected Papers
+          #   href: posts.qmd#category=paper
+          # - text: Grants
+          #   href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+      - text: Presentations
+        href: posts.qmd#category=presentation                   
+      - text: Awards and Honors   # Comment the Group part out to remove the Group page
+        href: Awards.qmd
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/Baidoo_CV.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+     
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[DennisBaidoo](https://github.com/dbaidoo/dbaidoo.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built with [Quarto](https://github.com/drganghe/quarto-academic-website-template), adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+      
+      
   
   search:
     location: navbar

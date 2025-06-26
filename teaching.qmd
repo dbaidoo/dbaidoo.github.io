@@ -1,67 +1,83 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "I have taught the following courses."
 title-block-banner: false
 ---
 
 
-## Class 1
+## MATH 1350: Introduction to Statistics
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/Intro-Statistics.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Spring 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Fall 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), [Summer 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp;[Summer 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html)
 
-Class 1 introduction.
-
-:::
+Instructor, University of New Mexico, Department of Mathematics and Statistics - 300+ students.
 
 :::
 
+:::
 
-## Class 2
+
+## MATH 1300: Statistical Literacy
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/StatLiteracy.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1300.html)
 
-Class 2 introduction.
-
-:::
+Instructor, University of New Mexico, Department of Mathematics and Statistics - 43 students.
 
 :::
 
+:::
 
-## Class 3
+## MATH 1512: Calculus I
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/Calc.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html)
 
-Class 3 introduction. 
+Instructor, University of New Mexico, African American Student Services - 16 students.
+
+:::
+:::
+
+## STAT 445: Regression Analysis
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Regression.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2021](https://balme.ug.edu.gh/past.exampapers/index.php?p=show_detail&id=7855&keywords=STAT+445)
+
+Teaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students. 
 
 :::
 
 :::
-
 

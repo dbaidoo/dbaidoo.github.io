@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Dennis Baidoo, M.S, GStat"
+description-meta: "Website"
+image: "files/images/Dbaidoo.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,95 +12,72 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
+
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:dbaidoo@unm.edu 
+         
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/dennisbaidoo1
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      
+    - text: "{{< ai rpubs >}} RPubs"
+      href: https://rpubs.com/BaidooHub
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
+      
+    - text: "{{< ai Gstat >}} GStat"
+      href: https://ww2.amstat.org/accreditation/roster.cfm
       target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
+      
+    # - text: "{{< ai CV >}} My CV"
+    #   href: https://drive.google.com/file/d/1YcstC0Sk5TG2FKJP_NiWtM-r2C257Rrh/view?usp=sharing
+    #   target: _blank    
+    
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
+    #   
+    # - text: "{{< ai google-scholar >}} Google Scholar"
+    #   href: https://scholar.google.com
+    #   target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+## About
+I am a statistician with expertise in longitudinal and multilevel data analysis, causal inference, missing data techniques, and Bayesian methods. I hold an M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) in 2025 and a double major B.Sc. in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) in 2021.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-
-## Experience
-
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
+My work focuses on developing and applying rigorous statistical approaches to solve complex public health challenges. I am passionate about transforming data into meaningful insights through advanced methodology, careful analysis, and clear communication.
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+<!-- ## Recent Posts -->
+<!-- Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
 
-:::{#recent-posts}
-:::
+<!-- :::{#recent-posts} -->
+<!-- ::: -->
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<!-- <p align="right">[All Posts »](/posts.qmd)</p> -->

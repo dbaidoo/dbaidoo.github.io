@@ -1,0 +1,44 @@
+---
+title: "Awards and Honors"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+**2025** - Lester R. Curtin Award, American Statistical Association
+
+**2025** - Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut
+
+**2025** - Early Career Travel Award, American Statistical Association 
+
+**2025** - Sigma Xi Honoree, The Scientific Honor Research Society 
+
+**2025** - Excellence in Teaching Award, University of New Mexico 
+
+**2024** - Biopharmaceutical Section Student Scholarship Award, American Statistical Association
+
+**2024** - Diversity Mentoring Program Award, Joint Statistical Meetings
+
+**2024** - Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico
+
+**2024** - Acxiom Diversity Scholarship Award, Acxiom  
+
+**2024** - Golden Key International Honour Society Honoree, The International Collegiate Honor Society
+
+**2024** - Graduate Scholarship Fund Grant, University of New Mexico
+
+**2023|25** - The South Central Topology Conference IV Travel Award, Texas A&M University 
+
+**2023|25** - Professional Development Grant, University of New Mexico
+
+**2023|25** - Project for New Mexico Graduates of Color Scholarship, University of New Mexico
+
+**2023** - Scholarship of Teaching & Learning Award, University of New Mexico
+
+**2023** - Michael Woodroofe Memorial Conference Travel Award, University of Michigan
+
+**2023** - Student Research Grant, University of New Mexico
+
+**2021** - Dean's Honor List, University of Ghana  

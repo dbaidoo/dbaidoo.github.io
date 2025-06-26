@@ -1,24 +1,24 @@
----
-title: "Contact"
-description-meta: "Reach out to me with questions and comments"
-title-block-banner: false
----
+<!-- # --- -->
+<!-- # title: "Contact" -->
+<!-- # description-meta: "Reach out to me with questions and comments" -->
+<!-- # title-block-banner: false -->
+<!-- # --- -->
 
-<center>
+<!-- <center> -->
 
-**Quarto Academic**
+<!-- **Quarto Academic** -->
 
-School
+<!-- School -->
 
-College
+<!-- College -->
 
-University
+<!-- University -->
 
-Address: 
+<!-- Address:  -->
 
-Phone: 
+<!-- Phone:  -->
 
-E-mail: 
+<!-- E-mail:  -->
 
 
-</center>
+<!-- </center> -->

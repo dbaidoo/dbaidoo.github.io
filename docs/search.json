@@ -2,16 +2,16 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "What’s New & Updated",
+    "title": "Research Conference Presentations",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Baidoo, D., & Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.\nBaidoo, D., & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan.\nBaidoo, D., & Okeke, O. J . (2023, November). Modelling The Groundwater Potential and Suitability For Irrigation In New Mexico State Using Geospatial MLA and Geostatistical Approaches. The paper was accepted for presentation at the GIS Day, Albuquerque, University of New Mexico."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Research Publications (Undergoing Peer-Review)",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Baidoo, D., Amevor, R., Kubuafor, E., et al (2025, in-progress). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.\nBaidoo, D., Aboagye, F., Okeke, O. J., et al (2024, in review). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.\nOkeke, O. J., Baidoo, D., Okeke, H. U., et al (2024, in review). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.\nBaidoo, D., Okeke, O. J., Amevor, R., et al (2024, in review). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.\nOkeke, O. J., Enyimaya, R. N., Nwaogu, C., Baidoo, D., et al (2023, in review). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama’are River Basin Using Multivariate Clustering Geostatistical Analysis.\nOkeke, O. J., Nwaogu, C., Oluwadamilare, O. O., Baidoo, D., et al (2023, in review). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches."
   },
   {
     "objectID": "publications.html#selected-work",
@@ -60,7 +60,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Spring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 300+ students."
   },
   {
     "objectID": "teaching.html#class-1",
@@ -86,35 +86,35 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "—",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "—\n\n\ntitle: “Contact”\n\n\ndescription-meta: “Reach out to me with questions and comments”\n\n\ntitle-block-banner: false\n\n\n—"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      RPubs\n  \n  \n      GStat\n  \n\n  \n  \n\n\nI am a statistician with expertise in longitudinal and multilevel data analysis, causal inference, missing data techniques, and Bayesian methods. I hold an M.S. in Statistics from the University of New Mexico in 2025 and a double major B.Sc. in Mathematics and Statistics from the University of Ghana in 2021.\nMy work focuses on developing and applying rigorous statistical approaches to solve complex public health challenges. I am passionate about transforming data into meaningful insights through advanced methodology, careful analysis, and clear communication."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
     "text": "Researcher, Univerisity"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
     "text": "PhD, Univerisity"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
+    "title": "Dennis Baidoo, M.S, GStat",
     "section": "Recent Posts",
     "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
@@ -138,5 +138,82 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Dennis Baidoo, M.S, GStat",
+    "section": "",
+    "text": "I am a statistician with expertise in longitudinal and multilevel data analysis, causal inference, missing data techniques, and Bayesian methods. I hold an M.S. in Statistics from the University of New Mexico in 2025 and a double major B.Sc. in Mathematics and Statistics from the University of Ghana in 2021.\nMy work focuses on developing and applying rigorous statistical approaches to solve complex public health challenges. I am passionate about transforming data into meaningful insights through advanced methodology, careful analysis, and clear communication."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-statistics",
+    "href": "teaching.html#introduction-to-statistics",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-statistics.",
+    "href": "teaching.html#introduction-to-statistics.",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#introduction-t",
+    "href": "teaching.html#introduction-t",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#math-1350-introduction-to-statistics",
+    "href": "teaching.html#math-1350-introduction-to-statistics",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 300+ students."
+  },
+  {
+    "objectID": "teaching.html#math-1300-statistical-literacy",
+    "href": "teaching.html#math-1300-statistical-literacy",
+    "title": "Teaching",
+    "section": "MATH 1300: Statistical Literacy",
+    "text": "MATH 1300: Statistical Literacy\n\n\n\n\n\nFall 2024\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 43 students."
+  },
+  {
+    "objectID": "teaching.html#stat-445-regression-analysi",
+    "href": "teaching.html#stat-445-regression-analysi",
+    "title": "Teaching",
+    "section": "STAT 445: Regression Analysi",
+    "text": "STAT 445: Regression Analysi\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "teaching.html#math-1512-calculus-i",
+    "href": "teaching.html#math-1512-calculus-i",
+    "title": "Teaching",
+    "section": "MATH 1512: Calculus I",
+    "text": "MATH 1512: Calculus I\n\n\n\n\n\nSummer 2023\nInstructor, University of New Mexico, African American Student Services - 16 students."
+  },
+  {
+    "objectID": "teaching.html#stat-445-regression-analysis",
+    "href": "teaching.html#stat-445-regression-analysis",
+    "title": "Teaching",
+    "section": "STAT 445: Regression Analysis",
+    "text": "STAT 445: Regression Analysis\n\n\n\n\n\nFall 2021\nTeaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "\\textbf{2025} - Lester R. Curtin Award, American Statistical Association \\\\ \\textbf{2025} - Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut \\\\ \\textbf{2025} - Early Career Travel Award, American Statistical Association \\\\ \\textbf{2025} - Sigma Xi Honoree, The Scientific Honor Research Society \\\\ \\textbf{2025} - Excellence in Teaching Award, University of New Mexico \\\\ \\textbf{2024} - Biopharmaceutical Section Student Scholarship Award, American Statistical Association \\\\ \\textbf{2024} - Diversity Mentoring Program Award, Joint Statistical Meetings \\\\ \\textbf{2024} - Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico \\\\ \\textbf{2024} - Ackiom Diversity Scholarship Award, Ackiom \\\\ \\textbf{2024} - Golden Key International Honour Society Honoree, The International Collegiate Honor Society \\\\ \\textbf{2024} - Graduate Scholarship Fund Grant, University of New Mexico \\\\ \\textbf{2023/25} - The South Central Topology Conference IV Travel Award, Texas A \\& M University \\\\ \\textbf{2023/25} - Professional Development Grant, University of New Mexico \\\\ \\textbf{2023/25} - Project for New Mexico Graduates of Color Scholarship, University of New Mexico \\\\ \\textbf{2023} - Scholarship of Teaching \\& Learning Award, University of New Mexico \\\\ \\textbf{2023} - Michael Woodroofe Memorial Conference Travel Award, University of Michigan \\\\ \\textbf{2023} - Student Research Grant, University of New Mexico \\\\ \\textbf{2021} - Dean's Honor List, University of Ghana"
+  },
+  {
+    "objectID": "Awards.html",
+    "href": "Awards.html",
+    "title": "Awards and Honors",
+    "section": "",
+    "text": "2025 - Lester R. Curtin Award, American Statistical Association\n2025 - Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut\n2025 - Early Career Travel Award, American Statistical Association\n2025 - Sigma Xi Honoree, The Scientific Honor Research Society\n2025 - Excellence in Teaching Award, University of New Mexico\n2024 - Biopharmaceutical Section Student Scholarship Award, American Statistical Association\n2024 - Diversity Mentoring Program Award, Joint Statistical Meetings\n2024 - Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico\n2024 - Acxiom Diversity Scholarship Award, Acxiom\n2024 - Golden Key International Honour Society Honoree, The International Collegiate Honor Society\n2024 - Graduate Scholarship Fund Grant, University of New Mexico\n2023|25 - The South Central Topology Conference IV Travel Award, Texas A&M University\n2023|25 - Professional Development Grant, University of New Mexico\n2023|25 - Project for New Mexico Graduates of Color Scholarship, University of New Mexico\n2023 - Scholarship of Teaching & Learning Award, University of New Mexico\n2023 - Michael Woodroofe Memorial Conference Travel Award, University of Michigan\n2023 - Student Research Grant, University of New Mexico\n2021 - Dean’s Honor List, University of Ghana"
   }
 ]
