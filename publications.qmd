@@ -1,55 +1,34 @@
 ---
 title: "Research"
 description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
-title-block-banner: false
 css: custom.css
 ---
-- Okeke, O. J., **Baidoo, D.**, Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models.
 
-- **Baidoo, D.**, Amevor, R., Kubuafor, E., et al (2025, in review). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
+<style>
+.author-name {
+  color: #8B0000;
+  font-weight: bold;
+}
+</style>
 
-- Kubuafor, E., **Baidoo, D.**, Amevor, R., et al (2025, in review). Latent spatial heterogeneity in U.S. cancer mortality:
-A multi-site clustering and spatial autocorrelation analysis.
+## Published/In press
+1. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. [doi.org/978-624-6045-02-9](https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16)
 
-- Amevor, R., **Baidoo, D.**, Kubuafor, E., et al (2025, in review). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.
-  
-- **Baidoo, D.**, Aboagye, F., Okeke, O. J., et al (2024, in review). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.
-  
-- Okeke, O. J., **Baidoo, D.**, Okeke, H. U., et al (2024, in review). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.
-  
-- **Baidoo, D.**, Okeke, O. J., Amevor, R., et al (2024, in review). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.
+---
 
-  
-- Okeke, O. J., Enyimaya, R. N., Nwaogu, C., **Baidoo, D.**, et al (2023, in review). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama'are River Basin Using Multivariate Clustering Geostatistical Analysis.
+## Under Review
+2. <span class="author-name">Baidoo, D.</span>, Amevor, R., Kubuafor, E., et al (2025, in review). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
 
-  
-- Okeke, O. J., Nwaogu, C., Oluwadamilare, O. O., **Baidoo, D.**, et al (2023, in review). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches.
+3. Kubuafor, E., <span class="author-name">Baidoo, D.</span>, Amevor, R., et al (2025, in review). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis.
 
-
-
-<!--Include academic icons or buttons-->
-<!-- {{< include /files/includes/_academic.qmd >}} -->
-
-<!-- Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)  -->
-
-<!-- Total citations as of January 2025: -->
-
-<!-- - [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)    -->
-<!-- - [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377)  -->
-
-<!-- ## Selected Work -->
-
-<!-- Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>      -->
-
-
-<!-- <center><hr style="width:50%"></center> -->
-
-<!-- Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div> -->
-
-
-
-<!--Include social share buttons-->
-
-<!-- {{< include /files/includes/_socialshare.qmd >}} -->
+4. Amevor, R., <span class="author-name">Baidoo, D.</span>, Kubuafor, E., et al (2025, in review). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.
+  
+5. <span class="author-name">Baidoo, D.</span>, Aboagye, F., Okeke, O. J., et al (2024, in review). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.
+  
+6. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Okeke, H. U., et al (2024, in review). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.
+  
+7. <span class="author-name">Baidoo, D.</span>, Okeke, O. J., Amevor, R., et al (2024, in review). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.
+  
+8. Okeke, O. J., Enyimaya, R. N., Nwaogu, C., <span class="author-name">Baidoo, D.</span>, et al (2023, in review). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama'are River Basin Using Multivariate Clustering Geostatistical Analysis.
+  
+9. Okeke, O. J., Nwaogu, C., Oluwadamilare, O. O., <span class="author-name">Baidoo, D.</span>, et al (2023, in review). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches.
