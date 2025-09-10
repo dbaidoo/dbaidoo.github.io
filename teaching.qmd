@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "I have taught the following courses."
+subtitle: "I have served as an instructor and teaching assistant for the following courses."
 title-block-banner: false
 ---
 
@@ -16,9 +16,9 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Fall 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), [Summer 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp;[Summer 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html)
+[Spring 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Fall 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), [Summer 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp;[Summer 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html), &nbsp;[Fall 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html)
 
-Instructor, University of New Mexico, Department of Mathematics and Statistics - 300+ students.
+Instructor, University of New Mexico, Department of Mathematics and Statistics - 500+ students.
 
 :::
 
@@ -30,13 +30,13 @@ Instructor, University of New Mexico, Department of Mathematics and Statistics -
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/StatLiteracy.jpg)
+![](files/images/Descriptive_statistics.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1300.html)
+[Fall 2024](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1300.html) 
 
 Instructor, University of New Mexico, Department of Mathematics and Statistics - 43 students.
 
@@ -49,18 +49,37 @@ Instructor, University of New Mexico, Department of Mathematics and Statistics -
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/Calc.jpg)
+![](files/images/integral-calculus.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html)
+[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html) , &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html)
 
-Instructor, University of New Mexico, African American Student Services - 16 students.
+Instructor, University of New Mexico, African American Student Services - 25 students.
 
 :::
 :::
+
+## STAT 1350: Introduction to Statistics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Intro-Statistics.jpg)
+
+:::
+::: {.g-col-12 .g-col-md-10}
+
+[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html)
+
+Instructor, Eastern New Mexico University, Department of Nursing- 5 student.
+
+:::
+
+:::
+
 
 ## STAT 445: Regression Analysis
 
@@ -78,6 +97,7 @@ Instructor, University of New Mexico, African American Student Services - 16 stu
 Teaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students. 
 
 :::
+
 
 :::
 

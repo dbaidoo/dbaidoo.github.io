@@ -37,10 +37,12 @@ website:
         href: posts.qmd#category=presentation                   
       - text: Awards and Honors   # Comment the Group part out to remove the Group page
         href: Awards.qmd
+      - text: In the Media   # Comment the Group part out to remove the Group page
+        href: mediatab.qmd
 
     right: 
       - text: CV
-        href: files/Baidoo_CV.pdf
+        href: files/Dennis.Baidoo_CV.pdf
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
@@ -50,7 +52,7 @@ website:
   
   page-footer: 
     left: "[DennisBaidoo](https://github.com/dbaidoo/dbaidoo.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Built with [Quarto](https://github.com/drganghe/quarto-academic-website-template), adapted by [Dr. Gang He](http://drganghe.github.io)"
+    center: "Built with [Quarto](https://github.com/drganghe/quarto-academic-website-template), adapted from [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io

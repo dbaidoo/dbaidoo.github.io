@@ -1,13 +1,19 @@
 ---
-title: "Research Publications (Undergoing Peer-Review)"
+title: "Research"
 description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: false
 css: custom.css
 ---
+- Okeke, O. J., **Baidoo, D.**, Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models.
 
-- **Baidoo, D.**, Amevor, R., Kubuafor, E., et al (2025, in-progress). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
+- **Baidoo, D.**, Amevor, R., Kubuafor, E., et al (2025, in review). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
+
+- Kubuafor, E., **Baidoo, D.**, Amevor, R., et al (2025, in review). Latent spatial heterogeneity in U.S. cancer mortality:
+A multi-site clustering and spatial autocorrelation analysis.
+
+- Amevor, R., **Baidoo, D.**, Kubuafor, E., et al (2025, in review). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.
   
 - **Baidoo, D.**, Aboagye, F., Okeke, O. J., et al (2024, in review). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.
   
