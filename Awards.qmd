@@ -60,7 +60,7 @@ css: custom.css
 </div>
 
 <div class="award-container">
-  <p class="award-title-line"><span class="award-number">17.</span> <span class="award-name">Sigma Xi Member</span>, The Scientific Honor Research Society (2025)</p>
+  <p class="award-title-line"><span class="award-number">17.</span> <span class="award-name">Sigma Xi Member</span>, University of New Mexico Chapter (2025)</p>
   <p class="award-description">Elected member of Sigma Xi in recognition of excellence in scientific research.</p>
 </div>
 
@@ -95,7 +95,7 @@ css: custom.css
 </div>
 
 <div class="award-container">
-  <p class="award-title-line"><span class="award-number">10.</span> <span class="award-name">Golden Key International Honour Society Member</span>, The International Collegiate Honor Society (2024)</p>
+  <p class="award-title-line"><span class="award-number">10.</span> <span class="award-name">Golden Key International Honour Society Member</span>, University of New Mexico Chapter (2024)</p>
   <p class="award-description">Induction into an international honor society recognizing the top 15% of the graduating class for academic excellence, leadership, and service.</p>
 </div>
 
