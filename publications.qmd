@@ -11,7 +11,7 @@ css: custom.css
 }
 </style>
 
-## Published/In press
+## Published/In Press
 1. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. [doi.org/978-624-6045-02-9](https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16)
 
 ---
