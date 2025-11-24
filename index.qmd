@@ -4,7 +4,6 @@ description-meta: "Website"
 image: "files/images/Dbaidoo.JPG"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
 
 about:
@@ -12,60 +11,59 @@ about:
   template: trestles
   image-width: 70%
   links:
-
     - icon: envelope
       text: E-mail
       href: mailto:dbaidoo@unm.edu 
-      
+
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=ffB7SWYAAAAJ&hl=en&oi=ao
       target: _blank
+
     - text: "{{< ai researchgate >}} Research Gate"
       href: https://www.researchgate.net/profile/Dennis-Baidoo-4/research
       target: _blank
+
     - text: "{{< ai ORCiD >}} ORCiD"
       href: https://orcid.org/0009-0006-2719-7730
       target: _blank
-    - text: "{{< ai rpubs >}} RPubs"
-      href: https://rpubs.com/BaidooHub
-      target: _blank
+
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/dennisbaidoo1
       target: _blank
-# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-#   - id: recent-posts
-#     contents: 
-#       - posts
-#       - posts/post-links.yml
-#     exclude:
-#       title: ""
-#     type: grid
-#     max-items: 3
-# #    image-height: 150px
-#     page-size: 3 #set same as max-times to remove the page number setting
-#     fields: [image, date, title, subtitle]
-#     max-description-length: 75
-#     sort: 
-#       - "date desc"
-#       - "title asc"
 ---
 
 :::{#hero-heading}
 
+### <!-- This line keeps spacing correct -->
+
+<div class="row mt-4">
+
+<div class="col-md-6">
+
 ## About
-I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods. I earned an M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) in 2025 and a B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) in 2021.  
+I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.  
+I earned an M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) in 2025 and a B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) in 2021.
 
 My research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.  
 
+*When not working on methods or digging into a dataset, I can usually be found either volunteering at ASA or ENAR Conferences, supporting underrepresented groups among high school and college students, or cooking local authentic Ghanaian delicacies.*
+
+</div>
+
+<div class="col-md-6">
+
+<img src="files/images/Dennis-ASA.JPG"
+     alt="Dennis volunteering at ASA"
+     class="img-fluid rounded"
+     style="max-width: 65%; margin-bottom: 8px;">
+
+<div style="font-size: 0.9rem; color: #666;">
+Registration Assistant at 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop
+</div>
+
+</div>
+
+</div>
+
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-<!-- ## Recent Posts -->
-<!-- Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
-
-<!-- :::{#recent-posts} -->
-<!-- ::: -->
-
-<!-- <p align="right">[All Posts »](/posts.qmd)</p> -->

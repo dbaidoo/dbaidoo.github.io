@@ -1,0 +1,25 @@
+---
+title: "Blog Posts"
+listing: 
+  contents: blog
+  type: table
+  sort: "date desc"
+  fields: [date, title, author]
+---
+
+
+| Date      | Title | Author |
+|-----------|-------|--------|
+| 6/21/25   | [Determinants of Pulse Rate Variability in Response to Acute Physical Activity: An Analysis of Classroom Experiment Data](https://rpubs.com/BaidooHub/1324328) | Dennis Baidoo |
+|  6/21/25  | [Determinants of Sleep Duration in the American Time Use Survey](https://rpubs.com/BaidooHub/1324320) | Dennis Baidoo |
+|  6/21/25  | [Analysis of Political Tolerance Among Faculty Ranks: An Analysis of Covariance Approach](https://rpubs.com/BaidooHub/1324436) | Dennis Baidoo |
+|  6/21/25  | [Classification of Wild Razorback Sucker Origins Using PCA and Logistic Regression](https://rpubs.com/BaidooHub/1324288) | Dennis Baidoo |
+|  6/21/25  | [Classification of Razorback Sucker Origins Using Stable Isotope Ratios and Discriminant Analysis](https://rpubs.com/BaidooHub/1324270) | Dennis Baidoo |
+| 6/20/25   | [Predicting Endemic Plant Proportions in the Galapagos Islands Using Logistic Regression](https://rpubs.com/BaidooHub/1324057) | Dennis Baidoo |
+| 6/20/25   | [Principal Components Analysis of New Mexico County-Level Poverty and Housing Characteristics](https://rpubs.com/BaidooHub/1324052) | Dennis Baidoo |
+| 6/20/25   | [Principal Components Analysis of Prehistoric Goblets from Thailand](https://rpubs.com/BaidooHub/1324051) | Dennis Baidoo |
+| 6/4/25   | [Isotopic Clustering Analysis of San Juan River Razorback Suckers](https://rpubs.com/BaidooHub/1318391) | Dennis Baidoo |
+
+
+
+

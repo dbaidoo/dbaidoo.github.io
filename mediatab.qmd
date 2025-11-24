@@ -5,36 +5,136 @@ format:
     toc: true
     toc-title: "On this page"
     theme: cosmo
+    number-sections: false
 ---
 
-A selection of media mentions, features, and recognitions highlighting my work, research, and professional contributions.
+A curated selection of media features, recognitions, and professional highlights showcasing my work, research contributions, and academic impact.
 
 ---
-<style>
-.author-name {
-  color: #8B0000;
-  font-weight: bold;
-}
-</style>
 
 ## Featured Highlights
 
-* **[<span class="author-name">American Statistical Association News – 2025</span>](https://magazine.amstat.org/blog/2025/06/02/awardees/)**
-    * Lester R. Curtin Award – 2025
-    * Recognized among recipients of the **Lester R. Curtin Award** by the American Statistical Association.
+<!-- ===================================================== -->
+<!-- 1. ASA Giving Newsletter 2025 -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
+       style="width:65px;">
+  <h3 style="margin:0;">American Statistical Association – Giving Newsletter (Fall 2025)</h3>
+</div>
 
-* **[<span class="author-name">SIP 2025 Scholarship Award</span>](https://stat4pharma.org/scholarship.html)**
-    * Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut – 2025
-    * Recipient of the **Statistics in Pharmaceuticals Scholarship Award**, supporting graduate students in statistics for pharmaceutical research and offering a platform to present my work to a wider professional audience.
+**Feature:** Listed in the ASA Giving Newsletter: Fall 2025  
+**Highlight:** Recognized for presenting at the ASA Student and Early Career Travel Fund and describing how it supported my JSM 2025 presentation.
 
-* **[<span class="author-name">University of New Mexico Outstanding Student Recognition</span>](https://www.instagram.com/unmafro/p/DJKe6LWvQJe/)**
-    * **Excellence in Teaching** and **Student of the Year** Awards – 2025
-    * Recognized by the University of New Mexico for excellence in teaching, service, leadership, and community engagement.
+🔗 **Reference:**  
+[ASA Giving Newsletter – Fall 2025](https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf)
 
-* **[<span class="author-name">American Statistical Association News – 2024</span>](https://asabiopreport.substack.com/p/transition-report)**
-    * Biopharmaceutical Section Scholarship Award – 2024
-    * The Biopharmaceutical Section of the American Statistical Association recognized a student with the **Biopharmaceutical Section Scholarship Award** based on notable research, academic achievement, and applied project work related to biopharmaceutical statistics. The award also considers overall academic performance, leadership, volunteerism, and service.
+---
 
-* **[<span class="author-name">Zancada Graduate Fellowship</span>](https://research.unm.edu/zancada/)**
-    * Fellowship Recognition – 2024
-    * Awarded the **Zancada Graduate Fellowship** by the University of New Mexico’s Office of the Vice President for Research for excellence in research and leadership.
+<!-- ===================================================== -->
+<!-- 2. ASA News – Curtin Award -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
+       style="width:65px;">
+  <h3 style="margin:0;">The American Statistical Association Celebrates Award Winners (2025)</h3>
+</div>
+
+**Award:** *Lester R. Curtin Award – 2025*  
+**Highlight:** Featured among national award recipients for excellence in applied statistics and professional service.
+
+🔗 **Reference:**  
+[ASA News – 2025 Awardees](https://magazine.amstat.org/blog/2025/06/02/awardees/)
+
+---
+
+<!-- ===================================================== -->
+<!-- 3. SIP Scholarship -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://stat4pharma.org/images/SIP_logo.jpg" 
+       style="width:70px; border-radius:6px;">
+  <h3 style="margin:0;">Statistics in Pharmaceuticals (SIP) Scholarship Award (2025)</h3>
+</div>
+
+**Institution:** University of Connecticut  
+**Highlight:** Recognized for academic excellence and research contributions to pharmaceutical statistics.
+
+🔗 **Reference:**  
+[SIP Scholarship Program](https://stat4pharma.org/scholarship.html)
+
+---
+
+<!-- ===================================================== -->
+<!-- 4. UNM Outstanding Student -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/University_of_New_Mexico.jpeg" 
+       style="width:60px; border-radius:6px;">
+  <h3 style="margin:0;">University of New Mexico Outstanding Student Recognition (2025)</h3>
+</div>
+
+**Awards:**  
+- *Excellence in Teaching – 2025*  
+- *Student of the Year – 2025*
+
+**Highlight:** Honored by the University of New Mexico for excellence in teaching, service, and leadership.
+
+🔗 **Reference:**  
+[UNM Recognition](https://www.instagram.com/unmafro/p/DJKe6LWvQJe/)
+
+---
+
+<!-- ===================================================== -->
+<!-- 5. ASA Biopharm Section -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
+       style="width:65px;">
+  <h3 style="margin:0;">American Statistical Association News (2024)</h3>
+</div>
+
+**Award:** *Biopharmaceutical Section Scholarship Award – 2024*  
+**Highlight:** Featured for receiving the Biopharmaceutical Section Scholarship Award in recognition of research excellence and leadership.
+
+🔗 **Reference:**  
+[ASA Biopharmaceutical Section Transition Report](https://asabiopreport.substack.com/p/transition-report)
+
+---
+
+<!-- ===================================================== -->
+<!-- 6. Zancada Fellowship -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/University_of_New_Mexico.jpeg" 
+       style="width:60px; border-radius:6px;">
+  <h3 style="margin:0;">Zancada Graduate Fellowship (2024)</h3>
+</div>
+
+**Institution:** University of New Mexico, Office of the Vice President for Research  
+**Highlight:** Awarded for excellence in research and leadership.
+
+🔗 **Reference:**  
+[UNM Zancada Fellowship](https://research.unm.edu/zancada/)
+
+---
+
+## 📚 Full Reference List
+
+1. ASA Giving Newsletter – Fall 2025  
+   https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf
+
+2. ASA News – 2025 Awardees  
+   https://magazine.amstat.org/blog/2025/06/02/awardees/
+
+3. SIP Scholarship Program  
+   https://stat4pharma.org/scholarship.html
+
+4. UNM Outstanding Student Recognition  
+   https://www.instagram.com/unmafro/p/DJKe6LWvQJe/
+
+5. ASA Biopharmaceutical Section – Transition Report  
+   https://asabiopreport.substack.com/p/transition-report
+
+6. UNM Zancada Graduate Fellowship  
+   https://research.unm.edu/zancada/

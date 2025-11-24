@@ -14,21 +14,26 @@ css: custom.css
 ## Published/In Press
 1. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. [doi.org/978-624-6045-02-9](https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16)
 
----
+
+## In progress
+
+1. <span class="author-name">Baidoo, D.</span>, et al (2025).  The Causal Effect of Surgical Treatment on Survival in SEER Lung Cancer Patients: A Target Trial Emulation.
+
+2. <span class="author-name">Baidoo, D.</span> & McIver, S. (2025). From Data to Policy: Quantitative Insights on the Mortality Burden of Student Suicide in New Mexico.
 
 ## Under Review
-2. <span class="author-name">Baidoo, D.</span>, Amevor, R., Kubuafor, E., et al (2025, in review). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
+2. <span class="author-name">Baidoo, D.</span>, Amevor, R., Kubuafor, E., et al (2025). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.
 
-3. Kubuafor, E., <span class="author-name">Baidoo, D.</span>, Amevor, R., et al (2025, in review). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis.
+3. Kubuafor, E., <span class="author-name">Baidoo, D.</span>, Amevor, R., et al (2025). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis.
 
-4. Amevor, R., <span class="author-name">Baidoo, D.</span>, Kubuafor, E., et al (2025, in review). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.
+4. Amevor, R., <span class="author-name">Baidoo, D.</span>, Kubuafor, E., et al (2025). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.
   
-5. <span class="author-name">Baidoo, D.</span>, Aboagye, F., Okeke, O. J., et al (2024, in review). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.
+5. <span class="author-name">Baidoo, D.</span>, Aboagye, F., Okeke, O. J., et al (202). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.
   
-6. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Okeke, H. U., et al (2024, in review). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.
+6. Okeke, O. J., <span class="author-name">Baidoo, D.</span>, Okeke, H. U., et al (2024). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.
   
-7. <span class="author-name">Baidoo, D.</span>, Okeke, O. J., Amevor, R., et al (2024, in review). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.
+7. <span class="author-name">Baidoo, D.</span>, Okeke, O. J., Amevor, R., et al (202). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.
   
-8. Okeke, O. J., Enyimaya, R. N., Nwaogu, C., <span class="author-name">Baidoo, D.</span>, et al (2023, in review). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama'are River Basin Using Multivariate Clustering Geostatistical Analysis.
+8. Okeke, O. J., Enyimaya, R. N., Nwaogu, C., <span class="author-name">Baidoo, D.</span>, et al (2023). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama'are River Basin Using Multivariate Clustering Geostatistical Analysis.
   
-9. Okeke, O. J., Nwaogu, C., Oluwadamilare, O. O., <span class="author-name">Baidoo, D.</span>, et al (2023, in review). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches.
+9. Okeke, O. J., Nwaogu, C., Oluwadamilare, O. O., <span class="author-name">Baidoo, D.</span>, et al (2023). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches.

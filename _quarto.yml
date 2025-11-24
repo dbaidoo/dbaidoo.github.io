@@ -12,7 +12,7 @@ website:
   description: "Oustanding Student"
  
   navbar:
-    background: blue  # You can change the background color here
+    background: "#373D43"  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -25,20 +25,24 @@ website:
       #       href: posts.qmd#category=event      
       #     - text: Contact
       #       href: contact.qmd             
-      - text: Research
+      - text: RESEARCH
         href: publications.qmd
           # - text: Selected Papers
           #   href: posts.qmd#category=paper
           # - text: Grants
-          #   href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+          #   href: projects.qmd   
+      - text: BLOG # Comment the Teaching part out to remove the Teaching page
+        href: blog.qmd
+      - text: TEACHING # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
-      - text: Presentations
+      - text: PRESENTATIONS
         href: posts.qmd#category=presentation                   
-      - text: Awards and Honors   # Comment the Group part out to remove the Group page
+      - text: AWARDS AND HONORS   # Comment the Group part out to remove the Group page
         href: Awards.qmd
-      - text: In the Media   # Comment the Group part out to remove the Group page
+      - text: NEWS   # Comment the Group part out to remove the Group page
         href: mediatab.qmd
+      - text: PEOPLE   # Comment the Group part out to remove the Group page
+        href: people.qmd
 
     right: 
       - text: CV
