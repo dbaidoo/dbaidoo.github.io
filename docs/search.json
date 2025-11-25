@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
-    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n      ORCiD\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\n\n\n\n\nI am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nWhen not working on methods or digging into a dataset, I can usually be found volunteering at ASA or ENAR Conferences, supporting underrepresented high school and college students, cooking authentic Ghanaian dishes, or enjoying football—both watching and playing\n\n\n\n\nRegistration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD"
+    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n      ORCiD\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\n\n\n\n\nI am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nOutside of working on methods or exploring datasets, I’m often volunteering at ASA or ENAR conferences, supporting underrepresented high school and college students, cooking authentic Ghanaian dishes, or enjoying football—both watching and playing.\n\n\n\n\nRegistration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD"
   },
   {
     "objectID": "index.html#experience",
@@ -144,7 +144,7 @@
     "href": "index.html#about",
     "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
-    "text": "I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nWhen not working on methods or digging into a dataset, I can usually be found volunteering at ASA or ENAR Conferences, supporting underrepresented high school and college students, cooking authentic Ghanaian dishes, or enjoying football—both watching and playing"
+    "text": "I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nOutside of working on methods or exploring datasets, I’m often volunteering at ASA or ENAR conferences, supporting underrepresented high school and college students, cooking authentic Ghanaian dishes, or enjoying football—both watching and playing."
   },
   {
     "objectID": "teaching.html#introduction-to-statistics",
@@ -425,5 +425,47 @@
     "title": "Algoverse AI Research Fellowship",
     "section": "🎓 My Role in the Fellowship",
     "text": "🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems."
+  },
+  {
+    "objectID": "publications.html#algoverse-ai-research-fellowship",
+    "href": "publications.html#algoverse-ai-research-fellowship",
+    "title": "Research",
+    "section": "Algoverse AI Research Fellowship",
+    "text": "Algoverse AI Research Fellowship\nI am currently an AI Research Fellow with the Algoverse AI Research Program—a global initiative supporting early-career researchers in machine learning, large-scale optimization, and computational science. The program fosters interdisciplinary research and advances ethical, reliable, and socially beneficial AI systems."
+  },
+  {
+    "objectID": "publications.html#about-the-program",
+    "href": "publications.html#about-the-program",
+    "title": "Research",
+    "section": "🔍 About the Program",
+    "text": "🔍 About the Program\nThe Algoverse AI Research Program offers fellows a rich environment for research development, including:\n\nAdvanced instruction in machine learning and optimization\n\nAccess to global mentors and collaborative research teams\n\nTechnical workshops, seminars, and research presentations\n\nStructured support for building impactful research projects\n\nTraining centered around scalable, interpretable, and responsible AI\n\nFellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges."
+  },
+  {
+    "objectID": "publications.html#my-role-in-the-fellowship",
+    "href": "publications.html#my-role-in-the-fellowship",
+    "title": "Research",
+    "section": "🎓 My Role in the Fellowship",
+    "text": "🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems."
+  },
+  {
+    "objectID": "publications.html#research-areas-i-contribute-to",
+    "href": "publications.html#research-areas-i-contribute-to",
+    "title": "Research",
+    "section": "🧠 Research Areas I Contribute To",
+    "text": "🧠 Research Areas I Contribute To\n\nAdaptive and efficient optimization algorithms\n\nHigh-dimensional statistical and computational modeling\n\nAlgorithmic fairness, robustness, and model reliability\n\nIntegration of statistical principles into machine-learning workflows"
+  },
+  {
+    "objectID": "publications.html#goals-within-the-fellowship",
+    "href": "publications.html#goals-within-the-fellowship",
+    "title": "Research",
+    "section": "🏆 Goals Within the Fellowship",
+    "text": "🏆 Goals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI"
+  },
+  {
+    "objectID": "publications.html#official-program-link",
+    "href": "publications.html#official-program-link",
+    "title": "Research",
+    "section": "🔗 Official Program Link",
+    "text": "🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
   }
 ]

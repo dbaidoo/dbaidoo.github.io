@@ -37,12 +37,10 @@ website:
         href: teaching.qmd
       - text: PRESENTATIONS
         href: posts.qmd#category=presentation                   
-      - text: AWARDS/HONORS   # Comment the Group part out to remove the Group page
+      - text: AWARDS & HONORS   # Comment the Group part out to remove the Group page
         href: Awards.qmd
       - text: NEWS   # Comment the Group part out to remove the Group page
         href: mediatab.qmd
-      - text: ALGOVERSE AI   # Comment the Group part out to remove the Group page
-        href: algoverse.qmd
       - text: PEOPLE   # Comment the Group part out to remove the Group page
         href: people.qmd
 
