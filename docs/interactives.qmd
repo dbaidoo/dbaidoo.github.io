@@ -1,7 +1,8 @@
 ---
-title: "Dashboard"
-page-layout: full
----
+title: "Interative Dashboard"
+description-meta: "A comprehensive list of projects"
+css: custom.css
+--
 
 ## Interactive Dashboard
 

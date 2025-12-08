@@ -74,7 +74,7 @@ Prof. Stephenson’s pioneering work in nutrition epidemiology, latent variable 
 <div class="mentor-card">
 <div class="mentor-name">Dr. Rebbecca Wilson</div>
 <div class="mentor-aff">
-Principal Statistician, The Janssen Pharmaceutical Companies of Johnson & Johnson
+Principal Statistician<br>The Janssen Pharmaceutical Companies of Johnson & Johnson
 </div>
 
 <div class="mentor-link">
