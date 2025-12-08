@@ -44,7 +44,7 @@ Instructor, University of New Mexico, Department of Mathematics and Statistics -
 
 :::
 
-## MATH 1512: Calculus I
+## MATH 1512, 1522, & 2531: Calculus I, II, & III
 
 ::: {.grid}
 
@@ -55,14 +55,14 @@ Instructor, University of New Mexico, Department of Mathematics and Statistics -
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html) , &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1512.html)
+[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/index.html) , &nbsp; [Spring 2025](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/index.html)
 
-Instructor, University of New Mexico, African American Student Services - 25 students.
+Instructor, University of New Mexico, African American Student Services - 35 students.
 
 :::
 :::
 
-## STAT 1350: Introduction to Statistics
+## MATH 1350: Introduction to Statistics
 
 ::: {.grid}
 
@@ -72,7 +72,7 @@ Instructor, University of New Mexico, African American Student Services - 25 stu
 :::
 ::: {.g-col-12 .g-col-md-10}
 
-[Summer 2023](https://catalog.unm.edu/catalogs/2021-2022/courses/MATH/1350.html)
+[Summer 2023](https://24-25-enmur.catalog.prod.coursedog.com/courses/MATH1350)
 
 Instructor, Eastern New Mexico University, Department of Nursing- 5 student.
 
