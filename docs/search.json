@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Research Conference Presentations",
     "section": "",
-    "text": "5. Baidoo, D. (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi.\n\n\n\n\n4. Baidoo, D., (2025, August). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the Statistics in Pharmaceuticals (SIP), University of Connecticut.\n\n\n\n\n3. Baidoo, D., & Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.\n\n\n\n\n2. Baidoo, D., & Okeke, O. J. (2023, November). Modelling The Groundwater Potential and Suitability For Irrigation In New Mexico State Using Geospatial MLA and Geostatistical Approaches. The paper was accepted for presentation at the GIS Day, Albuquerque, University of New Mexico.\n\n\n\n\n1. Baidoo, D., & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan."
+    "text": "5. Baidoo, D. (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi."
   },
   {
     "objectID": "publications.html",
@@ -467,5 +467,26 @@
     "title": "Research",
     "section": "🔗 Official Program Link",
     "text": "🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
+  },
+  {
+    "objectID": "Interactives.html",
+    "href": "Interactives.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Below is an external link to an interactive visualization created as part of my ongoing research projects.\nThis dashboard provides an exploratory interface for examining patterns, trends, and analytic outputs that complement the statistical and computational methods used in my work.\n👉 Open Interactive Dashboard"
+  },
+  {
+    "objectID": "Interactives.html#interactive-dashboard",
+    "href": "Interactives.html#interactive-dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Below is an external link to an interactive visualization created as part of my ongoing research projects.\nThis dashboard provides an exploratory interface for examining patterns, trends, and analytic outputs that complement the statistical and computational methods used in my work.\n👉 Open Interactive Dashboard"
+  },
+  {
+    "objectID": "posts.html#recent-and-upcoming-conferences",
+    "href": "posts.html#recent-and-upcoming-conferences",
+    "title": "Research Conference Presentations",
+    "section": "🗓️ Recent and Upcoming Conferences",
+    "text": "🗓️ Recent and Upcoming Conferences\n\nAug 2026: Attending the Joint Statistical Meetings (JSM) and will receive the Norman Beery Memorial Scholarship at the ASA President Speech & Award Night\nMar 2026: Attending the ENAR Spring Meeting\nSept 2025: Travel Award Recipient, South Central Topology Conference IV, Texas A&M University\n\nAug 2025: Presented poster at the Statistics in Pharmaceuticals (SIP) Conference, University of Connecticut\n\nAug 2025: Participated in the Joint Statistical Meetings (JSM)\n\nApr 2025: Attended the ASA Symposium on Data Science & Statistics (SDSS)\n\nMar 2025: Attended the ENAR Spring Meeting\n\nSept 2024: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nAug 2024: Attended the Joint Statistical Meetings (JSM)\n\nOct 2023: Travel Award Recipient, South Central Topology Conference III, New Mexico State University\n\nSept 2023: Travel Award Recipient and Poster Presenter at the Prof. Michael Woodroofe Memorial Conference, University of Michigan\n\nSept 2023: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nSept 2023: Registration Assistant and attendee at the ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop\n\nSept 2023: Served as staff at the Albuquerque Cybersecurity Conference"
   }
 ]

@@ -40,3 +40,22 @@ css: custom.css
 <div class="presentation-item">
   <p><span class="presentation-number">1.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan.</p>
 </div>
+
+## 🗓️ Recent and Upcoming Conferences
+
+
+- **Aug 2026:** Attending the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span> and will receive the **Norman Beery Memorial Scholarship** at the ASA President Speech & Award Night
+- **Mar 2026:** Attending the <span style="color:#8B0000; font-weight:bold">ENAR Spring Meeting</span>
+- **Sept 2025:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference IV</span>, Texas A&M University  
+- **Aug 2025:** Presented poster at the <span style="color:#8B0000; font-weight:bold">Statistics in Pharmaceuticals (SIP) Conference</span>, University of Connecticut  
+- **Aug 2025:** Participated in the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span>  
+- **Apr 2025:** Attended the <span style="color:#8B0000; font-weight:bold">ASA Symposium on Data Science & Statistics (SDSS)</span>  
+- **Mar 2025:** Attended the <span style="color:#8B0000; font-weight:bold">ENAR Spring Meeting</span>  
+- **Sept 2024:** Reviewer, <span style="color:#8B0000; font-weight:bold">Ronald E. McNair Scholars Research Competition Conference</span>  
+- **Aug 2024:** Attended the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span>  
+- **Oct 2023:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference III</span>, New Mexico State University  
+- **Sept 2023:** Travel Award Recipient and Poster Presenter at the <span style="color:#8B0000; font-weight:bold">Prof. Michael Woodroofe Memorial Conference</span>, University of Michigan  
+- **Sept 2023:** Reviewer, <span style="color:#8B0000; font-weight:bold">Ronald E. McNair Scholars Research Competition Conference</span>  
+- **Sept 2023:** Registration Assistant and attendee at the <span style="color:#8B0000; font-weight:bold">ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop</span>  
+- **Sept 2023:** Served as staff at the <span style="color:#8B0000; font-weight:bold">Albuquerque Cybersecurity Conference</span>  
+

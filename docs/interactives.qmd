@@ -1,0 +1,12 @@
+---
+title: "Dashboard"
+page-layout: full
+---
+
+## Interactive Dashboard
+
+Below is an external link to an interactive visualization created as part of my ongoing research projects.  
+This dashboard provides an exploratory interface for examining patterns, trends, and analytic outputs that complement the statistical and computational methods used in my work.
+
+👉 **[Open Interactive Dashboard](https://rpubs.com/BaidooHub/1377993)**
+
