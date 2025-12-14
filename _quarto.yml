@@ -9,41 +9,27 @@ author-meta: "Dennis Baidoo"
 website:
   title: "Dennis Baidoo"
   image: "files/images/PIWC.JPG"
-  description: "Oustanding Student"
+  description: "Outstanding Student"
  
   navbar:
-    background: "#373D43"  # You can change the background color here
+    background: "#373D43"
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
-      # - text: About
-      #   menu:
-      #     - text: News
-      #       href: posts.qmd#category=news
-      #     - text: Events
-      #       href: posts.qmd#category=event      
-      #     - text: Contact
-      #       href: contact.qmd             
+    left:
       - text: RESEARCH
         href: publications.qmd
-          # - text: Selected Papers
-          #   href: posts.qmd#category=paper
-          # - text: Grants
-          #   href: projects.qmd   
-      - text: BLOG # Comment the Teaching part out to remove the Teaching page
+      - text: BLOG
         href: blog.qmd
-      - text: TEACHING # Comment the Teaching part out to remove the Teaching page
+      - text: TEACHING
         href: teaching.qmd
       - text: PRESENTATIONS
         href: posts.qmd                 
-      - text: AWARDS & HONORS   # Comment the Group part out to remove the Group page
+      - text: AWARDS & HONORS
         href: Awards.qmd
-      - text: NEWS   # Comment the Group part out to remove the Group page
+      - text: NEWS
         href: mediatab.qmd
-      - text: PEOPLE   # Comment the Group part out to remove the Group page
+      - text: PEOPLE
         href: people.qmd
-    
+  
 
     right: 
       - text: CV
@@ -51,7 +37,6 @@ website:
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
-     
   
   page-navigation: true
   
@@ -62,36 +47,32 @@ website:
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
-      
-      
   
   search:
     location: navbar
     type: textbox
   
   reader-mode: true
-
   draft-mode: unlinked
   
   repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
   
   open-graph: true
-  
   twitter-card: true 
-#  card-style: summary      
   
   site-url: "https://drganghe.github.io/quarto-academic-website-template"
   
   google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
+    tracking-id: ""
     anonymize-ip: true 
 
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
     footnotes-hover: true
@@ -104,4 +85,3 @@ format:
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-
