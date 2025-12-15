@@ -72,66 +72,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', '', { 'anonymize_ip': true});
-</script>
-
-
-<!-- 
-
-Load Academicons v1: https://jpswalsh.github.io/academicons/
-
--->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-
-
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-
-
-
-
-<!---
-
-The following code are needed to show dimension citation and altmetrics.
-
-https://api.altmetric.com/embeds.html
-
-https://badge.dimensions.ai/
-
---->
-
-
-
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
-
-
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="custom.css">
-<meta property="og:title" content="Research – Dennis Baidoo">
-<meta property="og:description" content="Outstanding Student">
-<meta property="og:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/PIWC.JPG">
-<meta property="og:site_name" content="Dennis Baidoo">
-<meta name="twitter:title" content="Research – Dennis Baidoo">
-<meta name="twitter:description" content="Outstanding Student">
-<meta name="twitter:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/PIWC.JPG">
-<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -588,7 +532,7 @@ https://badge.dimensions.ai/
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -602,11 +546,6 @@ https://badge.dimensions.ai/
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -928,7 +867,7 @@ https://badge.dimensions.ai/
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Built with <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto</a>, adapted from <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+<p>Built with Quarto</p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
