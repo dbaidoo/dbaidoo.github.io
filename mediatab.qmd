@@ -8,11 +8,29 @@ format:
     number-sections: false
 ---
 
-A curated selection of media features, recognitions, and professional highlights showcasing my work, research contributions, and academic impact.
+A curated selection of media features, recognitions, and professional highlights reflecting my academic journey, research contributions, teaching, and service.
 
 ---
 
 ## Featured Highlights
+
+<!-- ===================================================== -->
+<!-- 3. ASA Norman Beery Memorial Scholarship -->
+<!-- ===================================================== -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
+       style="width:65px;">
+  <h3 style="margin:0;">American Statistical Association – 2026 Award Recognition</h3>
+</div>
+
+**Award:** *Norman Beery Memorial Scholarship – 2026*  
+**Highlight:** Featured among ASA award recipients and selected for the Norman Beery Memorial Scholarship, which supports first-generation college students pursuing studies in statistics.
+
+🔗 **References:**  
+[ASA News – 2026 Awardees](https://magazine.amstat.org/blog/2026/06/01/2026-awards/)  
+[Norman Beery Memorial Scholarship](https://www.amstat.org/your-career/awards/norman-beery-memorial-scholarship)
+
+---
 
 <!-- ===================================================== -->
 <!-- 1. ASA Giving Newsletter 2025 -->
@@ -23,8 +41,8 @@ A curated selection of media features, recognitions, and professional highlights
   <h3 style="margin:0;">American Statistical Association – Giving Newsletter (Fall 2025)</h3>
 </div>
 
-**Feature:** Listed in the ASA Giving Newsletter: Fall 2025  
-**Highlight:** Recognized for presenting at the ASA Student and Early Career Travel Fund and describing how it supported my JSM 2025 presentation.
+**Feature:** ASA Giving Newsletter: Fall 2025  
+**Highlight:** Featured for sharing my experience at the 2025 Joint Statistical Meetings (JSM) and highlighting the impact of the ASA Student and Early Career Travel Fund in supporting student participation and professional development.
 
 🔗 **Reference:**  
 [ASA Giving Newsletter – Fall 2025](https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf)
@@ -41,7 +59,7 @@ A curated selection of media features, recognitions, and professional highlights
 </div>
 
 **Award:** *Lester R. Curtin Award – 2025*  
-**Highlight:** Featured among national award recipients for excellence in applied statistics and professional service.
+**Highlight:** Featured among ASA award recipients recognized for contributions and promise in the field of statistics.
 
 🔗 **Reference:**  
 [ASA News – 2025 Awardees](https://magazine.amstat.org/blog/2025/06/02/awardees/)
@@ -58,10 +76,10 @@ A curated selection of media features, recognitions, and professional highlights
 </div>
 
 **Institution:** University of Connecticut  
-**Highlight:** Recognized for academic excellence and research contributions to pharmaceutical statistics.
+**Highlight:** Selected for scholarship support to participate in professional development and training focused on pharmaceutical statistics and applications in drug development.
 
 🔗 **Reference:**  
-[SIP Scholarship Program](https://stat4pharma.org/scholarship.html)
+[SIP Scholarship](https://stat4pharma.org/events/sip2025/scholarship.html)
 
 ---
 
@@ -78,7 +96,7 @@ A curated selection of media features, recognitions, and professional highlights
 - *Excellence in Teaching – 2025*  
 - *Student of the Year – 2025*
 
-**Highlight:** Honored by the University of New Mexico for excellence in teaching, service, and leadership.
+**Highlight:** Honored by the University of New Mexico for contributions to teaching, student engagement, leadership, and service.
 
 🔗 **Reference:**  
 [UNM Recognition](https://www.instagram.com/unmafro/p/DJKe6LWvQJe/)
@@ -95,7 +113,7 @@ A curated selection of media features, recognitions, and professional highlights
 </div>
 
 **Award:** *Biopharmaceutical Section Scholarship Award – 2024*  
-**Highlight:** Featured for receiving the Biopharmaceutical Section Scholarship Award in recognition of research excellence and leadership.
+**Highlight:** Featured as a recipient of the ASA Biopharmaceutical Section Scholarship Award supporting emerging statisticians pursuing research and professional development in biopharmaceutical statistics.
 
 🔗 **Reference:**  
 [ASA Biopharmaceutical Section Transition Report](https://asabiopreport.substack.com/p/transition-report)
@@ -112,29 +130,9 @@ A curated selection of media features, recognitions, and professional highlights
 </div>
 
 **Institution:** University of New Mexico, Office of the Vice President for Research  
-**Highlight:** Awarded for excellence in research and leadership.
+**Highlight:** Awarded in support of graduate research, scholarly development, and academic achievement.
 
 🔗 **Reference:**  
 [UNM Zancada Fellowship](https://research.unm.edu/zancada/)
 
 ---
-
-## 📚 Full Reference List
-
-1. ASA Giving Newsletter – Fall 2025  
-   https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf
-
-2. ASA News – 2025 Awardees  
-   https://magazine.amstat.org/blog/2025/06/02/awardees/
-
-3. SIP Scholarship Program  
-   https://stat4pharma.org/scholarship.html
-
-4. UNM Outstanding Student Recognition  
-   https://www.instagram.com/unmafro/p/DJKe6LWvQJe/
-
-5. ASA Biopharmaceutical Section – Transition Report  
-   https://asabiopreport.substack.com/p/transition-report
-
-6. UNM Zancada Graduate Fellowship  
-   https://research.unm.edu/zancada/

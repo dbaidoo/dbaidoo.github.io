@@ -47,7 +47,7 @@ website:
 
     right: 
       - text: CV
-        href: files/Dennis.Baidoo_CV.pdf
+        href: files/Dennis.Baidoo_CV_osu.pdf
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank

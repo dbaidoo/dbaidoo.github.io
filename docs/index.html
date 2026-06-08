@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,13 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cdad308b20a4bc2964113c1d205342dc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-64cbef237ebb8fc6fe14b1f3fb987053.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -79,44 +80,26 @@ gtag('js', new Date());
 gtag('config', '', { 'anonymize_ip': true});
 </script>
 
-
 <!-- 
-
 Load Academicons v1: https://jpswalsh.github.io/academicons/
-
 -->
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-
 
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 
-
-
-
 <!---
-
 The following code are needed to show dimension citation and altmetrics.
-
 https://api.altmetric.com/embeds.html
-
 https://badge.dimensions.ai/
-
 --->
-
-
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-
-
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-
-
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="6ae4bc85-a01f-4090-ab87-a6f14639441d"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -135,6 +118,8 @@ https://badge.dimensions.ai/
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Dennis Baidoo</span>
     </a>
@@ -176,7 +161,7 @@ https://badge.dimensions.ai/
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/Dennis.Baidoo_CV.pdf"> 
+    <a class="nav-link" href="./files/Dennis.Baidoo_CV_osu.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -245,9 +230,8 @@ https://badge.dimensions.ai/
 <div class="row mt-4">
 <section id="about" class="level2 col-md-6">
 <h2 data-anchor-id="about">About</h2>
-<p>I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.<br>
-I earned an M.S. in Statistics from the <a href="https://www.unm.edu/">University of New Mexico</a> in 2025 and a B.Sc. double major in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a> in 2021.</p>
-<p>My research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.</p>
+<p>I am a Ph.D.&nbsp;student in Biostatistics at <a href="https://www.osu.edu/">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
+<p>I earned my M.S. in Statistics from the <a href="https://www.unm.edu/">University of New Mexico</a> and my B.Sc. double major in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a>. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.</p>
 <p><em>Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.</em></p>
 </section>
 <div class="col-md-6">
@@ -309,13 +293,14 @@ I earned an M.S. in Statistics from the <a href="https://www.unm.edu/">Universit
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

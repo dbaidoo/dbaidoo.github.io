@@ -1,374 +1,10 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Research Conference Presentations",
-    "section": "",
-    "text": "5. Baidoo, D. (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Research",
-    "section": "",
-    "text": "Published/In Press\n\nOkeke, O. J., Baidoo, D., Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. doi.org/978-624-6045-02-9\n\n\n\nIn progress\n\nBaidoo, D., et al (2025). The Causal Effect of Surgical Treatment on Survival in SEER Lung Cancer Patients: A Target Trial Emulation.\nBaidoo, D. & McIver, S. (2025). From Data to Policy: Quantitative Insights on the Mortality Burden of Student Suicide in New Mexico.\n\n\n\nUnder Review\n\nBaidoo, D., Amevor, R., Kubuafor, E., et al (2025). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.\nKubuafor, E., Baidoo, D., Amevor, R., et al (2025). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis.\nAmevor, R., Baidoo, D., Kubuafor, E., et al (2025). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.   \nBaidoo, D., Aboagye, F., Okeke, O. J., et al (202). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.   \nOkeke, O. J., Baidoo, D., Okeke, H. U., et al (2024). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.   \nBaidoo, D., Okeke, O. J., Amevor, R., et al (202). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.   \nOkeke, O. J., Enyimaya, R. N., Nwaogu, C., Baidoo, D., et al (2023). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama’are River Basin Using Multivariate Clustering Geostatistical Analysis.   \nOkeke, O. J., Nwaogu, C., Oluwadamilare, O. O., Baidoo, D., et al (2023). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches.\n\n\n\nAlgoverse AI Research Fellowship\nI am currently an AI Research Fellow with the Algoverse AI Research Program—a global initiative supporting early-career researchers in machine learning, large-scale optimization, and computational science. The program fosters interdisciplinary research and advances ethical, reliable, and socially beneficial AI systems.\n\n\n🔍 About the Program\nThe Algoverse AI Research Program offers fellows a rich environment for research development, including:\n\nAdvanced instruction in machine learning and optimization\n\nAccess to global mentors and collaborative research teams\n\nTechnical workshops, seminars, and research presentations\n\nStructured support for building impactful research projects\n\nTraining centered around scalable, interpretable, and responsible AI\n\nFellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges.\n\n\n🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems.\n\n\n🧠 Research Areas I Contribute To\n\nAdaptive and efficient optimization algorithms\n\nHigh-dimensional statistical and computational modeling\n\nAlgorithmic fairness, robustness, and model reliability\n\nIntegration of statistical principles into machine-learning workflows\n\n\n\n🏆 Goals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI\n\n🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Spring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025,  Fall 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 500+ students."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "—",
-    "section": "",
-    "text": "—\n\n\ntitle: “Contact”\n\n\ndescription-meta: “Reach out to me with questions and comments”\n\n\ntitle-block-banner: false\n\n\n—"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dennis Baidoo, M.S, GStat",
-    "section": "",
-    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n      ORCiD\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\n\n\n\n\nI am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nOutside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.\n\n\n\n\nRegistration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Dennis Baidoo, M.S, GStat",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Dennis Baidoo, M.S, GStat",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Dennis Baidoo, M.S, GStat",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "My Mentors",
-    "section": "",
-    "text": "1.\n\n\nProf. Ofer Harel\n\n\nProfessor & Dean of the College of Liberal Arts and Sciences University of Connecticut\n\n\n🔗 Website: https://ofer-harel.uconn.edu/\n\nImpact on my journey:\nProf. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.\n\n\n\n\n2.\n\n\nProf. Briana Joy K. Stephenson\n\n\nAssistant Professor of Biostatistics Harvard T.H. Chan School of Public Health\n\n\n🔗 Profile: https://hsph.harvard.edu/profile/briana-joy-k-stephenson/\n\nImpact on my journey:\nProf. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.\n\n\n\n\n3.\n\n\nDr. Rebbecca Wilson\n\n\nPrincipal StatisticianThe Janssen Pharmaceutical Companies of Johnson & Johnson\n\n\n🔗 LinkedIn: View Profile\n\nImpact on my journey:\nDr. Wilson has provided invaluable academic mentorship, career guidance, and personal support—especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.\n\n\n\n\n4.\n\n\nDr. Stephanie McIver\n\n\nExecutive Director of Student Health & Counseling (SHAC) University of New Mexico\n\n\n🔗 Profile: SHAC Staff Page\n\nImpact on my journey:\nDr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service. Involving me in her ongoing research projects made a huge difference in my journey.\n\n\n\n\n5.\n\n\nDr. Enoch Sakyi-Yeboah\n\n\nSenior Lecturer, Department of Statistics & Actuarial Science University of Ghana\n\n\n🔗 Profile: UG Profile\n\nImpact on my journey:\nDr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies."
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Dennis Baidoo, M.S, GStat",
-    "section": "",
-    "text": "I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.\nI earned an M.S. in Statistics from the University of New Mexico in 2025 and a B.Sc. double major in Mathematics and Statistics from the University of Ghana in 2021.\nMy research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.\nOutside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture."
-  },
-  {
-    "objectID": "teaching.html#introduction-to-statistics",
-    "href": "teaching.html#introduction-to-statistics",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#introduction-to-statistics.",
-    "href": "teaching.html#introduction-to-statistics.",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#introduction-t",
-    "href": "teaching.html#introduction-t",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#math-1350-introduction-to-statistics",
-    "href": "teaching.html#math-1350-introduction-to-statistics",
-    "title": "Teaching",
-    "section": "",
-    "text": "Spring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025,  Fall 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 500+ students."
-  },
-  {
-    "objectID": "teaching.html#math-1300-statistical-literacy",
-    "href": "teaching.html#math-1300-statistical-literacy",
-    "title": "Teaching",
-    "section": "MATH 1300: Statistical Literacy",
-    "text": "MATH 1300: Statistical Literacy\n\n\n\n\n\nFall 2024\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 43 students."
-  },
-  {
-    "objectID": "teaching.html#stat-445-regression-analysi",
-    "href": "teaching.html#stat-445-regression-analysi",
-    "title": "Teaching",
-    "section": "STAT 445: Regression Analysi",
-    "text": "STAT 445: Regression Analysi\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "teaching.html#math-1512-calculus-i",
-    "href": "teaching.html#math-1512-calculus-i",
-    "title": "Teaching",
-    "section": "MATH 1512: Calculus I",
-    "text": "MATH 1512: Calculus I\n\n\n\n\n\nSummer 2023 ,   Spring 2025\nInstructor, University of New Mexico, African American Student Services - 25 students."
-  },
-  {
-    "objectID": "teaching.html#stat-445-regression-analysis",
-    "href": "teaching.html#stat-445-regression-analysis",
-    "title": "Teaching",
-    "section": "STAT 445: Regression Analysis",
-    "text": "STAT 445: Regression Analysis\n\n\n\n\n\nFall 2021\nTeaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students."
-  },
-  {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Awards",
-    "section": "",
-    "text": "\\textbf{2025} - Lester R. Curtin Award, American Statistical Association \\\\ \\textbf{2025} - Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut \\\\ \\textbf{2025} - Early Career Travel Award, American Statistical Association \\\\ \\textbf{2025} - Sigma Xi Honoree, The Scientific Honor Research Society \\\\ \\textbf{2025} - Excellence in Teaching Award, University of New Mexico \\\\ \\textbf{2024} - Biopharmaceutical Section Student Scholarship Award, American Statistical Association \\\\ \\textbf{2024} - Diversity Mentoring Program Award, Joint Statistical Meetings \\\\ \\textbf{2024} - Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico \\\\ \\textbf{2024} - Ackiom Diversity Scholarship Award, Ackiom \\\\ \\textbf{2024} - Golden Key International Honour Society Honoree, The International Collegiate Honor Society \\\\ \\textbf{2024} - Graduate Scholarship Fund Grant, University of New Mexico \\\\ \\textbf{2023/25} - The South Central Topology Conference IV Travel Award, Texas A \\& M University \\\\ \\textbf{2023/25} - Professional Development Grant, University of New Mexico \\\\ \\textbf{2023/25} - Project for New Mexico Graduates of Color Scholarship, University of New Mexico \\\\ \\textbf{2023} - Scholarship of Teaching \\& Learning Award, University of New Mexico \\\\ \\textbf{2023} - Michael Woodroofe Memorial Conference Travel Award, University of Michigan \\\\ \\textbf{2023} - Student Research Grant, University of New Mexico \\\\ \\textbf{2021} - Dean's Honor List, University of Ghana"
-  },
-  {
-    "objectID": "Awards.html",
-    "href": "Awards.html",
-    "title": "Awards and Honors",
-    "section": "",
-    "text": "22. Norman Beery Memorial Scholarship, American Statistical Association (2025)\n\n\nAnnual scholarship supporting first-generation college students in statistics, established in honor of veteran and railroad worker Norman Beery, providing financial assistance to advance their education.\n\n\n\n\n21. Lester R. Curtin Award, American Statistical Association (2025)\n\n\nAnnual award providing promising young health statisticians with financial support for conference registration, travel, and continuing education courses.\n\n\n\n\n20. Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut (2025)\n\n\nScholarship supporting graduate students in statistics for pharmaceutical research, providing opportunities for conference participation and professional development.\n\n\n\n\n19. Joint Statistical Meetings Student Travel Award, American Statistical Association (2025)\n\n\nTravel award supporting student participation at the Joint Statistical Meetings through funding for registration, travel, and professional development opportunities.\n\n\n\n\n18. Statistics and Data Science Symposium Student Travel Award, American Statistical Association (2025)\n\n\nTravel award supporting student participation at the Statistics and Data Science Symposium through funding for registration, travel, and professional development opportunities.\n\n\n\n\n17. Sigma Xi Member, University of New Mexico Chapter (2025)\n\n\nElected member of Sigma Xi in recognition of excellence in scientific research.\n\n\n\n\n16. The South Central Topology Conference IV Travel Award, Texas A&M University (2025)\n\n\nSupport for student travel to present research at the South Central Topology Conference IV, Texas A&M University.\n\n\n\n\n15. Excellence in Teaching Award, University of New Mexico (2025)\n\n\nAward recognizing outstanding performance and commitment to excellence in teaching.\n\n\n\n\n14. Biopharmaceutical Section Student Scholarship Award, American Statistical Association (2024)\n\n\nRecognizes notable research, academic achievement, and applied project work in biopharmaceutical statistics, with additional consideration given to overall academic performance, leadership, volunteerism, and service. Selected as the sole master’s student among nine other elite PhD candidates.\n\n\n\n\n13. Diversity Mentoring Program Award, Joint Statistical Meetings (2024)\n\n\nAward supporting participation in the Diversity Mentoring Program, fostering mentorship, professional development, and networking for early-career statisticians.\n\n\n\n\n12. Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico (2024)\n\n\nFellowship program fostering a cohort of future leaders in science, technology, humanities, and the arts, with “Zancada” — Spanish for stride — symbolizing preparation to pursue interdisciplinary, actionable, and meaningful solutions to global challenges.\n\n\n\n\n11. Acxiom Diversity Scholarship Award, Acxiom (2024)\n\n\nScholarship providing tuition support, stipends, and books to promote diversity in data science and related fields.\n\n\n\n\n10. Golden Key International Honour Society Member, University of New Mexico Chapter (2024)\n\n\nInduction into an international honor society recognizing the top 15% of the graduating class for academic excellence, leadership, and service.\n\n\n\n\n9. Graduate Scholarship Fund Grant, University of New Mexico (2024)\n\n\nGrant providing support for tuition and books to advance graduate education.\n\n\n\n\n8. The South Central Topology Conference III Travel Award, New Mexico State University (2023)\n\n\nSupport for student travel to participate in the South Central Topology Conference III, fostering research exchange and professional development.\n\n\n\n\n7. Professional Development Grant, University of New Mexico (2023-2025)\n\n\nGrant providing support for professional development through attendance at academic conferences.\n\n\n\n\n6. Project for New Mexico Graduates of Color Scholarship, University of New Mexico (2023-2025)\n\n\nProgram providing mentoring, guidance, and professional development opportunities to promote diversity in statistics and data science.\n\n\n\n\n5. Scholarship of Teaching & Learning Award, University of New Mexico (2023)\n\n\nRecognition for advancing teaching and learning through scholarly inquiry, innovation, and reflective practice in the classroom.\n\n\n\n\n4. Prof. Michael Woodroofe Memorial Conference Travel Award, University of Michigan (2023)\n\n\nSupport for student travel to present research at the Prof. Michael Woodroofe Memorial Conference, fostering professional development and collaboration in statistics.\n\n\n\n\n3. Student Research Grant, University of New Mexico (2023)\n\n\nGrant support to present research on adolescent obesity, fostering professional growth and dissemination of findings.\n\n\n\n\n2. Dean’s Honor List, University of Ghana (2021)\n\n\nRecognition for achieving high academic performance and maintaining excellence in coursework.\n\n\n\n\n1. Overall Best Student in HIV/AIDS Prevention Competition, Gomoa West Education District (2012)\n\n\nRecognition as the overall best student in an HIV/AIDS prevention competition for knowledge, awareness, and advocacy."
-  },
-  {
-    "objectID": "mediatab.html",
-    "href": "mediatab.html",
-    "title": "In the Media",
-    "section": "",
-    "text": "A curated selection of media features, recognitions, and professional highlights showcasing my work, research contributions, and academic impact."
-  },
-  {
-    "objectID": "mediatab.html#math-1350-introduction-to-statistics",
-    "href": "mediatab.html#math-1350-introduction-to-statistics",
-    "title": "Teaching",
-    "section": "",
-    "text": "Spring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 300+ students."
-  },
-  {
-    "objectID": "mediatab.html#math-1300-statistical-literacy",
-    "href": "mediatab.html#math-1300-statistical-literacy",
-    "title": "Teaching",
-    "section": "MATH 1300: Statistical Literacy",
-    "text": "MATH 1300: Statistical Literacy\n\n\n\n\n\nFall 2024\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 43 students."
-  },
-  {
-    "objectID": "mediatab.html#math-1512-calculus-i",
-    "href": "mediatab.html#math-1512-calculus-i",
-    "title": "Teaching",
-    "section": "MATH 1512: Calculus I",
-    "text": "MATH 1512: Calculus I\n\n\n\n\n\nSummer 2023\nInstructor, University of New Mexico, African American Student Services - 16 students."
-  },
-  {
-    "objectID": "mediatab.html#stat-445-regression-analysis",
-    "href": "mediatab.html#stat-445-regression-analysis",
-    "title": "Teaching",
-    "section": "STAT 445: Regression Analysis",
-    "text": "STAT 445: Regression Analysis\n\n\n\n\n\nFall 2021\nTeaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students."
-  },
-  {
-    "objectID": "mediatab.html#featured-highlights",
-    "href": "mediatab.html#featured-highlights",
-    "title": "In the Media",
-    "section": "Featured Highlights",
-    "text": "Featured Highlights\n\n\n\n\n\n\nAmerican Statistical Association – Giving Newsletter (Fall 2025)\n\n\nFeature: Listed in the ASA Giving Newsletter: Fall 2025\nHighlight: Recognized for presenting at the ASA Student and Early Career Travel Fund and describing how it supported my JSM 2025 presentation.\n🔗 Reference:\nASA Giving Newsletter – Fall 2025\n\n\n\n\n\n\n\nThe American Statistical Association Celebrates Award Winners (2025)\n\n\nAward: Lester R. Curtin Award – 2025\nHighlight: Featured among national award recipients for excellence in applied statistics and professional service.\n🔗 Reference:\nASA News – 2025 Awardees\n\n\n\n\n\n\n\nStatistics in Pharmaceuticals (SIP) Scholarship Award (2025)\n\n\nInstitution: University of Connecticut\nHighlight: Recognized for academic excellence and research contributions to pharmaceutical statistics.\n🔗 Reference:\nSIP Scholarship Program\n\n\n\n\n\n\n\nUniversity of New Mexico Outstanding Student Recognition (2025)\n\n\nAwards:\n- Excellence in Teaching – 2025\n- Student of the Year – 2025\nHighlight: Honored by the University of New Mexico for excellence in teaching, service, and leadership.\n🔗 Reference:\nUNM Recognition\n\n\n\n\n\n\n\nAmerican Statistical Association News (2024)\n\n\nAward: Biopharmaceutical Section Scholarship Award – 2024\nHighlight: Featured for receiving the Biopharmaceutical Section Scholarship Award in recognition of research excellence and leadership.\n🔗 Reference:\nASA Biopharmaceutical Section Transition Report\n\n\n\n\n\n\n\nZancada Graduate Fellowship (2024)\n\n\nInstitution: University of New Mexico, Office of the Vice President for Research\nHighlight: Awarded for excellence in research and leadership.\n🔗 Reference:\nUNM Zancada Fellowship"
-  },
-  {
-    "objectID": "mediatab.html#american-statistical-association-news-2025",
-    "href": "mediatab.html#american-statistical-association-news-2025",
-    "title": "In the Media",
-    "section": "American Statistical Association News – 2025",
-    "text": "American Statistical Association News – 2025\n\n\n\n\n\nAmerican Statistical Association News – 2025\nLester R. Curtin Award – 2025\nRecognized among recipients of the Lester R. Curtin Award by the American Statistical Association."
-  },
-  {
-    "objectID": "mediatab.html#sip-2025-scholarship-award",
-    "href": "mediatab.html#sip-2025-scholarship-award",
-    "title": "In the Media",
-    "section": "SIP 2025 Scholarship Award",
-    "text": "SIP 2025 Scholarship Award\n\n\n\n\n\nSIP 2025 Scholarship Award\nStatistics in Pharmaceuticals Scholarship Awardee – 2025\nRecipient of the Statistics in Pharmaceuticals Scholarship Award, supporting graduate students in statistics for pharmaceutical research."
-  },
-  {
-    "objectID": "mediatab.html#university-of-new-mexico-outstanding-student-recognition",
-    "href": "mediatab.html#university-of-new-mexico-outstanding-student-recognition",
-    "title": "In the Media",
-    "section": "University of New Mexico Outstanding Student Recognition",
-    "text": "University of New Mexico Outstanding Student Recognition\n\n\n\n\n\nUniversity of New Mexico Outstanding Student Recognition\nExcellence in Teaching and Student of the Year Awards – 2025\nHighlighted by University of New Mexico for receiving the outstanding teaching, service, leadership, and campus-wide community engagements."
-  },
-  {
-    "objectID": "mediatab.html#american-statistical-association-news-2024",
-    "href": "mediatab.html#american-statistical-association-news-2024",
-    "title": "In the Media",
-    "section": "American Statistical Association News – 2024",
-    "text": "American Statistical Association News – 2024\n\n\n\n\n\nAmerican Statistical Association News – 2024\nBiopharmaceutical Section Scholarship Awardee – 2024\nBiopharmaceutical Section of the American Statistical Association to recognize student through the Biopharmaceutical Section Scholarship Award based on notable research, academic achievement, and applied project work related to biopharmaceutical statistics. The award also consider general academic performance, leadership, volunteering, and service."
-  },
-  {
-    "objectID": "mediatab.html#zancada-graduate-fellowship-2024",
-    "href": "mediatab.html#zancada-graduate-fellowship-2024",
-    "title": "In the Media",
-    "section": "Zancada Graduate Fellowship – 2024",
-    "text": "Zancada Graduate Fellowship – 2024\n\n\n\n\n\nZancada Graduate Fellowship\nFellowship Recognition – 2024\nAwarded the Zancada Graduate Fellowship by the University of New Mexico’s Office of the Vice President for Research for excellence in research and leadership."
-  },
-  {
-    "objectID": "teaching.html#stat-1350-introduction-to-statistics",
-    "href": "teaching.html#stat-1350-introduction-to-statistics",
-    "title": "Teaching",
-    "section": "STAT 1350: Introduction to Statistics",
-    "text": "STAT 1350: Introduction to Statistics\n\n\n\n\n\nSummer 2023\nInstructor, Eastern New Mexico University, Department of Nursing- 5 student."
-  },
-  {
-    "objectID": "MyUpdate.html",
-    "href": "MyUpdate.html",
-    "title": "Untitled",
-    "section": "",
-    "text": "git add . git commit -m “Initial commit” git push —"
-  },
-  {
-    "objectID": "publications.html#publishedin-press",
-    "href": "publications.html#publishedin-press",
-    "title": "Research",
-    "section": "",
-    "text": "Okeke, O. J., Baidoo, D., Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. doi.org/978-624-6045-02-9"
-  },
-  {
-    "objectID": "publications.html#under-review",
-    "href": "publications.html#under-review",
-    "title": "Research",
-    "section": "Under Review",
-    "text": "Under Review\n\nBaidoo, D., Amevor, R., Kubuafor, E., et al (2025). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.\nKubuafor, E., Baidoo, D., Amevor, R., et al (2025). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis.\nAmevor, R., Baidoo, D., Kubuafor, E., et al (2025). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.   \nBaidoo, D., Aboagye, F., Okeke, O. J., et al (202). Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis.   \nOkeke, O. J., Baidoo, D., Okeke, H. U., et al (2024). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation.   \nBaidoo, D., Okeke, O. J., Amevor, R., et al (202). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks.   \nOkeke, O. J., Enyimaya, R. N., Nwaogu, C., Baidoo, D., et al (2023). Irrigation Agriculture Potential Areas Extraction in Hadejia Jama’are River Basin Using Multivariate Clustering Geostatistical Analysis.   \nOkeke, O. J., Nwaogu, C., Oluwadamilare, O. O., Baidoo, D., et al (2023). Modelling the Groundwater Potential and Suitability for Irrigation in New Mexico State Using Geospatial, MLA and Geostatistical Approaches."
-  },
-  {
-    "objectID": "posts.html#research-conference-presentations",
-    "href": "posts.html#research-conference-presentations",
-    "title": "Research Conference Presentations",
-    "section": "",
-    "text": "Baidoo, D., & Okeke, O. J. (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi.\nBaidoo, D., (2025, August). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the Statistics in Pharmaceuticals (SIP), University of Connecticut.\nBaidoo, D., & Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.\nBaidoo, D., & Okeke, O. J. (2023, November). Modelling The Groundwater Potential and Suitability For Irrigation In New Mexico State Using Geospatial MLA and Geostatistical Approaches. The paper was accepted for presentation at the GIS Day, Albuquerque, University of New Mexico.\nBaidoo, D., & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan."
-  },
-  {
-    "objectID": "mediatab.html#full-reference-list",
-    "href": "mediatab.html#full-reference-list",
-    "title": "In the Media",
-    "section": "📚 Full Reference List",
-    "text": "📚 Full Reference List\n\nASA Giving Newsletter – Fall 2025\nhttps://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf\nASA News – 2025 Awardees\nhttps://magazine.amstat.org/blog/2025/06/02/awardees/\nSIP Scholarship Program\nhttps://stat4pharma.org/scholarship.html\nUNM Outstanding Student Recognition\nhttps://www.instagram.com/unmafro/p/DJKe6LWvQJe/\nASA Biopharmaceutical Section – Transition Report\nhttps://asabiopreport.substack.com/p/transition-report\nUNM Zancada Graduate Fellowship\nhttps://research.unm.edu/zancada/"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog Posts",
     "section": "",
     "text": "Date\nTitle\nAuthor\n\n\n\n\n12/8/25\nProjected 3D array: Age category, Tumor size and HR; Cox model on SEER cohort; top faces color-coded by hazard ratio\nDennis Baidoo\n\n\n6/21/25\nDeterminants of Pulse Rate Variability in Response to Acute Physical Activity: An Analysis of Classroom Experiment Data\nDennis Baidoo\n\n\n6/21/25\nDeterminants of Sleep Duration in the American Time Use Survey\nDennis Baidoo\n\n\n6/21/25\nAnalysis of Political Tolerance Among Faculty Ranks: An Analysis of Covariance Approach\nDennis Baidoo\n\n\n6/21/25\nClassification of Wild Razorback Sucker Origins Using PCA and Logistic Regression\nDennis Baidoo\n\n\n6/21/25\nClassification of Razorback Sucker Origins Using Stable Isotope Ratios and Discriminant Analysis\nDennis Baidoo\n\n\n6/20/25\nPredicting Endemic Plant Proportions in the Galapagos Islands Using Logistic Regression\nDennis Baidoo\n\n\n6/20/25\nPrincipal Components Analysis of New Mexico County-Level Poverty and Housing Characteristics\nDennis Baidoo\n\n\n6/20/25\nPrincipal Components Analysis of Prehistoric Goblets from Thailand\nDennis Baidoo\n\n\n6/4/25\nIsotopic Clustering Analysis of San Juan River Razorback Suckers\nDennis Baidoo\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nDate\nTitle\nAuthor\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog.html#blog-posts",
-    "href": "blog.html#blog-posts",
-    "title": "Blog Posts",
-    "section": "",
-    "text": "Date\nTitle\nAuthor\n\n\n\n\n1/20/25\nMachine Learning Evaluation of West Nile Virus Outbreak\nDennis Baidoo\n\n\n12/14/24\nBayesian Hierarchical Modeling of Cervical Dystonia Trials\nDennis Baidoo\n\n\n11/30/24\nForecasting U.S. Preterm Birth Rates Using ARIMA & NNAR Models\nDennis Baidoo\n\n\n10/05/24\nSuicide Risk Prediction Using LASSO Logistic Regression\nDennis Baidoo\n\n\n9/14/24\nSpatial Analysis of West Nile Virus in the United States\nDennis Baidoo"
-  },
-  {
-    "objectID": "publications.html#in-progress",
-    "href": "publications.html#in-progress",
-    "title": "Research",
-    "section": "In progress",
-    "text": "In progress\n\nBaidoo, D., et al (2025). The Causal Effect of Surgical Treatment on Survival in SEER Lung Cancer Patients: A Target Trial Emulation.\nBaidoo, D. & McIver, S. (2025). From Data to Policy: Quantitative Insights on the Mortality Burden of Student Suicide in New Mexico."
-  },
-  {
-    "objectID": "people.html#acknowledgment",
-    "href": "people.html#acknowledgment",
-    "title": "My Mentors",
-    "section": "",
-    "text": "I am deeply grateful for the mentorship, guidance, and unwavering support I have received from the remarkable individuals listed below. Their leadership, expertise, and encouragement continue to shape my academic and professional growth."
-  },
-  {
-    "objectID": "people.html#mentors",
-    "href": "people.html#mentors",
-    "title": "My Mentors",
-    "section": "",
-    "text": "Prof. Ofer Harel\n\n\nProfessor & Dean of the College of Liberal Arts and Sciences University of Connecticut\n\n\n🔗 Website: https://ofer-harel.uconn.edu/\n\nImpact on my journey:\nProf. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.\n\n\n\n\n\n\n\nProf. Briana Joy K. Stephenson\n\n\nAssistant Professor of Biostatistics Harvard T.H. Chan School of Public Health\n\n\n🔗 Profile: https://hsph.harvard.edu/profile/briana-joy-k-stephenson/\n\nImpact on my journey:\nProf. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.\n\n\n\n\n\n\n\nDr. Rebbecca Wilson\n\n\nPrincipal Statistician, The Janssen Pharmaceutical Companies of Johnson & Johnson\n\n\n🔗 LinkedIn: View Profile\n\nImpact on my journey:\nDr. Wilson has provided invaluable academic mentorship, career guidance, and personal support—especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.\n\n\n\n\n\n\n\nDr. Stephanie McIver\n\n\nExecutive Director of Student Health & Counseling University of New Mexico (SHAC)\n\n\n🔗 Profile: SHAC Staff Page\n\nImpact on my journey:\nDr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service.\n\n\n\n\n\n\n\nDr. Enoch Sakyi-Yeboah\n\n\nSenior Lecturer, Department of Statistics & Actuarial Science University of Ghana\n\n\n🔗 Profile: UG Profile\n\nImpact on my journey:\nDr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies."
   },
   {
     "objectID": "algoverse.html",
@@ -385,11 +21,11 @@
     "text": "🔍 About the Program\nThe Algoverse AI Research Program offers fellows a rich environment for research development, including:\n\nAdvanced instruction in machine learning and optimization\n\nAccess to global mentors and collaborative research teams\n\nTechnical workshops, seminars, and research presentations\n\nStructured support for building impactful research projects\n\nTraining centered around scalable, interpretable, and responsible AI\n\nFellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges."
   },
   {
-    "objectID": "algoverse.html#my-role-as-an-ai-research-fellow",
-    "href": "algoverse.html#my-role-as-an-ai-research-fellow",
+    "objectID": "algoverse.html#my-role-in-the-fellowship",
+    "href": "algoverse.html#my-role-in-the-fellowship",
     "title": "Algoverse AI Research Fellowship",
-    "section": "🧠 My Role as an AI Research Fellow",
-    "text": "🧠 My Role as an AI Research Fellow\nMy work as a Fellow focuses on the development and evaluation of scalable optimization and machine-learning methodologies tailored for high-dimensional, computationally intensive settings. These efforts align closely with my broader research agenda in:\n\nBayesian modeling and computational inference\n\nOptimization algorithms for modern machine learning systems\n\nAI applications in public health, epidemiology, and biomedical modeling\n\nI regularly contribute to collaborative research discussions, methodological development, and applied problem-solving within the Algoverse community."
+    "section": "🎓 My Role in the Fellowship",
+    "text": "🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems."
   },
   {
     "objectID": "algoverse.html#research-areas-i-contribute-to",
@@ -399,11 +35,11 @@
     "text": "🧠 Research Areas I Contribute To\n\nAdaptive and efficient optimization algorithms\n\nHigh-dimensional statistical and computational modeling\n\nAlgorithmic fairness, robustness, and model reliability\n\nIntegration of statistical principles into machine-learning workflows"
   },
   {
-    "objectID": "algoverse.html#goals-within-the-program",
-    "href": "algoverse.html#goals-within-the-program",
+    "objectID": "algoverse.html#goals-within-the-fellowship",
+    "href": "algoverse.html#goals-within-the-fellowship",
     "title": "Algoverse AI Research Fellowship",
-    "section": "🏆 Goals Within the Program",
-    "text": "🏆 Goals Within the Program\nThrough this fellowship, I aim to:\n\nStrengthen my theoretical foundation in modern AI optimization\n\nApply computational methods to real-world biomedical and public health challenges\n\nCollaborate with interdisciplinary teams through Algoverse’s global network\n\nProduce high-impact research suitable for publication\n\nDevelop tools and applications that support equitable and interpretable AI"
+    "section": "🏆 Goals Within the Fellowship",
+    "text": "🏆 Goals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI"
   },
   {
     "objectID": "algoverse.html#official-program-link",
@@ -413,81 +49,67 @@
     "text": "🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
   },
   {
-    "objectID": "algoverse.html#goals-within-the-fellowship",
-    "href": "algoverse.html#goals-within-the-fellowship",
-    "title": "Algoverse AI Research Fellowship",
-    "section": "🏆 Goals Within the Fellowship",
-    "text": "🏆 Goals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI"
-  },
-  {
-    "objectID": "algoverse.html#my-role-in-the-fellowship",
-    "href": "algoverse.html#my-role-in-the-fellowship",
-    "title": "Algoverse AI Research Fellowship",
-    "section": "🎓 My Role in the Fellowship",
-    "text": "🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems."
-  },
-  {
-    "objectID": "publications.html#algoverse-ai-research-fellowship",
-    "href": "publications.html#algoverse-ai-research-fellowship",
-    "title": "Research",
-    "section": "Algoverse AI Research Fellowship",
-    "text": "Algoverse AI Research Fellowship\nI am currently an AI Research Fellow with the Algoverse AI Research Program—a global initiative supporting early-career researchers in machine learning, large-scale optimization, and computational science. The program fosters interdisciplinary research and advances ethical, reliable, and socially beneficial AI systems."
-  },
-  {
-    "objectID": "publications.html#about-the-program",
-    "href": "publications.html#about-the-program",
-    "title": "Research",
-    "section": "🔍 About the Program",
-    "text": "🔍 About the Program\nThe Algoverse AI Research Program offers fellows a rich environment for research development, including:\n\nAdvanced instruction in machine learning and optimization\n\nAccess to global mentors and collaborative research teams\n\nTechnical workshops, seminars, and research presentations\n\nStructured support for building impactful research projects\n\nTraining centered around scalable, interpretable, and responsible AI\n\nFellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges."
-  },
-  {
-    "objectID": "publications.html#my-role-in-the-fellowship",
-    "href": "publications.html#my-role-in-the-fellowship",
-    "title": "Research",
-    "section": "🎓 My Role in the Fellowship",
-    "text": "🎓 My Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems."
-  },
-  {
-    "objectID": "publications.html#research-areas-i-contribute-to",
-    "href": "publications.html#research-areas-i-contribute-to",
-    "title": "Research",
-    "section": "🧠 Research Areas I Contribute To",
-    "text": "🧠 Research Areas I Contribute To\n\nAdaptive and efficient optimization algorithms\n\nHigh-dimensional statistical and computational modeling\n\nAlgorithmic fairness, robustness, and model reliability\n\nIntegration of statistical principles into machine-learning workflows"
-  },
-  {
-    "objectID": "publications.html#goals-within-the-fellowship",
-    "href": "publications.html#goals-within-the-fellowship",
-    "title": "Research",
-    "section": "🏆 Goals Within the Fellowship",
-    "text": "🏆 Goals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI"
-  },
-  {
-    "objectID": "publications.html#official-program-link",
-    "href": "publications.html#official-program-link",
-    "title": "Research",
-    "section": "🔗 Official Program Link",
-    "text": "🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
-  },
-  {
-    "objectID": "Interactives.html",
-    "href": "Interactives.html",
-    "title": "Dashboard",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "My Mentors",
     "section": "",
-    "text": "Below is an external link to an interactive visualization created as part of my ongoing research projects.\nThis dashboard provides an exploratory interface for examining patterns, trends, and analytic outputs that complement the statistical and computational methods used in my work.\n👉 Open Interactive Dashboard"
+    "text": "1.\n\n\nProf. Ofer Harel\n\n\nProfessor & Dean of the College of Liberal Arts and Sciences University of Connecticut\n\n\n🔗 Website: https://ofer-harel.uconn.edu/\n\nImpact on my journey:\nProf. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.\n\n\n\n\n2.\n\n\nProf. Briana Joy K. Stephenson\n\n\nAssistant Professor of Biostatistics Harvard T.H. Chan School of Public Health\n\n\n🔗 Profile: https://hsph.harvard.edu/profile/briana-joy-k-stephenson/\n\nImpact on my journey:\nProf. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.\n\n\n\n\n3.\n\n\nDr. Rebbecca Wilson\n\n\nPrincipal StatisticianThe Janssen Pharmaceutical Companies of Johnson & Johnson\n\n\n🔗 LinkedIn: View Profile\n\nImpact on my journey:\nDr. Wilson has provided invaluable academic mentorship, career guidance, and personal support—especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.\n\n\n\n\n4.\n\n\nDr. Stephanie McIver\n\n\nExecutive Director of Student Health & Counseling (SHAC) University of New Mexico\n\n\n🔗 Profile: SHAC Staff Page\n\nImpact on my journey:\nDr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service. Involving me in her ongoing research projects made a huge difference in my journey.\n\n\n\n\n5.\n\n\nDr. Enoch Sakyi-Yeboah\n\n\nSenior Lecturer, Department of Statistics & Actuarial Science University of Ghana\n\n\n🔗 Profile: UG Profile\n\nImpact on my journey:\nDr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies."
   },
   {
-    "objectID": "Interactives.html#interactive-dashboard",
-    "href": "Interactives.html#interactive-dashboard",
-    "title": "Dashboard",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dennis Baidoo, M.S, GStat",
     "section": "",
-    "text": "Below is an external link to an interactive visualization created as part of my ongoing research projects.\nThis dashboard provides an exploratory interface for examining patterns, trends, and analytic outputs that complement the statistical and computational methods used in my work.\n👉 Open Interactive Dashboard"
+    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n      ORCiD\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\n\n\n\n\nI am a Ph.D. student in Biostatistics at The Ohio State University, with a background in statistics, mathematics, and data-driven approaches to scientific research.\nI earned my M.S. in Statistics from the University of New Mexico and my B.Sc. double major in Mathematics and Statistics from the University of Ghana. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.\nOutside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.\n\n\n\n\nRegistration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD"
   },
   {
-    "objectID": "posts.html#recent-and-upcoming-conferences",
-    "href": "posts.html#recent-and-upcoming-conferences",
-    "title": "Research Conference Presentations",
-    "section": "🗓️ Recent and Upcoming Conferences",
-    "text": "🗓️ Recent and Upcoming Conferences\n\nAug 2026: Attending the Joint Statistical Meetings (JSM) and will receive the Norman Beery Memorial Scholarship at the ASA President Speech & Award Night\nMar 2026: Attending the ENAR Spring Meeting\nSept 2025: Travel Award Recipient, South Central Topology Conference IV, Texas A&M University\n\nAug 2025: Presented poster at the Statistics in Pharmaceuticals (SIP) Conference, University of Connecticut\n\nAug 2025: Participated in the Joint Statistical Meetings (JSM)\n\nApr 2025: Attended the ASA Symposium on Data Science & Statistics (SDSS)\n\nMar 2025: Attended the ENAR Spring Meeting\n\nSept 2024: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nAug 2024: Attended the Joint Statistical Meetings (JSM)\n\nOct 2023: Travel Award Recipient, South Central Topology Conference III, New Mexico State University\n\nSept 2023: Travel Award Recipient and Poster Presenter at the Prof. Michael Woodroofe Memorial Conference, University of Michigan\n\nSept 2023: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nSept 2023: Registration Assistant and attendee at the ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop\n\nSept 2023: Served as staff at the Albuquerque Cybersecurity Conference"
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Dennis Baidoo, M.S, GStat",
+    "section": "",
+    "text": "I am a Ph.D. student in Biostatistics at The Ohio State University, with a background in statistics, mathematics, and data-driven approaches to scientific research.\nI earned my M.S. in Statistics from the University of New Mexico and my B.Sc. double major in Mathematics and Statistics from the University of Ghana. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.\nOutside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2026\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 36 students."
+  },
+  {
+    "objectID": "teaching.html#math-1215-intermediate-algebra",
+    "href": "teaching.html#math-1215-intermediate-algebra",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2026\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 36 students."
+  },
+  {
+    "objectID": "teaching.html#math-1350-introduction-to-statistics",
+    "href": "teaching.html#math-1350-introduction-to-statistics",
+    "title": "Teaching",
+    "section": "MATH 1350: Introduction to Statistics",
+    "text": "MATH 1350: Introduction to Statistics\n\n\n\n\n\nSpring 2023,   Fall 2023,   Spring 2024, Summer 2024,   Spring 2025,  Summer 2025,  Fall 2025\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 500+ students."
+  },
+  {
+    "objectID": "teaching.html#math-1300-statistical-literacy",
+    "href": "teaching.html#math-1300-statistical-literacy",
+    "title": "Teaching",
+    "section": "MATH 1300: Statistical Literacy",
+    "text": "MATH 1300: Statistical Literacy\n\n\n\n\n\nFall 2024\nInstructor, University of New Mexico, Department of Mathematics and Statistics - 43 students."
+  },
+  {
+    "objectID": "teaching.html#math-1512-1522-2531-calculus-i-ii-iii",
+    "href": "teaching.html#math-1512-1522-2531-calculus-i-ii-iii",
+    "title": "Teaching",
+    "section": "MATH 1512, 1522, & 2531: Calculus I, II, & III",
+    "text": "MATH 1512, 1522, & 2531: Calculus I, II, & III\n\n\n\n\n\nSummer 2023 ,   Spring 2025\nInstructor, University of New Mexico, African American Student Services - 35 students."
   },
   {
     "objectID": "teaching.html#math-1350-introduction-to-statistics-1",
@@ -497,10 +119,87 @@
     "text": "MATH 1350: Introduction to Statistics\n\n\n\n\n\nSummer 2023\nInstructor, Eastern New Mexico University, Department of Nursing- 5 student."
   },
   {
-    "objectID": "teaching.html#math-1512-1522-2531-calculus-i-ii-iii",
-    "href": "teaching.html#math-1512-1522-2531-calculus-i-ii-iii",
+    "objectID": "teaching.html#stat-445-regression-analysis",
+    "href": "teaching.html#stat-445-regression-analysis",
     "title": "Teaching",
-    "section": "MATH 1512, 1522, & 2531: Calculus I, II, & III",
-    "text": "MATH 1512, 1522, & 2531: Calculus I, II, & III\n\n\n\n\n\nSummer 2023 ,   Spring 2025\nInstructor, University of New Mexico, African American Student Services - 35 students."
+    "section": "STAT 445: Regression Analysis",
+    "text": "STAT 445: Regression Analysis\n\n\n\n\n\nFall 2021\nTeaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "Awards.html",
+    "href": "Awards.html",
+    "title": "Awards and Honors",
+    "section": "",
+    "text": "25. Norman Beery Memorial Scholarship, American Statistical Association (2026)\n\n\nAnnual scholarship supporting first-generation college students in statistics, established in honor of veteran and railroad worker Norman Beery, providing financial assistance to advance their education.\n\n\n\n\n24. University Fellowship, The Ohio State University (2026)\n\n\nAwarded university fellowship support recognizing academic achievement and potential for success in doctoral study and research.\n\n\n\n\n23. NISS Writing Workshop for Junior Researchers Travel Award, National Institute of Statistical Sciences (2026)\n\n\nSelected for travel support to participate in a professional development workshop focused on scientific writing, journal publication, grant writing, reproducibility, and research communication with guidance from senior researchers and editors.\n\n\n\n\n22. Teaching Statistical Thinking with GAISE Workshop Travel Award, NSF-Funded EAPOST Program (2026)\n\n\nSelected for travel support to participate in a faculty development workshop focused on effective statistics and data science education, emphasizing statistical thinking, the statistical investigation process, multivariable thinking, and simulation-based inference.\n\n\n\n\n21. Lester R. Curtin Award, American Statistical Association (2025)\n\n\nAnnual award providing promising young health statisticians with financial support for conference registration, travel, and continuing education courses.\n\n\n\n\n20. Statistics in Pharmaceuticals (SIP) Scholarship Award, University of Connecticut (2025)\n\n\nScholarship supporting graduate students in statistics for pharmaceutical research, providing opportunities for conference participation and professional development.\n\n\n\n\n19. Joint Statistical Meetings Student Travel Award, American Statistical Association (2025)\n\n\nTravel award supporting student participation at the Joint Statistical Meetings through funding for registration, travel, and professional development opportunities.\n\n\n\n\n18. Statistics and Data Science Symposium Student Travel Award, American Statistical Association (2025)\n\n\nTravel award supporting student participation at the Statistics and Data Science Symposium through funding for registration, travel, and professional development opportunities.\n\n\n\n\n17. Sigma Xi Member, University of New Mexico Chapter (2025)\n\n\nElected member of Sigma Xi in recognition of excellence in scientific research.\n\n\n\n\n16. The South Central Topology Conference IV Travel Award, Texas A&M University (2025)\n\n\nSupport for student travel to present research at the South Central Topology Conference IV, Texas A&M University.\n\n\n\n\n15. Excellence in Teaching Award, University of New Mexico (2025)\n\n\nAward recognizing outstanding performance and commitment to excellence in teaching.\n\n\n\n\n14. Biopharmaceutical Section Student Scholarship Award, American Statistical Association (2024)\n\n\nRecognizes notable research, academic achievement, and applied project work in biopharmaceutical statistics, with additional consideration given to overall academic performance, leadership, volunteerism, and service. Selected as the sole master’s student among nine other elite PhD candidates.\n\n\n\n\n13. Diversity Mentoring Program Award, Joint Statistical Meetings (2024)\n\n\nAward supporting participation in the Diversity Mentoring Program, fostering mentorship, professional development, and networking for early-career statisticians.\n\n\n\n\n12. Office of the Vice President for Research Zancada Graduate Fellowship, University of New Mexico (2024)\n\n\nFellowship program fostering a cohort of future leaders in science, technology, humanities, and the arts, with “Zancada” — Spanish for stride — symbolizing preparation to pursue interdisciplinary, actionable, and meaningful solutions to global challenges.\n\n\n\n\n11. Acxiom Diversity Scholarship Award, Acxiom (2024)\n\n\nScholarship providing tuition support, stipends, and books to promote diversity in data science and related fields.\n\n\n\n\n10. Golden Key International Honour Society Member, University of New Mexico Chapter (2024)\n\n\nInduction into an international honor society recognizing the top 15% of the graduating class for academic excellence, leadership, and service.\n\n\n\n\n9. Graduate Scholarship Fund Grant, University of New Mexico (2024)\n\n\nGrant providing support for tuition and books to advance graduate education.\n\n\n\n\n8. The South Central Topology Conference III Travel Award, New Mexico State University (2023)\n\n\nSupport for student travel to participate in the South Central Topology Conference III, fostering research exchange and professional development.\n\n\n\n\n7. Professional Development Grant, University of New Mexico (2023-2025)\n\n\nGrant providing support for professional development through attendance at academic conferences.\n\n\n\n\n6. Project for New Mexico Graduates of Color Scholarship, University of New Mexico (2023-2025)\n\n\nProgram providing mentoring, guidance, and professional development opportunities to promote diversity in statistics and data science.\n\n\n\n\n5. Scholarship of Teaching & Learning Award, University of New Mexico (2023)\n\n\nRecognition for advancing teaching and learning through scholarly inquiry, innovation, and reflective practice in the classroom.\n\n\n\n\n4. Prof. Michael Woodroofe Memorial Conference Travel Award, University of Michigan (2023)\n\n\nSupport for student travel to present research at the Prof. Michael Woodroofe Memorial Conference, fostering professional development and collaboration in statistics.\n\n\n\n\n3. Student Research Grant, University of New Mexico (2023)\n\n\nGrant support to present research on adolescent obesity, fostering professional growth and dissemination of findings.\n\n\n\n\n2. Dean’s Honor List, University of Ghana (2021)\n\n\nRecognition for achieving high academic performance and maintaining excellence in coursework.\n\n\n\n\n1. Overall Best Student in HIV/AIDS Prevention Competition, Gomoa West Education District (2012)\n\n\nRecognition as the overall best student in an HIV/AIDS prevention competition for knowledge, awareness, and advocacy."
+  },
+  {
+    "objectID": "MyUpdate.html",
+    "href": "MyUpdate.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "git add . git commit -m “Initial commit” git push —"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research",
+    "section": "",
+    "text": "Published/In Press\n\nOkeke, O. J., Baidoo, D., Frimpong, J.A., et al (2023). Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models. doi.org/978-624-6045-02-9\n\n\n\nPreprints\n\nAmevor, R., Kubuafor, E., Baidoo, D. (2026). Adaptive Weighting for Time-to-Event Continual Reassessment Method: Improving Safety in Phase I Dose-Finding Through Data-Driven Delay Distribution Estimation. arXiv:2602.19012\nAmevor, R., Baidoo, D., Kubuafor, E. (2026). Time-Varying Hazard Patterns and Co-Mutation Profiles of KRAS G12C and G12D in Real-World NSCLC. arXiv:2602.19295\nOkeke, O. J., Nelson, U. E., Nwaogu, C., Oladoyin, O. O., Kubuafor, E., Baidoo, D., Akinyemi, T., Ajeyomi, A. S., Idris, R. A., Fabunmi, I. A. (2025). Assessing the Influence of Locational Suitability on the Spatial Distribution of Household Wealth in Bernalillo County, NM. arXiv:2510.11048\nKubuafor, E., Baidoo, D., Amevor, R., et al (2025). Latent spatial heterogeneity in U.S. cancer mortality: A multi-site clustering and spatial autocorrelation analysis. Submitted to MedLIFE 2025 Proceedings (Springer Nature ASTI Book Series). arXiv:2508.12188\nBaidoo, D., Amevor, R., Kubuafor, E., et al (2025). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Submitted to MedLIFE 2025 Proceedings (Springer Nature ASTI Book Series). arXiv:2508.15762\nKubuafor, E., Baidoo, D., Amevor, R., et al (2024). Evaluation of Time Series Forecasting Models for Predicting Lung Cancer Mortality Rates in the United States: A Comparison with Altuhaifa’s (2023) Study. Submitted to MedLIFE 2024 Proceedings (Springer Nature ASTI Book Series). arXiv:2508.16052\nAmevor, R., Baidoo, D., Kubuafor, E., et al (2025). Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data. arXiv:2508.16740\nBaidoo, D., Aboagye, F., Okeke, O. J., et al (2025). Comparing Malaria Trends in the Comoros Islands: ARIMA Modeling and Retrospective Analysis. arXiv:2508.16018\n\n\n\nIn Progress\n\nBaidoo, D. (2026). Multi-Dimensional and Subtype-Specific Variation in Angiogenesis and Its Association with Survival in Breast Cancer.\nBaidoo, D. & McIver, S. (2025). From Data to Policy: Quantitative Insights on the Mortality Burden of Student Suicide in New Mexico.\nBaidoo, D., Okeke, O. J., Amevor, R., et al (2024). Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks. Submitted to EMCEI 2024 Proceedings (Springer Nature ASTI Book Series).\nOkeke, O. J., Baidoo, D., Okeke, H. U., et al (2024). Modelling the Spatial Distribution of West Nile Virus in New Mexico: A Five-Year Study Employing Poisson, Geometric, Quartile Normalization and Mean Squared Error Evaluation. Submitted to EMCEI 2024 Proceedings (Springer Nature ASTI Book Series).\n\n\n\nAlgoverse AI Research Fellowship\nI am currently an AI Research Fellow with the Algoverse AI Research Program—a global initiative supporting early-career researchers in machine learning, large-scale optimization, and computational science. The program fosters interdisciplinary research and advances ethical, reliable, and socially beneficial AI systems.\n\n\nAbout the Program\nThe Algoverse AI Research Program offers fellows a rich environment for research development, including:\n\nAdvanced instruction in machine learning and optimization\n\nAccess to global mentors and collaborative research teams\n\nTechnical workshops, seminars, and research presentations\n\nStructured support for building impactful research projects\n\nTraining centered around scalable, interpretable, and responsible AI\n\nFellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges.\n\n\nMy Role in the Fellowship\nAs an AI Research Fellow, my work focuses on:\n\nOptimization techniques for large-scale machine learning systems\n\nAI applications in public health and epidemiological modeling\n\nI integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems.\n\n\nResearch Areas I Contribute To\n\nAdaptive and efficient optimization algorithms\n\nHigh-dimensional statistical and computational modeling\n\nAlgorithmic fairness, robustness, and model reliability\n\nIntegration of statistical principles into machine-learning workflows\n\n\n\nGoals Within the Fellowship\nThrough this fellowship, I aim to:\n\nStrengthen my foundation in advanced optimization and modern AI methods\n\nBuild computational tools for public health and biomedical research\n\nCollaborate with interdisciplinary researchers within the Algoverse network\n\nContribute to open scientific communities through applied AI research\n\nDevelop publishable, high-impact academic work supporting equitable and transparent AI\n\n🔗 Official Program Link\n👉 Visit the Algoverse AI Research Program"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Research Presentations and Contributed Talks",
+    "section": "",
+    "text": "2. Baidoo, D. (2026, April). Beyond the Formula: Transitioning Students from Passive Repetition to Active Quantitative Reasoning. Contributed talk presented at the University of New Mexico Spring Teaching Conference.\n\n\n\n\n1. Baidoo, D. (2024, May). Crossing Academic Borders: Navigating Teaching in the U.S. as an International Student. Contributed talk presented at the Center for Teaching and Learning, University of New Mexico, Albuquerque, New Mexico."
+  },
+  {
+    "objectID": "posts.html#recent-and-upcoming-conferences",
+    "href": "posts.html#recent-and-upcoming-conferences",
+    "title": "Research Presentations and Contributed Talks",
+    "section": "🗓️ Recent and Upcoming Conferences",
+    "text": "🗓️ Recent and Upcoming Conferences\n\nAug 2026: Attending the Joint Statistical Meetings (JSM) and will receive the Norman Beery Memorial Scholarship at the ASA President Speech & Award Night\nSept 2025: Travel Award Recipient, South Central Topology Conference IV, Texas A&M University\n\nAug 2025: Presented poster at the Statistics in Pharmaceuticals (SIP) Conference, University of Connecticut\n\nAug 2025: Participated in the Joint Statistical Meetings (JSM)\n\nApr 2025: Attended the ASA Symposium on Data Science & Statistics (SDSS)\n\nMar 2025: Attended the ENAR Spring Meeting\n\nSept 2024: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nAug 2024: Attended the Joint Statistical Meetings (JSM)\n\nOct 2023: Travel Award Recipient, South Central Topology Conference III, New Mexico State University\n\nSept 2023: Travel Award Recipient and Poster Presenter at the Prof. Michael Woodroofe Memorial Conference, University of Michigan\n\nSept 2023: Reviewer, Ronald E. McNair Scholars Research Competition Conference\n\nSept 2023: Registration Assistant and attendee at the ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop\n\nSept 2023: Served as staff at the Albuquerque Cybersecurity Conference"
+  },
+  {
+    "objectID": "mediatab.html",
+    "href": "mediatab.html",
+    "title": "In the Media",
+    "section": "",
+    "text": "A curated selection of media features, recognitions, and professional highlights reflecting my academic journey, research contributions, teaching, and service."
+  },
+  {
+    "objectID": "mediatab.html#featured-highlights",
+    "href": "mediatab.html#featured-highlights",
+    "title": "In the Media",
+    "section": "Featured Highlights",
+    "text": "Featured Highlights\n\n\n\n\n\n\nAmerican Statistical Association – 2026 Award Recognition\n\n\nAward: Norman Beery Memorial Scholarship – 2026\nHighlight: Featured among ASA award recipients and selected for the Norman Beery Memorial Scholarship, which supports first-generation college students pursuing studies in statistics.\n🔗 References:\nASA News – 2026 Awardees\nNorman Beery Memorial Scholarship\n\n\n\n\n\n\n\nAmerican Statistical Association – Giving Newsletter (Fall 2025)\n\n\nFeature: ASA Giving Newsletter: Fall 2025\nHighlight: Featured for sharing my experience at the 2025 Joint Statistical Meetings (JSM) and highlighting the impact of the ASA Student and Early Career Travel Fund in supporting student participation and professional development.\n🔗 Reference:\nASA Giving Newsletter – Fall 2025\n\n\n\n\n\n\n\nThe American Statistical Association Celebrates Award Winners (2025)\n\n\nAward: Lester R. Curtin Award – 2025\nHighlight: Featured among ASA award recipients recognized for contributions and promise in the field of statistics.\n🔗 Reference:\nASA News – 2025 Awardees\n\n\n\n\n\n\n\nStatistics in Pharmaceuticals (SIP) Scholarship Award (2025)\n\n\nInstitution: University of Connecticut\nHighlight: Selected for scholarship support to participate in professional development and training focused on pharmaceutical statistics and applications in drug development.\n🔗 Reference:\nSIP Scholarship\n\n\n\n\n\n\n\nUniversity of New Mexico Outstanding Student Recognition (2025)\n\n\nAwards:\n- Excellence in Teaching – 2025\n- Student of the Year – 2025\nHighlight: Honored by the University of New Mexico for contributions to teaching, student engagement, leadership, and service.\n🔗 Reference:\nUNM Recognition\n\n\n\n\n\n\n\nAmerican Statistical Association News (2024)\n\n\nAward: Biopharmaceutical Section Scholarship Award – 2024\nHighlight: Featured as a recipient of the ASA Biopharmaceutical Section Scholarship Award supporting emerging statisticians pursuing research and professional development in biopharmaceutical statistics.\n🔗 Reference:\nASA Biopharmaceutical Section Transition Report\n\n\n\n\n\n\n\nZancada Graduate Fellowship (2024)\n\n\nInstitution: University of New Mexico, Office of the Vice President for Research\nHighlight: Awarded in support of graduate research, scholarly development, and academic achievement.\n🔗 Reference:\nUNM Zancada Fellowship"
   }
 ]

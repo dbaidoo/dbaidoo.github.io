@@ -1,8 +1,21 @@
 ---
-title: "Research Conference Presentations"
+title: "Research Presentations and Contributed Talks"
 description-meta: "Information, pdfs, and social metrics of papers"
 css: custom.css
 ---
+
+
+### Contributed Talks
+
+<div class="presentation-item">
+  <p><span class="presentation-number">2.</span> <span class="author-name">Baidoo, D.</span> (2026, April). Beyond the Formula: Transitioning Students from Passive Repetition to Active Quantitative Reasoning. Contributed talk presented at the University of New Mexico Spring Teaching Conference.</p>
+</div>
+
+<div class="presentation-item">
+  <p><span class="presentation-number">1.</span> <span class="author-name">Baidoo, D.</span> (2024, May). Crossing Academic Borders: Navigating Teaching in the U.S. as an International Student. Contributed talk presented at the Center for Teaching and Learning, University of New Mexico, Albuquerque, New Mexico.</p>
+</div>
+
+### Poster Presentation
 
 <style>
 /* Custom CSS to style the list exactly as you want it */
@@ -33,9 +46,6 @@ css: custom.css
   <p><span class="presentation-number">3.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.</p>
 </div>
 
-<div class="presentation-item">
-  <p><span class="presentation-number">2.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2023, November). Modelling The Groundwater Potential and Suitability For Irrigation In New Mexico State Using Geospatial MLA and Geostatistical Approaches. The paper was accepted for presentation at the GIS Day, Albuquerque, University of New Mexico.</p>
-</div>
 
 <div class="presentation-item">
   <p><span class="presentation-number">1.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan.</p>
@@ -45,7 +55,7 @@ css: custom.css
 
 
 - **Aug 2026:** Attending the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span> and will receive the **Norman Beery Memorial Scholarship** at the ASA President Speech & Award Night
-- **Mar 2026:** Attending the <span style="color:#8B0000; font-weight:bold">ENAR Spring Meeting</span>
+
 - **Sept 2025:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference IV</span>, Texas A&M University  
 - **Aug 2025:** Presented poster at the <span style="color:#8B0000; font-weight:bold">Statistics in Pharmaceuticals (SIP) Conference</span>, University of Connecticut  
 - **Aug 2025:** Participated in the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span>  

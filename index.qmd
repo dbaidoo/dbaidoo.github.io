@@ -42,10 +42,10 @@ about:
 <div class="col-md-6">
 
 ## About
-I am an early-career statistician specializing in longitudinal and multilevel data analysis, causal inference, spatial statistics, missing data techniques, and Bayesian methods.  
-I earned an M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) in 2025 and a B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) in 2021.
 
-My research focuses on developing and applying innovative statistical methodologies to solve complex challenges in public health and biomedical research. By combining advanced modeling with real-world data, I aim to generate insights that drive evidence-based decision-making and improve patient outcomes. I am committed to transforming complex data into clear, actionable findings through methodological rigor, thoughtful analysis, and effective communication.  
+I am a Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
+
+I earned my M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) and my B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/). My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.
 
 *Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.*
 

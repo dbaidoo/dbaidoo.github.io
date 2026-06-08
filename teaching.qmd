@@ -4,6 +4,24 @@ subtitle: "I have served as an instructor and teaching assistant for the followi
 title-block-banner: false
 ---
 
+## MATH 1215: Intermediate Algebra
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Intermediate-Algebra.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2026](https://math.unm.edu/courses/materials/math-1215-intermediate-algebra)
+
+Instructor, University of New Mexico, Department of Mathematics and Statistics - 36 students.
+
+:::
+
+:::
 
 ## MATH 1350: Introduction to Statistics
 
