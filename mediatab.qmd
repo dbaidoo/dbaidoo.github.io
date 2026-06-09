@@ -1,10 +1,9 @@
 ---
-title: "In the Media"
+title: "In the Medi"
 format:
   html:
     toc: true
     toc-title: "On this page"
-    theme: cosmo
     number-sections: false
 ---
 
@@ -14,83 +13,48 @@ A curated selection of media features, recognitions, and professional highlights
 
 ## Featured Highlights
 
-<!-- ===================================================== -->
-<!-- 3. ASA Norman Beery Memorial Scholarship -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
-       style="width:65px;">
-  <h3 style="margin:0;">American Statistical Association – 2026 Award Recognition</h3>
-</div>
+### American Statistical Association – 2026 Award Recognition
 
 **Award:** *Norman Beery Memorial Scholarship – 2026*  
 **Highlight:** Featured among ASA award recipients and selected for the Norman Beery Memorial Scholarship, which supports first-generation college students pursuing studies in statistics.
 
-🔗 **References:**  
+**References:**  
 [ASA News – 2026 Awardees](https://magazine.amstat.org/blog/2026/06/01/2026-awards/)  
 [Norman Beery Memorial Scholarship](https://www.amstat.org/your-career/awards/norman-beery-memorial-scholarship)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 1. ASA Giving Newsletter 2025 -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
-       style="width:65px;">
-  <h3 style="margin:0;">American Statistical Association – Giving Newsletter (Fall 2025)</h3>
-</div>
+### American Statistical Association – Giving Newsletter, Fall 2025
 
 **Feature:** ASA Giving Newsletter: Fall 2025  
 **Highlight:** Featured for sharing my experience at the 2025 Joint Statistical Meetings (JSM) and highlighting the impact of the ASA Student and Early Career Travel Fund in supporting student participation and professional development.
 
-🔗 **Reference:**  
+**Reference:**  
 [ASA Giving Newsletter – Fall 2025](https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 2. ASA News – Curtin Award -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
-       style="width:65px;">
-  <h3 style="margin:0;">The American Statistical Association Celebrates Award Winners (2025)</h3>
-</div>
+### The American Statistical Association Celebrates Award Winners, 2025
 
 **Award:** *Lester R. Curtin Award – 2025*  
 **Highlight:** Featured among ASA award recipients recognized for contributions and promise in the field of statistics.
 
-🔗 **Reference:**  
+**Reference:**  
 [ASA News – 2025 Awardees](https://magazine.amstat.org/blog/2025/06/02/awardees/)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 3. SIP Scholarship -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://stat4pharma.org/images/SIP_logo.jpg" 
-       style="width:70px; border-radius:6px;">
-  <h3 style="margin:0;">Statistics in Pharmaceuticals (SIP) Scholarship Award (2025)</h3>
-</div>
+### Statistics in Pharmaceuticals Scholarship Award, 2025
 
 **Institution:** University of Connecticut  
 **Highlight:** Selected for scholarship support to participate in professional development and training focused on pharmaceutical statistics and applications in drug development.
 
-🔗 **Reference:**  
+**Reference:**  
 [SIP Scholarship](https://stat4pharma.org/events/sip2025/scholarship.html)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 4. UNM Outstanding Student -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/University_of_New_Mexico.jpeg" 
-       style="width:60px; border-radius:6px;">
-  <h3 style="margin:0;">University of New Mexico Outstanding Student Recognition (2025)</h3>
-</div>
+### University of New Mexico Outstanding Student Recognition, 2025
 
 **Awards:**  
 - *Excellence in Teaching – 2025*  
@@ -98,41 +62,25 @@ A curated selection of media features, recognitions, and professional highlights
 
 **Highlight:** Honored by the University of New Mexico for contributions to teaching, student engagement, leadership, and service.
 
-🔗 **Reference:**  
+**Reference:**  
 [UNM Recognition](https://www.instagram.com/unmafro/p/DJKe6LWvQJe/)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 5. ASA Biopharm Section -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://www.amstat.org/images/default-source/amstat-images/asa-header-logo.png" 
-       style="width:65px;">
-  <h3 style="margin:0;">American Statistical Association News (2024)</h3>
-</div>
+### American Statistical Association News, 2024
 
 **Award:** *Biopharmaceutical Section Scholarship Award – 2024*  
 **Highlight:** Featured as a recipient of the ASA Biopharmaceutical Section Scholarship Award supporting emerging statisticians pursuing research and professional development in biopharmaceutical statistics.
 
-🔗 **Reference:**  
+**Reference:**  
 [ASA Biopharmaceutical Section Transition Report](https://asabiopreport.substack.com/p/transition-report)
 
 ---
 
-<!-- ===================================================== -->
-<!-- 6. Zancada Fellowship -->
-<!-- ===================================================== -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/University_of_New_Mexico.jpeg" 
-       style="width:60px; border-radius:6px;">
-  <h3 style="margin:0;">Zancada Graduate Fellowship (2024)</h3>
-</div>
+### Zancada Graduate Fellowship, 2024
 
 **Institution:** University of New Mexico, Office of the Vice President for Research  
 **Highlight:** Awarded in support of graduate research, scholarly development, and academic achievement.
 
-🔗 **Reference:**  
+**Reference:**  
 [UNM Zancada Fellowship](https://research.unm.edu/zancada/)
-
----
