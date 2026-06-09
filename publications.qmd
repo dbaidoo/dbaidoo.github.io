@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description-meta: "Information, pdfs, and social metrics of papers"
+description-meta: "Website"
 css: custom.css
 ---
 
