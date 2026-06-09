@@ -364,6 +364,7 @@ https://badge.dimensions.ai/
 
 
 <style>
+
 .home-container {
   max-width: 1150px;
   margin: 60px auto;
@@ -409,29 +410,33 @@ https://badge.dimensions.ai/
   vertical-align: middle;
 }
 
-.email-icon i,
+
+/* Icon colors */
+
 .email-icon svg {
   color: #EA4335;
 }
 
-.scholar-icon i,
 .scholar-icon svg {
   color: #4285F4;
 }
 
-.researchgate-icon i,
 .researchgate-icon svg {
   color: #00CCBB;
 }
 
-.orcid-icon i,
 .orcid-icon svg {
   color: #A6CE39;
 }
 
-.linkedin-icon i,
 .linkedin-icon svg {
   color: #0A66C2;
+}
+
+
+.main-about {
+  font-size: 1.15rem;
+  line-height: 1.65;
 }
 
 .main-about h2 {
@@ -440,10 +445,6 @@ https://badge.dimensions.ai/
   margin-bottom: 18px;
 }
 
-.main-about {
-  font-size: 1.15rem;
-  line-height: 1.65;
-}
 
 .caption {
   font-size: 0.9rem;
@@ -451,18 +452,80 @@ https://badge.dimensions.ai/
   margin-top: 8px;
 }
 
-@media (max-width: 768px) {
+
+
+/* ===============================
+   Phone layout like professor site
+   =============================== */
+
+@media screen and (max-width: 768px) {
+
+
   .home-container {
-    grid-template-columns: 1fr;
-    gap: 35px;
-    margin: 30px 20px;
+    display: block;
+    margin: 25px 28px;
+    max-width: 100%;
   }
 
-  .profile-img {
-    width: 180px;
-    height: 180px;
+
+  .sidebar {
+    display: grid;
+    grid-template-columns: 70px auto;
+    column-gap: 16px;
+    align-items: center;
+    margin-bottom: 35px;
   }
+
+
+  .profile-img {
+    width: 65px;
+    height: 65px;
+    padding: 2px;
+    grid-row: 1 / span 2;
+  }
+
+
+  .sidebar-name {
+    margin-top: 0;
+    font-size: 1.35rem;
+    line-height: 1.15;
+  }
+
+
+  .sidebar-title {
+    margin-top: 5px;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+
+
+  .sidebar-links {
+    grid-column: 1 / -1;
+    margin-top: 25px;
+    font-size: 0.95rem;
+  }
+
+
+  .main-about {
+    margin-top: 25px;
+    font-size: 1.15rem;
+    line-height: 1.7;
+  }
+
+
+  .main-about h2 {
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+  }
+
+
+  .main-about img {
+    max-width: 100% !important;
+    width: 100%;
+  }
+
 }
+
 </style>
 <div class="home-container">
 <div class="sidebar">
@@ -487,7 +550,7 @@ https://badge.dimensions.ai/
 <p>I am a Statistical Scientist and Ph.D.&nbsp;student in Biostatistics at <a href="https://www.osu.edu/">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
 <p>I earned my M.S. in Statistics from the <a href="https://www.unm.edu/">University of New Mexico</a> and my B.Sc. double major in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a>. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.</p>
 <p><em>Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.</em></p>
-<p><img src="files/images/Dennis-ASA.JPG" alt="Dennis volunteering at ASA" style="max-width: 45%; margin-top: 20px; border-radius: 8px;"></p>
+<p><img src="files/images/Dennis-ASA.JPG" alt="Dennis volunteering at ASA" style="max-width:45%; margin-top:20px; border-radius:8px;"></p>
 <div class="caption">
 <p>Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD</p>
 </div>
