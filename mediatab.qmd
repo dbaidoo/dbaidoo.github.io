@@ -1,5 +1,5 @@
 ---
-title: "In the Medi"
+title: "In the Media"
 format:
   html:
     toc: true
