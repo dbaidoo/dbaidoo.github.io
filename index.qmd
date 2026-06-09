@@ -143,9 +143,9 @@ The Ohio State University
 <div class="main-about">
 
 ## About Me
+Thank you for visiting my website!
 
-
-I am a Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
+I am a Statistical Scientist and Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
 
 I earned my M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) and my B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/). My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.
 
