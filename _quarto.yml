@@ -4,7 +4,7 @@ project:
   render:
     - "*.qmd"
 
-description-meta: "Dennis Baidoo is a Statistical Scientist and Ph.D. student in Biostatistics at The Ohio State University. He earned his M.S. in Statistics from the University of New Mexico (UNM) and is actively involved with the American Statistical Association (ASA). His interests include statistical modeling, clinical trials, survival analysis, Bayesian methods, causal inference, and biomedical data science."
+description-meta: "Website for Dennis Baidoo"
 author-meta: "Dennis Baidoo"
 
 website:
@@ -18,8 +18,8 @@ website:
   twitter-card: true
 
   navbar:
-    background: light
-    foreground: "#6c757d"
+    background: "#30363D"
+    foreground: "#D0D0D0"
     pinned: true
     collapse: true
     collapse-below: lg
@@ -47,6 +47,7 @@ website:
       - text: PEOPLE
         href: people.qmd
 
+
     right:
       - text: CV
         href: files/Dennis.Baidoo_CV_osu.pdf
@@ -55,13 +56,18 @@ website:
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
 
+
   page-navigation: true
+
   reader-mode: true
+
   draft-mode: unlinked
+
 
   search:
     location: navbar
     type: textbox
+
 
   page-footer:
     left: "[DennisBaidoo](https://github.com/dbaidoo/dbaidoo.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
@@ -73,44 +79,61 @@ website:
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
 
+
   google-analytics:
     tracking-id: ""
     anonymize-ip: true
 
+
 bibliography: references.bib
+
 
 format:
   html:
+
     theme:
       light: cosmo
       dark: darkly
 
     theme-toggle: true
+
     respect-user-color-scheme: false
 
     css: styles.css
 
     toc: true
+
     page-layout: full
+
     smooth-scroll: true
+
     anchor-sections: true
+
     footnotes-hover: true
+
     code-copy: true
+
     code-link: true
+
     code-overflow: wrap
+
     fig-align: center
 
+
     link-external-icon: false
+
     link-external-newwindow: true
+
+
     email-obfuscation: javascript
+
 
     grid:
       sidebar-width: 250px
       body-width: 900px
       margin-width: 250px
 
+
     include-in-header:
       - "files/includes/_academic.qmd"
       - "Views.html"
-      
-      
