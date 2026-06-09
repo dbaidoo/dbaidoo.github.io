@@ -17,71 +17,109 @@ website:
     left:
       - text: RESEARCH
         href: publications.qmd
+
       - text: BLOG
         href: blog.qmd
+
       - text: TEACHING
         href: teaching.qmd
+
       - text: PRESENTATIONS
         href: posts.qmd
+
       - text: AWARDS & HONORS
         href: Awards.qmd
+
       - text: NEWS
         href: mediatab.qmd
+
       - text: PEOPLE
         href: people.qmd
+
 
     right:
       - text: CV
         href: files/Dennis.Baidoo_CV_osu.pdf
+
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
 
+
   page-navigation: true
+
 
   page-footer:
     left: "[DennisBaidoo](https://github.com/dbaidoo/dbaidoo.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+
     center: "Built with [Quarto](https://github.com/drganghe/quarto-academic-website-template), adapted from [Dr. Gang He](http://drganghe.github.io)"
+
     right:
       - icon: github
         href: https://github.com/dbaidoo/dbaidoo.github.io
         target: _blank
+
 
   search:
     location: navbar
     type: textbox
 
+
   reader-mode: true
+
   draft-mode: unlinked
+
 
   repo-url: https://github.com/dbaidoo/dbaidoo.github.io
 
+
   open-graph: true
+
   twitter-card: true
 
+
   site-url: "https://dbaidoo.github.io"
+
 
   google-analytics:
     tracking-id: ""
     anonymize-ip: true
 
+
 bibliography: references.bib
+
 
 format:
   html:
+
+    # Automatic website-wide light/dark mode
     theme:
       light: cosmo
       dark: darkly
+
     css: styles.css
+
     toc: true
+
     footnotes-hover: true
+
     code-copy: true
+
     code-link: true
+
     code-overflow: wrap
+
     fig-align: center
+
+
     link-external-icon: false
+
     link-external-newwindow: true
+
+
     email-obfuscation: javascript
+
+
     include-in-header:
       - "files/includes/_academic.qmd"
       - "Views.html"
