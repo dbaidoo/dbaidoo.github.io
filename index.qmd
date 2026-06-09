@@ -8,7 +8,6 @@ page-layout: full
 ---
 
 <style>
-
 .home-container {
   max-width: 1150px;
   margin: 60px auto;
@@ -54,29 +53,31 @@ page-layout: full
   vertical-align: middle;
 }
 
-
 /* Icon colors */
-
+.email-icon i,
 .email-icon svg {
   color: #EA4335;
 }
 
+.scholar-icon i,
 .scholar-icon svg {
   color: #4285F4;
 }
 
+.researchgate-icon i,
 .researchgate-icon svg {
   color: #00CCBB;
 }
 
+.orcid-icon i,
 .orcid-icon svg {
   color: #A6CE39;
 }
 
+.linkedin-icon i,
 .linkedin-icon svg {
   color: #0A66C2;
 }
-
 
 .main-about {
   font-size: 1.15rem;
@@ -89,89 +90,104 @@ page-layout: full
   margin-bottom: 18px;
 }
 
-
 .caption {
   font-size: 0.9rem;
   color: #666;
   margin-top: 8px;
 }
 
-
-
 /* ===============================
-   Phone layout like professor site
+   Phone layout fix
    =============================== */
 
 @media screen and (max-width: 768px) {
 
-
   .home-container {
-    display: block;
-    margin: 25px 28px;
-    max-width: 100%;
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 25px 0 !important;
+    padding: 0 24px !important;
+    gap: 0 !important;
+    box-sizing: border-box !important;
   }
-
 
   .sidebar {
-    display: grid;
-    grid-template-columns: 70px auto;
-    column-gap: 16px;
-    align-items: center;
-    margin-bottom: 35px;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 35px !important;
+    box-sizing: border-box !important;
+    position: relative !important;
   }
-
 
   .profile-img {
-    width: 65px;
-    height: 65px;
-    padding: 2px;
-    grid-row: 1 / span 2;
+    width: 165px !important;
+    height: 165px !important;
+    display: block !important;
+    margin-bottom: 18px !important;
   }
 
+  .sidebar-name,
+  .sidebar-title,
+  .sidebar-links {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: static !important;
+    clear: both !important;
+  }
 
   .sidebar-name {
-    margin-top: 0;
-    font-size: 1.35rem;
-    line-height: 1.15;
+    font-size: 1.3rem !important;
+    margin-top: 10px !important;
+    line-height: 1.25 !important;
   }
-
 
   .sidebar-title {
-    margin-top: 5px;
-    font-size: 1rem;
-    line-height: 1.35;
+    font-size: 1rem !important;
+    margin-top: 12px !important;
+    line-height: 1.45 !important;
   }
-
 
   .sidebar-links {
-    grid-column: 1 / -1;
-    margin-top: 25px;
-    font-size: 0.95rem;
+    margin-top: 22px !important;
+    margin-bottom: 35px !important;
+    line-height: 2.1 !important;
   }
-
 
   .main-about {
-    margin-top: 25px;
-    font-size: 1.15rem;
-    line-height: 1.7;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: relative !important;
+    clear: both !important;
+    margin-top: 20px !important;
+    padding-top: 10px !important;
+    font-size: 1rem !important;
+    line-height: 1.65 !important;
+    box-sizing: border-box !important;
   }
-
 
   .main-about h2 {
-    font-size: 2.2rem;
-    margin-bottom: 20px;
+    font-size: 1.8rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 18px !important;
   }
-
 
   .main-about img {
     max-width: 100% !important;
-    width: 100%;
+    width: 100% !important;
+    height: auto !important;
   }
 
+  .caption {
+    font-size: 0.85rem !important;
+    line-height: 1.45 !important;
+  }
 }
-
 </style>
-
 
 <div class="home-container">
 
@@ -179,17 +195,14 @@ page-layout: full
 
 <img src="files/images/Dbaidoo.JPG" class="profile-img">
 
-
 <div class="sidebar-name">
 Dennis Baidoo, M.S, <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a>
 </div>
-
 
 <div class="sidebar-title">
 Ph.D. Student in Biostatistics<br>
 The Ohio State University
 </div>
-
 
 <div class="sidebar-links">
 
@@ -207,34 +220,25 @@ The Ohio State University
 
 </div>
 
-
-
 <div class="main-about">
-
 
 ## About Me
 
 Thank you for visiting my website!
 
-
 I am a Statistical Scientist and Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
-
 
 I earned my M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) and my B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/). My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.
 
-
 *Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.*
-
 
 <img src="files/images/Dennis-ASA.JPG"
      alt="Dennis volunteering at ASA"
-     style="max-width:45%; margin-top:20px; border-radius:8px;">
-
+     style="max-width: 45%; margin-top: 20px; border-radius: 8px;">
 
 <div class="caption">
 Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD
 </div>
-
 
 </div>
 
