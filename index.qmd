@@ -1,47 +1,148 @@
 ---
-title: "Dennis Baidoo, M.S, [GStat](https://ww2.amstat.org/accreditation/roster.cfm)"
+title: ""
 description-meta: "Website"
 image: "files/images/Dbaidoo.JPG"
 page-navigation: false
 toc: false
 page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: envelope
-      text: E-mail
-      href: mailto:baidoo.20@osu.edu 
-
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=ffB7SWYAAAAJ&hl=en&oi=ao
-      target: _blank
-
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Dennis-Baidoo-4/research
-      target: _blank
-
-    - text: "{{< ai ORCiD >}} ORCiD"
-      href: https://orcid.org/0009-0006-2719-7730
-      target: _blank
-
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/dennisbaidoo1
-      target: _blank
 ---
 
-:::{#hero-heading}
+<style>
+.home-container {
+  max-width: 1150px;
+  margin: 60px auto;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 70px;
+  align-items: start;
+}
 
-### <!-- This line keeps spacing correct -->
+.profile-img {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 6px;
+}
 
-<div class="row mt-4">
+.sidebar-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-top: 20px;
+  line-height: 1.15;
+}
 
-<div class="col-md-6">
+.sidebar-title {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
 
-## About
+.sidebar-links {
+  margin-top: 25px;
+  line-height: 2.2;
+  font-size: 1rem;
+}
+
+.sidebar-links i,
+.sidebar-links svg {
+  font-size: 1.35rem;
+  width: 28px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.email-icon i,
+.email-icon svg {
+  color: #EA4335;
+}
+
+.scholar-icon i,
+.scholar-icon svg {
+  color: #4285F4;
+}
+
+.researchgate-icon i,
+.researchgate-icon svg {
+  color: #00CCBB;
+}
+
+.orcid-icon i,
+.orcid-icon svg {
+  color: #A6CE39;
+}
+
+.linkedin-icon i,
+.linkedin-icon svg {
+  color: #0A66C2;
+}
+
+.main-about h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.main-about {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    margin: 30px 20px;
+  }
+
+  .profile-img {
+    width: 180px;
+    height: 180px;
+  }
+}
+</style>
+
+<div class="home-container">
+
+<div class="sidebar">
+
+<img src="files/images/Dbaidoo.JPG" class="profile-img">
+
+<div class="sidebar-name">
+Dennis Baidoo, M.S, <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a>
+</div>
+
+<div class="sidebar-title">
+Ph.D. Student in Biostatistics<br>
+The Ohio State University
+</div>
+
+<div class="sidebar-links">
+
+<span class="email-icon">{{< fa envelope >}}</span> baidoo.20@osu.edu<br>
+
+<span class="scholar-icon">{{< ai google-scholar >}}</span> [Google Scholar](https://scholar.google.com/citations?user=ffB7SWYAAAAJ&hl=en&oi=ao)<br>
+
+<span class="researchgate-icon">{{< ai researchgate >}}</span> [ResearchGate](https://www.researchgate.net/profile/Dennis-Baidoo-4/research)<br>
+
+<span class="orcid-icon">{{< ai orcid >}}</span> [ORCiD](https://orcid.org/0009-0006-2719-7730)<br>
+
+<span class="linkedin-icon">{{< fa brands linkedin >}}</span> [LinkedIn](https://www.linkedin.com/in/dennisbaidoo1)
+
+</div>
+
+</div>
+
+<div class="main-about">
+
+## About Me
 
 I am a Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
 
@@ -49,21 +150,14 @@ I earned my M.S. in Statistics from the [University of New Mexico](https://www.u
 
 *Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.*
 
-</div>
-
-<div class="col-md-6">
-
 <img src="files/images/Dennis-ASA.JPG"
      alt="Dennis volunteering at ASA"
-     class="img-fluid rounded"
-     style="max-width: 65%; margin-bottom: 8px;">
+     style="max-width: 45%; margin-top: 20px; border-radius: 8px;">
 
-<div style="font-size: 0.9rem; color: #666;">
+<div class="caption">
 Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD
 </div>
 
 </div>
 
 </div>
-
-:::

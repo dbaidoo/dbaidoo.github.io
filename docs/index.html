@@ -9,7 +9,7 @@
 <meta name="author" content="Dennis Baidoo">
 <meta name="description" content="Website">
 
-<title>Dennis Baidoo, M.S, GStat – Dennis Baidoo</title>
+<title>Homepage of Dennis Baidoo</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,11 +37,18 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-64cbef237ebb8fc6fe14b1f3fb987053.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-64cbef237ebb8fc6fe14b1f3fb987053.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-b47b114ff421047ac28f54de160ece39.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-64cbef237ebb8fc6fe14b1f3fb987053.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -103,15 +110,177 @@ https://badge.dimensions.ai/
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Dennis Baidoo, M.S, GStat – Dennis Baidoo">
-<meta property="og:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/Dbaidoo.JPG">
-<meta property="og:site_name" content="Dennis Baidoo">
-<meta name="twitter:title" content="Dennis Baidoo, M.S, GStat – Dennis Baidoo">
-<meta name="twitter:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/Dbaidoo.JPG">
+<meta property="og:title" content="– Homepage of Dennis Baidoo">
+<meta property="og:image" content="https://dbaidoo.github.io/files/images/Dbaidoo.JPG">
+<meta property="og:site_name" content="Homepage of Dennis Baidoo">
+<meta name="twitter:title" content="– Homepage of Dennis Baidoo">
+<meta name="twitter:image" content="https://dbaidoo.github.io/files/images/Dbaidoo.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -121,7 +290,7 @@ https://badge.dimensions.ai/
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Dennis Baidoo</span>
+    <span class="navbar-title">Homepage of Dennis Baidoo</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -172,6 +341,7 @@ https://badge.dimensions.ai/
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -187,70 +357,167 @@ https://badge.dimensions.ai/
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/images/Dbaidoo.JPG" class="about-image
-  rounded " style="width: 70%;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Dennis Baidoo, M.S, <a href="https://ww2.amstat.org/accreditation/roster.cfm">GStat</a></h1>
+
+<style>
+.home-container {
+  max-width: 1150px;
+  margin: 60px auto;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 70px;
+  align-items: start;
+}
+
+.profile-img {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+
+.sidebar-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-top: 20px;
+  line-height: 1.15;
+}
+
+.sidebar-title {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.sidebar-links {
+  margin-top: 25px;
+  line-height: 2.2;
+  font-size: 1rem;
+}
+
+.sidebar-links i,
+.sidebar-links svg {
+  font-size: 1.35rem;
+  width: 28px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.email-icon i,
+.email-icon svg {
+  color: #EA4335;
+}
+
+.scholar-icon i,
+.scholar-icon svg {
+  color: #4285F4;
+}
+
+.researchgate-icon i,
+.researchgate-icon svg {
+  color: #00CCBB;
+}
+
+.orcid-icon i,
+.orcid-icon svg {
+  color: #A6CE39;
+}
+
+.linkedin-icon i,
+.linkedin-icon svg {
+  color: #0A66C2;
+}
+
+.main-about h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.main-about {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    margin: 30px 20px;
+  }
+
+  .profile-img {
+    width: 180px;
+    height: 180px;
+  }
+}
+</style>
+<div class="home-container">
+<div class="sidebar">
+<p><img src="files/images/Dbaidoo.JPG" class="profile-img"></p>
+<div class="sidebar-name">
+<p>Dennis Baidoo, M.S, <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a></p>
 </div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="mailto:baidoo.20@osu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Dennis-Baidoo-4/research" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-researchgate"></i> Research Gate</span>
-  </a>
-  <a href="https://orcid.org/0009-0006-2719-7730" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-ORCiD"></i> ORCiD</span>
-  </a>
-  <a href="https://www.linkedin.com/in/dennisbaidoo1" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
+<div class="sidebar-title">
+<p>Ph.D.&nbsp;Student in Biostatistics<br> The Ohio State University</p>
 </div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<section id="section" class="level3">
-<h3 data-anchor-id="section"><!-- This line keeps spacing correct --></h3>
-</section>
-<div class="row mt-4">
-<section id="about" class="level2 col-md-6">
-<h2 data-anchor-id="about">About</h2>
+<div class="sidebar-links">
+<p><span class="email-icon"><i class="fa-solid fa-envelope" aria-label="envelope"></i></span> baidoo.20@osu.edu<br></p>
+<p><span class="scholar-icon"><i class="ai  ai-google-scholar"></i></span> <a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a><br></p>
+<p><span class="researchgate-icon"><i class="ai  ai-researchgate"></i></span> <a href="https://www.researchgate.net/profile/Dennis-Baidoo-4/research">ResearchGate</a><br></p>
+<p><span class="orcid-icon"><i class="ai  ai-orcid"></i></span> <a href="https://orcid.org/0009-0006-2719-7730">ORCiD</a><br></p>
+<p><span class="linkedin-icon"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></span> <a href="https://www.linkedin.com/in/dennisbaidoo1">LinkedIn</a></p>
+</div>
+</div>
+<section id="about-me" class="level2 main-about">
+<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
 <p>I am a Ph.D.&nbsp;student in Biostatistics at <a href="https://www.osu.edu/">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
 <p>I earned my M.S. in Statistics from the <a href="https://www.unm.edu/">University of New Mexico</a> and my B.Sc. double major in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/">University of Ghana</a>. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.</p>
 <p><em>Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy cooking authentic Ghanaian cuisine, participate in football, and pursue hands-on craftsmanship, including making leather sandals and building wooden furniture.</em></p>
-</section>
-<div class="col-md-6">
-<p><img src="files/images/Dennis-ASA.JPG" alt="Dennis volunteering at ASA" class="img-fluid rounded" style="max-width: 65%; margin-bottom: 8px;"></p>
-<div style="font-size: 0.9rem; color: #666;">
+<p><img src="files/images/Dennis-ASA.JPG" alt="Dennis volunteering at ASA" style="max-width: 45%; margin-top: 20px; border-radius: 8px;"></p>
+<div class="caption">
 <p>Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD</p>
 </div>
+</section>
 </div>
-</div>
-</div></div>
-</div>
-
-
 
 
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -315,7 +582,7 @@ https://badge.dimensions.ai/
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+        var filterRegex = new RegExp("https:\/\/dbaidoo\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
