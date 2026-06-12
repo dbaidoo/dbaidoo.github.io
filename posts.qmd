@@ -60,7 +60,7 @@ css: custom.css
 - **July 2026:** Attending the <span style="color:#8B0000; font-weight:bold">Teaching Statistical Thinking with GAISE Workshop </span>, Curry College, Milton, MA
 
 
-- **Sept 2025:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference IV</span>, Texas A&M University  
+- **Sept 2025:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference IV</span>, Texas A&M University, College Station, TX  
 - **Aug 2025:** Presented poster at the <span style="color:#8B0000; font-weight:bold">Statistics in Pharmaceuticals (SIP) Conference</span>, University of Connecticut, CT  
 - **Aug 2025:** Participated in the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM) </span>, Nashville, TN
 - **Apr 2025:** Attended the <span style="color:#8B0000; font-weight:bold">ASA Symposium on Data Science & Statistics (SDSS)</span>, Salt Lake City, UT
