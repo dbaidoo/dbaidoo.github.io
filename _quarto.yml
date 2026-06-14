@@ -17,13 +17,19 @@ website:
   open-graph: true
   twitter-card: true
 
+
   navbar:
+    logo: "files/images/The-Ohio-State-University-Logo-700x394.png"
+    logo-alt: "The Ohio State University"
+
     background: "#30363D"
     foreground: "#D0D0D0"
+
     pinned: true
     collapse: true
     collapse-below: lg
     search: false
+
 
     left:
       - text: RESEARCH
@@ -57,6 +63,7 @@ website:
         target: _blank
 
 
+
   page-navigation: true
 
   reader-mode: true
@@ -64,9 +71,11 @@ website:
   draft-mode: unlinked
 
 
+
   search:
     location: navbar
     type: textbox
+
 
 
   page-footer:
@@ -80,12 +89,15 @@ website:
         target: _blank
 
 
+
   google-analytics:
     tracking-id: ""
     anonymize-ip: true
 
 
+
 bibliography: references.bib
+
 
 
 format:
@@ -95,37 +107,51 @@ format:
       light: cosmo
       dark: darkly
 
+
     theme-toggle: true
 
     respect-user-color-scheme: false
 
+
     css: styles.css
+
 
     toc: true
 
     page-layout: full
 
+
     smooth-scroll: true
+
 
     anchor-sections: true
 
+
     footnotes-hover: true
+
 
     code-copy: true
 
+
     code-link: true
 
+
     code-overflow: wrap
+
 
     fig-align: center
 
 
+
     link-external-icon: false
+
 
     link-external-newwindow: true
 
 
+
     email-obfuscation: javascript
+
 
 
     grid:
@@ -134,6 +160,106 @@ format:
       margin-width: 250px
 
 
+
     include-in-header:
       - "files/includes/_academic.qmd"
       - "Views.html"
+
+
+      - text: |
+          <style>
+
+          /* ===============================
+             OSU NAVBAR LOGO SIZE
+             =============================== */
+
+
+          .navbar {
+            min-height: 72px !important;
+            padding-top: 2px !important;
+            padding-bottom: 2px !important;
+          }
+
+
+          .navbar-brand {
+            display: flex !important;
+            align-items: center !important;
+          }
+
+
+          .navbar-brand img,
+          .navbar-logo {
+            height: 66px !important;
+            max-height: 66px !important;
+            width: auto !important;
+            object-fit: contain !important;
+            padding: 0 !important;
+            margin-right: 15px !important;
+          }
+
+
+          @media (max-width: 768px) {
+
+            .navbar {
+              min-height: 62px !important;
+            }
+
+
+            .navbar-brand img,
+            .navbar-logo {
+              height: 55px !important;
+              max-height: 55px !important;
+            }
+
+          }
+
+
+          </style>
+
+
+          <script>
+
+          document.addEventListener("DOMContentLoaded", function () {
+
+
+            const brand = document.querySelector(".navbar-brand");
+
+
+            if (brand) {
+
+              brand.href = "index.html";
+
+            }
+
+
+
+            const logo = document.querySelector(".navbar-brand img");
+
+
+            if (logo) {
+
+              logo.style.cursor = "pointer";
+
+
+              logo.addEventListener("click", function(event) {
+
+
+                event.preventDefault();
+
+                event.stopPropagation();
+
+
+                window.location.href =
+                "https://cph.osu.edu/phd/biostatistics";
+
+
+              });
+
+
+            }
+
+
+          });
+
+
+          </script>

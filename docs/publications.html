@@ -103,6 +103,102 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="6ae4bc85-a01f-4090-ab87-a6f14639441d"></script>
+<style>
+
+/* ===============================
+   OSU NAVBAR LOGO SIZE
+   =============================== */
+
+
+.navbar {
+  min-height: 72px !important;
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+}
+
+
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+}
+
+
+.navbar-brand img,
+.navbar-logo {
+  height: 66px !important;
+  max-height: 66px !important;
+  width: auto !important;
+  object-fit: contain !important;
+  padding: 0 !important;
+  margin-right: 15px !important;
+}
+
+
+@media (max-width: 768px) {
+
+  .navbar {
+    min-height: 62px !important;
+  }
+
+
+  .navbar-brand img,
+  .navbar-logo {
+    height: 55px !important;
+    max-height: 55px !important;
+  }
+
+}
+
+
+</style>
+
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+
+  const brand = document.querySelector(".navbar-brand");
+
+
+  if (brand) {
+
+    brand.href = "index.html";
+
+  }
+
+
+
+  const logo = document.querySelector(".navbar-brand img");
+
+
+  if (logo) {
+
+    logo.style.cursor = "pointer";
+
+
+    logo.addEventListener("click", function(event) {
+
+
+      event.preventDefault();
+
+      event.stopPropagation();
+
+
+      window.location.href =
+      "https://cph.osu.edu/phd/biostatistics";
+
+
+    });
+
+
+  }
+
+
+});
+
+
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -287,6 +383,8 @@ https://badge.dimensions.ai/
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./files/images/The-Ohio-State-University-Logo-700x394.png" alt="The Ohio State University" class="navbar-logo light-content">
+    <img src="./files/images/The-Ohio-State-University-Logo-700x394.png" alt="The Ohio State University" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Homepage of Dennis Baidoo</span>

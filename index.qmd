@@ -233,7 +233,7 @@ I earned my M.S. in Statistics from the [University of New Mexico](https://www.u
 *Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy connecting with nature, cooking authentic Ghanaian cuisine, participating in football, and pursuing hands-on craftsmanship, including making leather sandals and building wooden furniture.*
 
 <img src="files/images/Dennis-ASA.JPG"
-     alt="Dennis volunteering at ASA"
+     alt="Dennis volunteering at ASA" 
      style="max-width: 45%; margin-top: 20px; border-radius: 8px;">
 
 <div class="caption">
