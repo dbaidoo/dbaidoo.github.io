@@ -169,6 +169,7 @@ format:
       - text: |
           <style>
 
+
           /* ===============================
              OSU NAVBAR LOGO SIZE
              =============================== */
@@ -198,7 +199,9 @@ format:
           }
 
 
+
           @media (max-width: 768px) {
+
 
             .navbar {
               min-height: 62px !important;
@@ -207,9 +210,13 @@ format:
 
             .navbar-brand img,
             .navbar-logo {
+
               height: 55px !important;
+
               max-height: 55px !important;
+
             }
+
 
           }
 
@@ -217,13 +224,21 @@ format:
           </style>
 
 
+
           <script>
+
 
           document.addEventListener("DOMContentLoaded", function () {
 
 
             const brand = document.querySelector(".navbar-brand");
 
+
+            const logo = document.querySelector(".navbar-brand img");
+
+
+
+            /* Homepage title link */
 
             if (brand) {
 
@@ -233,10 +248,10 @@ format:
 
 
 
-            const logo = document.querySelector(".navbar-brand img");
-
+            /* OSU logo independent link */
 
             if (logo) {
+
 
               logo.style.cursor = "pointer";
 
@@ -246,11 +261,15 @@ format:
 
                 event.preventDefault();
 
+
                 event.stopPropagation();
 
 
-                window.location.href =
-                "https://cph.osu.edu/phd/biostatistics";
+
+                window.open(
+                  "https://cph.osu.edu/phd/biostatistics",
+                  "_blank"
+                );
 
 
               });
