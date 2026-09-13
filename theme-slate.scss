@@ -1,0 +1,349 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+
+$ink:        #1C1E24;
+$paper:      #FAF7F1;
+$slate:      #2B3440;
+$slate-dark: #1E252E;
+$scarlet:    #A6192E;
+$brass:      #B08D57;
+$muted:      #5B6472;
+$hairline:   #DCD5C7;
+
+$font-family-serif:  "Fraunces", "Iowan Old Style", Georgia, serif;
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $scarlet;
+
+$h1-font-size: 2.4rem;
+$h2-font-size: 1.7rem;
+$h3-font-size: 1.3rem;
+
+$navbar-bg: $slate-dark;
+$navbar-fg: #E7E2D6;
+$navbar-hl: $brass;
+
+$footer-bg: $slate-dark;
+$footer-fg: #B7BFC9;
+
+/*-- scss:rules --*/
+
+body {
+  font-family: $font-family-sans-serif;
+  letter-spacing: 0.1px;
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  color: $slate-dark;
+  letter-spacing: 0.2px;
+}
+
+h2 {
+  border-bottom: 1px solid $hairline;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.3rem;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.navbar {
+  border-bottom: 3px solid $brass;
+}
+
+.navbar-title {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  color: #E7E2D6;
+}
+
+.navbar .nav-link {
+  font-size: 0.86rem;
+  letter-spacing: 0.6px;
+  font-weight: 600;
+}
+
+.page-footer {
+  border-top: 3px solid $brass;
+  font-size: 0.85rem;
+}
+
+/* ---------- Custom sun / moon theme-toggle icon ---------- */
+/* Quarto's default is a plain toggle-switch icon; replace with sun/moon */
+
+.quarto-color-scheme-toggle .bi::before {
+  content: "";
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1rem 1rem;
+}
+
+/* Light mode active: show a sun (click to go dark) */
+.quarto-color-scheme-toggle:not(.alternate) .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(231,226,214,1)" viewBox="0 0 16 16"><path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2a.5.5 0 0 1 .5-.5zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.414a.5.5 0 1 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 1 1-.707.707zM4.464 4.465 3.05 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1-.707.708z"/></svg>') !important;
+}
+
+/* Dark mode active: show a moon (click to go light) */
+.quarto-color-scheme-toggle.alternate .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(231,226,214,1)" viewBox="0 0 16 16"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>') !important;
+}
+
+/* ---------- Homepage layout ---------- */
+
+.home-container {
+  max-width: 1180px;
+  margin: 56px auto;
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  column-gap: 44px;
+  align-items: start;
+}
+
+.profile-sidebar {
+  border-right: 1px solid $hairline;
+  padding-right: 44px;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid $paper;
+  outline: 1px solid $hairline;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.sidebar-name {
+  font-family: $font-family-serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 22px;
+  line-height: 1.2;
+  color: $slate-dark;
+}
+
+.sidebar-name a {
+  color: $scarlet;
+  font-family: $font-family-serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+.sidebar-title {
+  margin-top: 12px;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: $muted;
+}
+
+.sidebar-links {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid $hairline;
+  line-height: 2.15;
+  font-size: 0.92rem;
+}
+
+.sidebar-links a { color: $ink; }
+.sidebar-links a:hover { color: $scarlet; }
+
+.sidebar-links i,
+.sidebar-links svg {
+  font-size: 1.15rem;
+  width: 24px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.email-icon i, .email-icon svg { color: $scarlet; }
+.scholar-icon i, .scholar-icon svg { color: $slate; }
+.researchgate-icon i, .researchgate-icon svg { color: $slate; }
+.orcid-icon i, .orcid-icon svg { color: $brass; }
+.linkedin-icon i, .linkedin-icon svg { color: $slate; }
+
+.main-about {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: $ink;
+}
+
+.main-about p { margin-bottom: 1.1rem; }
+
+.caption {
+  font-size: 0.85rem;
+  color: $muted;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* Bold spirit line */
+.spirit-line {
+  font-family: $font-family-serif;
+  font-weight: 700;
+  font-size: 1.35rem;
+  color: $scarlet;
+  letter-spacing: 0.4px;
+  margin: 1.6rem 0 0.4rem 0;
+  text-transform: uppercase;
+}
+
+/* Sidebar pull-quote */
+.sidebar-quote {
+  margin-top: 22px;
+  padding: 14px 16px;
+  border-left: 3px solid $scarlet;
+  background: rgba(166, 25, 46, 0.05);
+  font-family: $font-family-serif;
+  font-style: italic;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: $slate-dark;
+}
+
+.sidebar-quote .quote-attrib {
+  display: block;
+  margin-top: 8px;
+  font-family: $font-family-sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.75rem;
+  color: $muted;
+}
+
+/* Academic journey timeline (sidebar) */
+.timeline-heading {
+  margin-top: 26px;
+  padding-top: 18px;
+  border-top: 1px solid $hairline;
+  font-family: $font-family-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: $slate-dark;
+}
+
+.timeline {
+  position: relative;
+  margin: 14px 0 0 4px;
+  padding-left: 20px;
+  border-left: 2px solid $hairline;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.1rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -26px;
+  top: 3px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: $paper;
+  border: 2px solid $brass;
+}
+
+.timeline-dot-current {
+  background: $scarlet;
+  border-color: $scarlet;
+}
+
+.timeline-title {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: $slate-dark;
+  line-height: 1.3;
+}
+
+.timeline-meta {
+  font-size: 0.78rem;
+  color: $muted;
+  margin-top: 2px;
+  line-height: 1.4;
+}
+
+.timeline-dates {
+  font-weight: 600;
+  color: $slate;
+}
+
+/* ---------- Dark mode overrides ---------- */
+/* scss:rules are shared by both light and dark compiled stylesheets, but
+   variables above resolve to their light values, so re-assert readable
+   colors explicitly when the dark theme is active. */
+
+body.quarto-dark {
+
+  h1, h2, h3, h4 { color: #F1EDE3; }
+
+  h2 { border-bottom-color: rgba(255,255,255,0.15); }
+
+  .profile-sidebar { border-right-color: rgba(255,255,255,0.14); }
+
+  .profile-img { border-color: #2B3440; outline-color: rgba(255,255,255,0.18); }
+
+  .sidebar-name { color: #F1EDE3; }
+
+  .sidebar-title { color: #B9BFC8; }
+
+  .sidebar-links { border-top-color: rgba(255,255,255,0.14); }
+  .sidebar-links a { color: #E7E2D6; }
+  .sidebar-links a:hover { color: #E4A0AB; }
+
+  .main-about { color: #DDD8CC; }
+
+  .caption { color: #A9AFB8; }
+
+  .sidebar-quote {
+    color: #F1EDE3;
+    background: rgba(166, 25, 46, 0.14);
+  }
+  .sidebar-quote .quote-attrib { color: #B9BFC8; }
+
+  .timeline-heading {
+    color: #F1EDE3;
+    border-top-color: rgba(255,255,255,0.14);
+  }
+  .timeline { border-left-color: rgba(255,255,255,0.18); }
+  .timeline-title { color: #F1EDE3; }
+  .timeline-meta { color: #A9AFB8; }
+  .timeline-dates { color: #D8CBA8; }
+  .timeline-dot { background: #212529; }
+}
+
+@media screen and (max-width: 768px) {
+  .home-container {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 0 22px !important;
+    margin: 30px 0 !important;
+  }
+  .profile-sidebar {
+    border-right: none !important;
+    padding-right: 0 !important;
+  }
+  .sidebar-links { border-top: 1px solid $hairline; }
+}

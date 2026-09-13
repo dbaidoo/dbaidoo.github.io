@@ -7,196 +7,14 @@ toc: false
 page-layout: full
 ---
 
-<style>
-.home-container {
-  max-width: 1150px;
-  margin: 60px auto;
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  gap: 70px;
-  align-items: start;
-}
-
-.profile-img {
-  width: 210px;
-  height: 210px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 1px solid #ddd;
-  padding: 6px;
-}
-
-.sidebar-name {
-  font-size: 1.35rem;
-  font-weight: 700;
-  margin-top: 20px;
-  line-height: 1.15;
-}
-
-.sidebar-title {
-  margin-top: 15px;
-  font-size: 1rem;
-  line-height: 1.5;
-}
-
-.sidebar-links {
-  margin-top: 25px;
-  line-height: 2.2;
-  font-size: 1rem;
-}
-
-.sidebar-links i,
-.sidebar-links svg {
-  font-size: 1.35rem;
-  width: 28px;
-  margin-right: 10px;
-  vertical-align: middle;
-}
-
-/* Icon colors */
-.email-icon i,
-.email-icon svg {
-  color: #EA4335;
-}
-
-.scholar-icon i,
-.scholar-icon svg {
-  color: #4285F4;
-}
-
-.researchgate-icon i,
-.researchgate-icon svg {
-  color: #00CCBB;
-}
-
-.orcid-icon i,
-.orcid-icon svg {
-  color: #A6CE39;
-}
-
-.linkedin-icon i,
-.linkedin-icon svg {
-  color: #0A66C2;
-}
-
-.main-about {
-  font-size: 1.15rem;
-  line-height: 1.65;
-}
-
-.main-about h2 {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 18px;
-}
-
-.caption {
-  font-size: 0.9rem;
-  color: #666;
-  margin-top: 8px;
-}
-
-/* ===============================
-   Phone layout fix
-   =============================== */
-
-@media screen and (max-width: 768px) {
-
-  .home-container {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 25px 0 !important;
-    padding: 0 24px !important;
-    gap: 0 !important;
-    box-sizing: border-box !important;
-  }
-
-  .sidebar {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-bottom: 35px !important;
-    box-sizing: border-box !important;
-    position: relative !important;
-  }
-
-  .profile-img {
-    width: 165px !important;
-    height: 165px !important;
-    display: block !important;
-    margin-bottom: 18px !important;
-  }
-
-  .sidebar-name,
-  .sidebar-title,
-  .sidebar-links {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    position: static !important;
-    clear: both !important;
-  }
-
-  .sidebar-name {
-    font-size: 1.3rem !important;
-    margin-top: 10px !important;
-    line-height: 1.25 !important;
-  }
-
-  .sidebar-title {
-    font-size: 1rem !important;
-    margin-top: 12px !important;
-    line-height: 1.45 !important;
-  }
-
-  .sidebar-links {
-    margin-top: 22px !important;
-    margin-bottom: 35px !important;
-    line-height: 2.1 !important;
-  }
-
-  .main-about {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    position: relative !important;
-    clear: both !important;
-    margin-top: 20px !important;
-    padding-top: 10px !important;
-    font-size: 1rem !important;
-    line-height: 1.65 !important;
-    box-sizing: border-box !important;
-  }
-
-  .main-about h2 {
-    font-size: 1.8rem !important;
-    margin-top: 0 !important;
-    margin-bottom: 18px !important;
-  }
-
-  .main-about img {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: auto !important;
-  }
-
-  .caption {
-    font-size: 0.85rem !important;
-    line-height: 1.45 !important;
-  }
-}
-</style>
-
 <div class="home-container">
 
-<div class="sidebar">
+<div class="profile-sidebar">
 
 <img src="files/images/Dbaidoo.JPG" class="profile-img">
 
 <div class="sidebar-name">
-Dennis Baidoo, M.S, <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a>
+Dennis Baidoo, M.S., <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a>
 </div>
 
 <div class="sidebar-title">
@@ -218,6 +36,41 @@ The Ohio State University
 
 </div>
 
+<div class="sidebar-quote">
+&ldquo;Students should understand that statistical analysis is an investigative process.&rdquo;<br>
+<span class="quote-attrib">&mdash; Patrick Hopfensperger, Statistics Educator (ASA)</span>
+</div>
+
+<div class="timeline-heading">My Academic Journey</div>
+
+<div class="timeline">
+
+<div class="timeline-item">
+<div class="timeline-dot timeline-dot-current"></div>
+<div class="timeline-content">
+<div class="timeline-title">Ph.D. in Biostatistics</div>
+<div class="timeline-meta">The Ohio State University<br><span class="timeline-dates">Aug 2026 — May 2031</span></div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-dot"></div>
+<div class="timeline-content">
+<div class="timeline-title">M.S. in Statistics</div>
+<div class="timeline-meta">University of New Mexico<br><span class="timeline-dates">Jan 2023 — May 2025</span></div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-dot"></div>
+<div class="timeline-content">
+<div class="timeline-title">B.Sc. in Mathematics &amp; Statistics</div>
+<div class="timeline-meta">University of Ghana, Legon<br><span class="timeline-dates">Aug 2017 — Nov 2021</span></div>
+</div>
+</div>
+
+</div>
+
 </div>
 
 <div class="main-about">
@@ -233,12 +86,14 @@ I earned my M.S. in Statistics from the [University of New Mexico](https://www.u
 *Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy connecting with nature, cooking authentic Ghanaian cuisine, participating in football, and pursuing hands-on craftsmanship, including making leather sandals and building wooden furniture.*
 
 <img src="files/images/Dennis-ASA.JPG"
-     alt="Dennis volunteering at ASA" 
-     style="max-width: 45%; margin-top: 20px; border-radius: 8px;">
+     alt="Dennis volunteering at ASA"
+     style="max-width: 45%; margin-top: 24px; border-radius: 6px;">
 
 <div class="caption">
 Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD
 </div>
+
+<div class="spirit-line">GO BUCKS AND V-MATE, SHARP!</div>
 
 </div>
 
