@@ -106,6 +106,7 @@ https://badge.dimensions.ai/
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="6ae4bc85-a01f-4090-ab87-a6f14639441d"></script>
 <style>
 
+
 /* ===============================
    OSU NAVBAR LOGO SIZE
    =============================== */
@@ -135,7 +136,9 @@ https://badge.dimensions.ai/
 }
 
 
+
 @media (max-width: 768px) {
+
 
   .navbar {
     min-height: 62px !important;
@@ -144,9 +147,13 @@ https://badge.dimensions.ai/
 
   .navbar-brand img,
   .navbar-logo {
+
     height: 55px !important;
+
     max-height: 55px !important;
+
   }
+
 
 }
 
@@ -154,13 +161,21 @@ https://badge.dimensions.ai/
 </style>
 
 
+
 <script>
+
 
 document.addEventListener("DOMContentLoaded", function () {
 
 
   const brand = document.querySelector(".navbar-brand");
 
+
+  const logo = document.querySelector(".navbar-brand img");
+
+
+
+  /* Homepage title link */
 
   if (brand) {
 
@@ -170,10 +185,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-  const logo = document.querySelector(".navbar-brand img");
-
+  /* OSU logo independent link */
 
   if (logo) {
+
 
     logo.style.cursor = "pointer";
 
@@ -183,11 +198,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
       event.preventDefault();
 
+
       event.stopPropagation();
 
 
-      window.location.href =
-      "https://cph.osu.edu/phd/biostatistics";
+
+      window.open(
+        "https://cph.osu.edu/phd/biostatistics",
+        "_blank"
+      );
 
 
     });
