@@ -8,7 +8,7 @@ description-meta: "Website for Dennis Baidoo"
 author-meta: "Dennis Baidoo"
 
 website:
-  title: "Homepage of Dennis Baidoo"
+  title: "Dennis Baidoo"
   image: "files/images/PIWC.JPG"
   description: "Statistical Scientist"
   site-url: "https://dbaidoo.github.io"
@@ -201,14 +201,25 @@ format:
           @media (max-width: 768px) {
 
             .navbar {
-              min-height: 62px !important;
+              min-height: 56px !important;
             }
 
 
             .navbar-brand img,
             .navbar-logo {
-              height: 55px !important;
-              max-height: 55px !important;
+              height: 34px !important;
+              max-height: 34px !important;
+              margin-right: 8px !important;
+            }
+
+
+            .navbar-title {
+              font-size: 0.95rem !important;
+              white-space: nowrap !important;
+              overflow: hidden !important;
+              text-overflow: ellipsis !important;
+              max-width: 150px !important;
+              display: inline-block !important;
             }
 
           }
