@@ -1,100 +1,58 @@
 ---
-title: ""
-description-meta: "Website"
-image: "files/images/Dbaidoo.JPG"
-page-navigation: false
-toc: false
-page-layout: full
+title: "Dennis Baidoo"
+description-meta: "Website of Dennis Baidoo, statistical scientist and Ph.D. student in Biostatistics at The Ohio State University."
+title-block-style: none
 ---
 
-<div class="home-container">
+```{=html}
+<section class="wrap hero">
+  <div class="hero-text">
+    <p class="overline">Ph.D. Student · Biostatistics · The Ohio State University</p>
+    <h1>Dennis Baidoo, M.S., <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank" rel="noopener">GStat</a></h1>
+    <p class="lead">I am a Statistical Scientist and Ph.D. student in Biostatistics at <a href="https://www.osu.edu/" target="_blank" rel="noopener">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
+    <p class="cta"><a class="btn" href="publications.html">Research</a> <a class="btn ghost" href="cv.html">CV</a></p>
+    <p class="links"><a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> <a href="https://www.researchgate.net/profile/Dennis-Baidoo-4/research" target="_blank" rel="noopener">ResearchGate</a> <a href="https://orcid.org/0009-0006-2719-7730" target="_blank" rel="noopener">ORCID</a> <a href="https://www.linkedin.com/in/dennisbaidoo1" target="_blank" rel="noopener">LinkedIn</a> <a class="mail" data-u="baidoo.20" data-d="osu.edu" href="#">Email</a></p>
+  </div>
+  <figure class="portrait"><img src="files/images/Dbaidoo.JPG" alt="Portrait of Dennis Baidoo"></figure>
+</section>
 
-<div class="profile-sidebar">
+<section class="wrap section" id="about">
+  <div class="cols">
+    <h2>About Me</h2>
+    <div class="prose">
+      <p>Thank you for visiting my website!</p>
+      <p>I earned my M.S. in Statistics from the <a href="https://www.unm.edu/" target="_blank" rel="noopener">University of New Mexico</a> and my B.Sc. double major in Mathematics and Statistics from the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a>. My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.</p>
+      <p><em>Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy connecting with nature, cooking authentic Ghanaian cuisine, participating in football, and pursuing hands-on craftsmanship, including making leather sandals and building wooden furniture.</em></p>
+      <figure class="photo"><img src="files/images/Dennis-ASA.JPG" alt="Dennis volunteering at ASA"><figcaption>Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD</figcaption></figure>
+      <p class="spirit">GO BUCKS AND V-MATE, SHARP!</p>
+    </div>
+  </div>
+</section>
 
-<img src="files/images/Dbaidoo.JPG" class="profile-img">
+<section class="wrap section" id="news">
+  <div class="section-head"><h2>Recent News</h2><a class="more" href="mediatab.html">All news</a></div>
+  <ul class="news">
+    <li><span class="news-date">October 2026</span><span>Paper published in <em>PLOS One</em>: <a href="https://doi.org/10.1371/journal.pone.0348390" target="_blank" rel="noopener">Multi-dimensional structure and subtype-specific heterogeneity of angiogenesis in breast cancer</a>.</span></li>
+    <li><span class="news-date">August 2026</span><span>Started the Ph.D. in Biostatistics at The Ohio State University.</span></li>
+    <li><span class="news-date">June 2026</span><span><a href="https://magazine.amstat.org/blog/2026/06/01/2026-awards/" target="_blank" rel="noopener">Featured among ASA award recipients</a> and selected for the Norman Beery Memorial Scholarship.</span></li>
+  </ul>
+</section>
 
-<div class="sidebar-name">
-Dennis Baidoo, M.S., <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank">GStat</a>
-</div>
+<section class="wrap section" id="journey">
+  <div class="cols">
+    <h2>My Academic Journey</h2>
+    <div class="entries">
+<article class="entry"><div class="entry-date">Aug 2026 – May 2031</div><div class="entry-body"><h4>Ph.D. in Biostatistics</h4><p class="meta">The Ohio State University</p></div></article>
+<article class="entry"><div class="entry-date">Jan 2023 – May 2025</div><div class="entry-body"><h4>M.S. in Statistics</h4><p class="meta">University of New Mexico</p></div></article>
+<article class="entry"><div class="entry-date">Aug 2017 – Nov 2021</div><div class="entry-body"><h4>B.Sc. in Mathematics &amp; Statistics</h4><p class="meta">University of Ghana, Legon</p></div></article>
+    </div>
+  </div>
+</section>
 
-<div class="sidebar-title">
-Ph.D. Student in Biostatistics<br>
-The Ohio State University
-</div>
-
-<div class="sidebar-links">
-
-<span class="email-icon">{{< fa envelope >}}</span> baidoo.20@osu.edu<br>
-
-<span class="scholar-icon">{{< ai google-scholar >}}</span> [Google Scholar](https://scholar.google.com/citations?user=ffB7SWYAAAAJ&hl=en&oi=ao)<br>
-
-<span class="researchgate-icon">{{< ai researchgate >}}</span> [ResearchGate](https://www.researchgate.net/profile/Dennis-Baidoo-4/research)<br>
-
-<span class="orcid-icon">{{< ai orcid >}}</span> [ORCiD](https://orcid.org/0009-0006-2719-7730)<br>
-
-<span class="linkedin-icon">{{< fa brands linkedin >}}</span> [LinkedIn](https://www.linkedin.com/in/dennisbaidoo1)
-
-</div>
-
-<div class="sidebar-quote">
-&ldquo;Students should understand that statistical analysis is an investigative process.&rdquo;<br>
-<span class="quote-attrib">&mdash; Patrick Hopfensperger, Statistics Educator (ASA)</span>
-</div>
-
-<div class="timeline-heading">My Academic Journey</div>
-
-<div class="timeline">
-
-<div class="timeline-item">
-<div class="timeline-dot timeline-dot-current"></div>
-<div class="timeline-content">
-<div class="timeline-title">Ph.D. in Biostatistics</div>
-<div class="timeline-meta">The Ohio State University<br><span class="timeline-dates">Aug 2026 — May 2031</span></div>
-</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-dot"></div>
-<div class="timeline-content">
-<div class="timeline-title">M.S. in Statistics</div>
-<div class="timeline-meta">University of New Mexico<br><span class="timeline-dates">Jan 2023 — May 2025</span></div>
-</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-dot"></div>
-<div class="timeline-content">
-<div class="timeline-title">B.Sc. in Mathematics &amp; Statistics</div>
-<div class="timeline-meta">University of Ghana, Legon<br><span class="timeline-dates">Aug 2017 — Nov 2021</span></div>
-</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="main-about">
-
-## About Me
-
-Thank you for visiting my website!
-
-I am a Statistical Scientist and Ph.D. student in Biostatistics at [The Ohio State University](https://www.osu.edu/), with a background in statistics, mathematics, and data-driven approaches to scientific research.
-
-I earned my M.S. in Statistics from the [University of New Mexico](https://www.unm.edu/) and my B.Sc. double major in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/). My academic journey reflects a commitment to applying statistical thinking and rigorous methodology to generate meaningful insights and support evidence-based decision-making.
-
-*Outside of my research, I engage in professional service through ASA and ENAR initiatives, support underrepresented high school and college students, enjoy connecting with nature, cooking authentic Ghanaian cuisine, participating in football, and pursuing hands-on craftsmanship, including making leather sandals and building wooden furniture.*
-
-<img src="files/images/Dennis-ASA.JPG"
-     alt="Dennis volunteering at ASA"
-     style="max-width: 45%; margin-top: 24px; border-radius: 6px;">
-
-<div class="caption">
-Registration Assistant at the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Rockville, MD
-</div>
-
-<div class="spirit-line">GO BUCKS AND V-MATE, SHARP!</div>
-
-</div>
-
-</div>
+<section class="wrap section" id="quote">
+  <div class="callout">
+    <p>&ldquo;Students should understand that statistical analysis is an investigative process.&rdquo;</p>
+    <p class="attrib">&mdash; Patrick Hopfensperger, Statistics Educator (ASA)</p>
+  </div>
+</section>
+```

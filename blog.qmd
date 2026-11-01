@@ -1,26 +1,26 @@
 ---
 title: "Blog Posts"
-listing: 
-  contents: blog
-  type: table
-  sort: "date desc"
-  fields: [date, title, author]
+description-meta: "Blog posts by Dennis Baidoo."
+title-block-style: none
 ---
 
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Blog</p>
+<h1>Blog Posts</h1>
+<p class="lead">Statistical analyses and write-ups by Dennis Baidoo.</p>
 
-| Date      | Title | Author |
-|-----------|-------|--------|
-| 12/8/25   |[Projected 3D array: Age category, Tumor size and HR; Cox model on SEER cohort; top faces color-coded by hazard ratio](https://rpubs.com/BaidooHub/1377993) | Dennis Baidoo |
-| 6/21/25   | [Determinants of Pulse Rate Variability in Response to Acute Physical Activity: An Analysis of Classroom Experiment Data](https://rpubs.com/BaidooHub/1324328) | Dennis Baidoo |
-|  6/21/25  | [Determinants of Sleep Duration in the American Time Use Survey](https://rpubs.com/BaidooHub/1324320) | Dennis Baidoo |
-|  6/21/25  | [Analysis of Political Tolerance Among Faculty Ranks: An Analysis of Covariance Approach](https://rpubs.com/BaidooHub/1324436) | Dennis Baidoo |
-|  6/21/25  | [Classification of Wild Razorback Sucker Origins Using PCA and Logistic Regression](https://rpubs.com/BaidooHub/1324288) | Dennis Baidoo |
-|  6/21/25  | [Classification of Razorback Sucker Origins Using Stable Isotope Ratios and Discriminant Analysis](https://rpubs.com/BaidooHub/1324270) | Dennis Baidoo |
-| 6/20/25   | [Predicting Endemic Plant Proportions in the Galapagos Islands Using Logistic Regression](https://rpubs.com/BaidooHub/1324057) | Dennis Baidoo |
-| 6/20/25   | [Principal Components Analysis of New Mexico County-Level Poverty and Housing Characteristics](https://rpubs.com/BaidooHub/1324052) | Dennis Baidoo |
-| 6/20/25   | [Principal Components Analysis of Prehistoric Goblets from Thailand](https://rpubs.com/BaidooHub/1324051) | Dennis Baidoo |
-| 6/4/25   | [Isotopic Clustering Analysis of San Juan River Razorback Suckers](https://rpubs.com/BaidooHub/1318391) | Dennis Baidoo |
-
-
-
-
+</section>
+<section class="wrap page-body"><ul class="news">
+<li><span class="news-date">Dec 8, 2025</span><span><a href="https://rpubs.com/BaidooHub/1377993" target="_blank" rel="noopener">Projected 3D array: Age category, Tumor size and HR; Cox model on SEER cohort; top faces color-coded by hazard ratio</a></span></li>
+<li><span class="news-date">Jun 21, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324328" target="_blank" rel="noopener">Determinants of Pulse Rate Variability in Response to Acute Physical Activity: An Analysis of Classroom Experiment Data</a></span></li>
+<li><span class="news-date">Jun 21, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324320" target="_blank" rel="noopener">Determinants of Sleep Duration in the American Time Use Survey</a></span></li>
+<li><span class="news-date">Jun 21, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324436" target="_blank" rel="noopener">Analysis of Political Tolerance Among Faculty Ranks: An Analysis of Covariance Approach</a></span></li>
+<li><span class="news-date">Jun 21, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324288" target="_blank" rel="noopener">Classification of Wild Razorback Sucker Origins Using PCA and Logistic Regression</a></span></li>
+<li><span class="news-date">Jun 21, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324270" target="_blank" rel="noopener">Classification of Razorback Sucker Origins Using Stable Isotope Ratios and Discriminant Analysis</a></span></li>
+<li><span class="news-date">Jun 20, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324057" target="_blank" rel="noopener">Predicting Endemic Plant Proportions in the Galapagos Islands Using Logistic Regression</a></span></li>
+<li><span class="news-date">Jun 20, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324052" target="_blank" rel="noopener">Principal Components Analysis of New Mexico County-Level Poverty and Housing Characteristics</a></span></li>
+<li><span class="news-date">Jun 20, 2025</span><span><a href="https://rpubs.com/BaidooHub/1324051" target="_blank" rel="noopener">Principal Components Analysis of Prehistoric Goblets from Thailand</a></span></li>
+<li><span class="news-date">Jun 4, 2025</span><span><a href="https://rpubs.com/BaidooHub/1318391" target="_blank" rel="noopener">Isotopic Clustering Analysis of San Juan River Razorback Suckers</a></span></li>
+</ul></section>
+```

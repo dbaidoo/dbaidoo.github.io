@@ -1,75 +1,43 @@
 ---
-title: "Research Presentations and Contributed Talks"
-description-meta: "Information, pdfs, and social metrics of papers"
-css: custom.css
+title: "Presentations"
+description-meta: "Research presentations and contributed talks by Dennis Baidoo."
+title-block-style: none
 ---
 
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Presentations</p>
+<h1>Research Presentations and Contributed Talks</h1>
 
-### Contributed Talks
 
-<div class="presentation-item">
-  <p><span class="presentation-number">2.</span> <span class="author-name">Baidoo, D.</span> (2026, April). Beyond the Formula: Transitioning Students from Passive Repetition to Active Quantitative Reasoning. Contributed talk presented at the University of New Mexico Spring Teaching Conference.</p>
+</section>
+<div class="wrap cv-layout">
+<nav class="cv-toc" aria-label="Page sections"><a href="#talks">Contributed Talks</a><a href="#posters">Poster Presentations</a><a href="#conferences">Recent and Upcoming Conferences</a></nav>
+<div class="cv-main">
+<section class="cv-section" id="talks"><h2>Contributed Talks</h2>
+<ol class="cv-list" reversed><li><span class="me">Baidoo, D.</span> (2026, April). Beyond the Formula: Transitioning Students from Passive Repetition to Active Quantitative Reasoning. Contributed talk presented at the University of New Mexico Spring Teaching Conference.</li><li><span class="me">Baidoo, D.</span> (2024, May). Crossing Academic Borders: Navigating Teaching in the U.S. as an International Student. Contributed talk presented at the Center for Teaching and Learning, University of New Mexico, Albuquerque, New Mexico.</li></ol>
+</section>
+<section class="cv-section" id="posters"><h2>Poster Presentations</h2>
+<ol class="cv-list" reversed><li><span class="me">Baidoo, D.</span> (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi.</li><li><span class="me">Baidoo, D.</span>, (2025, August). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the Statistics in Pharmaceuticals (SIP), University of Connecticut.</li><li><span class="me">Baidoo, D.</span>, &amp; Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.</li><li><span class="me">Baidoo, D.</span>, &amp; Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan.</li></ol>
+</section>
+<section class="cv-section" id="conferences"><h2>Recent and Upcoming Conferences</h2>
+<ul class="news">
+<li><span class="news-date">Aug 2026</span><span>Attending the <strong>Joint Statistical Meetings (JSM)</strong> and will receive the <strong>Norman Beery Memorial Scholarship</strong> at the ASA President Speech &amp; Award Night, Boston, MA</span></li>
+<li><span class="news-date">July 2026</span><span>Attending the <strong>Teaching Statistical Thinking with GAISE Workshop</strong>, Curry College, Milton, MA</span></li>
+<li><span class="news-date">Sept 2025</span><span>Travel Award Recipient, <strong>South Central Topology Conference IV</strong>, Texas A&amp;M University, College Station, TX</span></li>
+<li><span class="news-date">Aug 2025</span><span>Presented poster at the <strong>Statistics in Pharmaceuticals (SIP) Conference</strong>, University of Connecticut, CT</span></li>
+<li><span class="news-date">Aug 2025</span><span>Participated in the <strong>Joint Statistical Meetings (JSM)</strong>, Nashville, TN</span></li>
+<li><span class="news-date">Apr 2025</span><span>Attended the <strong>ASA Symposium on Data Science &amp; Statistics (SDSS)</strong>, Salt Lake City, UT</span></li>
+<li><span class="news-date">Mar 2025</span><span>Attended the <strong>ENAR Spring Meeting</strong>, New Orleans, LA</span></li>
+<li><span class="news-date">Sept 2024</span><span>Reviewer, <strong>Ronald E. McNair Scholars Research Competition Conference</strong></span></li>
+<li><span class="news-date">Aug 2024</span><span>Attended the <strong>Joint Statistical Meetings (JSM)</strong>, Portland, OR</span></li>
+<li><span class="news-date">Oct 2023</span><span>Travel Award Recipient, <strong>South Central Topology Conference III</strong>, New Mexico State University, Las Cruces, NM</span></li>
+<li><span class="news-date">Sept 2023</span><span>Travel Award Recipient and Poster Presenter at the <strong>Prof. Michael Woodroofe Memorial Conference</strong>, University of Michigan, Ann Arbor, MI</span></li>
+<li><span class="news-date">Sept 2023</span><span>Reviewer, <strong>Ronald E. McNair Scholars Research Competition Conference</strong></span></li>
+<li><span class="news-date">Sept 2023</span><span>Registration Assistant and attendee at the <strong>ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop</strong>, Rockville, MD</span></li>
+<li><span class="news-date">Sept 2023</span><span>Served as a volunteer at the <strong>2023 Albuquerque Cybersecurity Conference</strong>, University of New Mexico, Albuquerque, NM</span></li>
+</ul>
+</section>
 </div>
-
-<div class="presentation-item">
-  <p><span class="presentation-number">1.</span> <span class="author-name">Baidoo, D.</span> (2024, May). Crossing Academic Borders: Navigating Teaching in the U.S. as an International Student. Contributed talk presented at the Center for Teaching and Learning, University of New Mexico, Albuquerque, New Mexico.</p>
 </div>
-
-### Poster Presentation
-
-<style>
-/* Custom CSS to style the list exactly as you want it */
-.presentation-item {
-  margin-bottom: 25px; /* Adds space between each entry */
-}
-
-.presentation-number {
-  color: black; /* The number color in your screenshot */
-  font-weight: bold;
-}
-
-.author-name {
-  color: #8B0000;
-  font-weight: bold;
-}
-</style>
-
-<div class="presentation-item">
-  <p><span class="presentation-number">5.</span> <span class="author-name">Baidoo, D.</span> (2025, October). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the International Forum on Research Excellence, Sigma Xi.</p>
-</div>
-
-<div class="presentation-item">
-  <p><span class="presentation-number">4.</span> <span class="author-name">Baidoo, D.</span>, (2025, August). Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. Paper accepted for presentation at the Statistics in Pharmaceuticals (SIP), University of Connecticut.</p>
-</div>
-
-<div class="presentation-item">
-  <p><span class="presentation-number">3.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2024, February). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. Paper accepted for presentation at the American Statistical Association Conference on Statistical Practice, New Orleans, Louisiana.</p>
-</div>
-
-
-<div class="presentation-item">
-  <p><span class="presentation-number">1.</span> <span class="author-name">Baidoo, D.</span>, & Okeke, O. J. (2023, September). Leveraging Bayesian Belief Networks to Uncover Place-Based Influences on Adolescent Obesity in New Mexico. The paper was accepted for presentation at the Prof. Michael Woodroofe Memorial Conference, Ann Arbor, Department of Statistics, University of Michigan.</p>
-</div>
-
-## 🗓️ Recent and Upcoming Conferences
-
-
-- **Aug 2026:** Attending the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span> and will receive the **Norman Beery Memorial Scholarship** at the ASA President Speech & Award Night, Boston, MA
-
-
-- **July 2026:** Attending the <span style="color:#8B0000; font-weight:bold">Teaching Statistical Thinking with GAISE Workshop </span>, Curry College, Milton, MA
-
-
-- **Sept 2025:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference IV</span>, Texas A&M University, College Station, TX  
-- **Aug 2025:** Presented poster at the <span style="color:#8B0000; font-weight:bold">Statistics in Pharmaceuticals (SIP) Conference</span>, University of Connecticut, CT  
-- **Aug 2025:** Participated in the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM) </span>, Nashville, TN
-- **Apr 2025:** Attended the <span style="color:#8B0000; font-weight:bold">ASA Symposium on Data Science & Statistics (SDSS)</span>, Salt Lake City, UT
-- **Mar 2025:** Attended the <span style="color:#8B0000; font-weight:bold">ENAR Spring Meeting</span>, New Orleans, LA
-- **Sept 2024:** Reviewer, <span style="color:#8B0000; font-weight:bold">Ronald E. McNair Scholars Research Competition Conference</span>  
-- **Aug 2024:** Attended the <span style="color:#8B0000; font-weight:bold">Joint Statistical Meetings (JSM)</span>, Portland, OR
-- **Oct 2023:** Travel Award Recipient, <span style="color:#8B0000; font-weight:bold">South Central Topology Conference III</span>, New Mexico State University, Las Cruces, NM  
-- **Sept 2023:** Travel Award Recipient and Poster Presenter at the <span style="color:#8B0000; font-weight:bold">Prof. Michael Woodroofe Memorial Conference</span>, University of Michigan, Ann Arbor, MI  
-- **Sept 2023:** Reviewer, <span style="color:#8B0000; font-weight:bold">Ronald E. McNair Scholars Research Competition Conference</span>  
-- **Sept 2023:** Registration Assistant and attendee at the <span style="color:#8B0000; font-weight:bold">ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop </span>, Rockville, MD
-- **Sept 2023:** Served as a volunteer at the <span style="color:#8B0000; font-weight:bold">2023 Albuquerque Cybersecurity Conference</span>, University of New Mexico, Albuquerque, NM
-
+```

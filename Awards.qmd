@@ -1,160 +1,41 @@
 ---
 title: "Awards and Honors"
-description-meta: "A comprehensive list of my awards, honors, and scholarships."
-css: custom.css
+description-meta: "Awards, honors, and scholarships received by Dennis Baidoo."
+title-block-style: none
 ---
 
-<style>
-/* Custom CSS to style the awards list exactly as requested */
-.award-container {
-  margin-bottom: 25px;
-}
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Awards</p>
+<h1>Awards and Honors</h1>
+<p class="lead">A comprehensive list of my awards, honors, and scholarships.</p>
 
-.award-title-line {
-  font-family: inherit;
-  font-size: 1.1em;
-  line-height: 1.5;
-}
-
-.award-number {
-  color: #333;
-  font-weight: bold;
-  margin-right: 5px;
-}
-
-.award-name {
-  color: #8B0000;
-  font-weight: bold;
-}
-
-.award-description {
-  font-style: italic;
-  margin-left: 20px;
-  line-height: 1.5;
-}
-</style>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">25.</span> <span class="award-name">Norman Beery Memorial Scholarship</span>, American Statistical Association (2026)</p>
-  <p class="award-description">Annual scholarship supporting first-generation college students in statistics, established in honor of veteran and railroad worker Norman Beery, providing financial assistance to advance their education.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">24.</span> <span class="award-name">University Fellowship</span>, The Ohio State University (2026)</p>
-  <p class="award-description">Awarded university fellowship support recognizing academic achievement and potential for success in doctoral study and research.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">23.</span> <span class="award-name">NISS Writing Workshop for Junior Researchers Travel Award</span>, National Institute of Statistical Sciences (2026)</p>
-  <p class="award-description">Selected for travel support to participate in a professional development workshop focused on scientific writing, journal publication, grant writing, reproducibility, and research communication with guidance from senior researchers and editors.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">22.</span> <span class="award-name">Teaching Statistical Thinking with GAISE Workshop Travel Award</span>, NSF-Funded EAPOST Program (2026)</p>
-  <p class="award-description">Selected for travel support to participate in a faculty development workshop focused on effective statistics and data science education, emphasizing statistical thinking, the statistical investigation process, multivariable thinking, and simulation-based inference.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">21.</span> <span class="award-name">Lester R. Curtin Award</span>, American Statistical Association (2025)</p>
-  <p class="award-description">Annual award providing promising young health statisticians with financial support for conference registration, travel, and continuing education courses.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">20.</span> <span class="award-name">Statistics in Pharmaceuticals (SIP) Scholarship Award</span>, University of Connecticut (2025)</p>
-  <p class="award-description">Scholarship supporting graduate students in statistics for pharmaceutical research, providing opportunities for conference participation and professional development.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">19.</span> <span class="award-name">Joint Statistical Meetings Student Travel Award</span>, American Statistical Association (2025)</p>
-  <p class="award-description">Travel award supporting student participation at the Joint Statistical Meetings through funding for registration, travel, and professional development opportunities.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">18.</span> <span class="award-name">Statistics and Data Science Symposium Student Travel Award</span>, American Statistical Association (2025)</p>
-  <p class="award-description">Travel award supporting student participation at the Statistics and Data Science Symposium through funding for registration, travel, and professional development opportunities.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">17.</span> <span class="award-name">Sigma Xi Member</span>, University of New Mexico Chapter (2025)</p>
-  <p class="award-description">Elected member of Sigma Xi in recognition of excellence in scientific research.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">16.</span> <span class="award-name">The South Central Topology Conference IV Travel Award</span>, Texas A&M University (2025)</p>
-  <p class="award-description">Support for student travel to present research at the South Central Topology Conference IV, Texas A&M University.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">15.</span> <span class="award-name">Excellence in Teaching Award</span>, University of New Mexico (2025)</p>
-  <p class="award-description">Award recognizing outstanding performance and commitment to excellence in teaching.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">14.</span> <span class="award-name">Biopharmaceutical Section Student Scholarship Award</span>, American Statistical Association (2024)</p>
-  <p class="award-description">Recognizes notable research, academic achievement, and applied project work in biopharmaceutical statistics, with additional consideration given to overall academic performance, leadership, volunteerism, and service. Selected as the sole master’s student among nine other elite PhD candidates.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">13.</span> <span class="award-name">Diversity Mentoring Program Award</span>, Joint Statistical Meetings (2024)</p>
-  <p class="award-description">Award supporting participation in the Diversity Mentoring Program, fostering mentorship, professional development, and networking for early-career statisticians.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">12.</span> <span class="award-name">Office of the Vice President for Research Zancada Graduate Fellowship</span>, University of New Mexico (2024)</p>
-  <p class="award-description">Fellowship program fostering a cohort of future leaders in science, technology, humanities, and the arts, with “Zancada” — Spanish for stride — symbolizing preparation to pursue interdisciplinary, actionable, and meaningful solutions to global challenges.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">11.</span> <span class="award-name">Acxiom Diversity Scholarship Award</span>, Acxiom (2024)</p>
-  <p class="award-description">Scholarship providing tuition support, stipends, and books to promote diversity in data science and related fields.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">10.</span> <span class="award-name">Golden Key International Honour Society Member</span>, University of New Mexico Chapter (2024)</p>
-  <p class="award-description">Induction into an international honor society recognizing the top 15% of the graduating class for academic excellence, leadership, and service.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">9.</span> <span class="award-name">Graduate Scholarship Fund Grant</span>, University of New Mexico (2024)</p>
-  <p class="award-description">Grant providing support for tuition and books to advance graduate education.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">8.</span> <span class="award-name">The South Central Topology Conference III Travel Award</span>, New Mexico State University (2023)</p>
-  <p class="award-description">Support for student travel to participate in the South Central Topology Conference III, fostering research exchange and professional development.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">7.</span> <span class="award-name">Professional Development Grant</span>, University of New Mexico (2023-2025)</p>
-  <p class="award-description">Grant providing support for professional development through attendance at academic conferences.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">6.</span> <span class="award-name">Project for New Mexico Graduates of Color Scholarship</span>, University of New Mexico (2023-2025)</p>
-  <p class="award-description">Program providing mentoring, guidance, and professional development opportunities to promote diversity in statistics and data science.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">5.</span> <span class="award-name">Scholarship of Teaching & Learning Award</span>, University of New Mexico (2023)</p>
-  <p class="award-description">Recognition for advancing teaching and learning through scholarly inquiry, innovation, and reflective practice in the classroom.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">4.</span> <span class="award-name">Prof. Michael Woodroofe Memorial Conference Travel Award</span>, University of Michigan (2023)</p>
-  <p class="award-description">Support for student travel to present research at the Prof. Michael Woodroofe Memorial Conference, fostering professional development and collaboration in statistics.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">3.</span> <span class="award-name">Student Research Grant</span>, University of New Mexico (2023)</p>
-  <p class="award-description">Grant support to present research on adolescent obesity, fostering professional growth and dissemination of findings.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">2.</span> <span class="award-name">Dean's Honor List</span>, University of Ghana (2021)</p>
-  <p class="award-description">Recognition for achieving high academic performance and maintaining excellence in coursework.</p>
-</div>
-
-<div class="award-container">
-  <p class="award-title-line"><span class="award-number">1.</span> <span class="award-name">Overall Best Student in HIV/AIDS Prevention Competition</span>, Gomoa West Education District (2012)</p>
-  <p class="award-description">Recognition as the overall best student in an HIV/AIDS prevention competition for knowledge, awareness, and advocacy.</p>
-</div>
+</section>
+<section class="wrap page-body"><div class="entries">
+<article class="entry"><div class="entry-date">2026</div><div class="entry-body"><h4>Norman Beery Memorial Scholarship</h4><p class="meta">American Statistical Association</p><p>Annual scholarship supporting first-generation college students in statistics, established in honor of veteran and railroad worker Norman Beery, providing financial assistance to advance their education.</p></div></article>
+<article class="entry"><div class="entry-date">2026</div><div class="entry-body"><h4>University Fellowship</h4><p class="meta">The Ohio State University</p><p>Awarded university fellowship support recognizing academic achievement and potential for success in doctoral study and research.</p></div></article>
+<article class="entry"><div class="entry-date">2026</div><div class="entry-body"><h4>NISS Writing Workshop for Junior Researchers Travel Award</h4><p class="meta">National Institute of Statistical Sciences</p><p>Selected for travel support to participate in a professional development workshop focused on scientific writing, journal publication, grant writing, reproducibility, and research communication with guidance from senior researchers and editors.</p></div></article>
+<article class="entry"><div class="entry-date">2026</div><div class="entry-body"><h4>Teaching Statistical Thinking with GAISE Workshop Travel Award</h4><p class="meta">NSF-Funded EAPOST Program</p><p>Selected for travel support to participate in a faculty development workshop focused on effective statistics and data science education, emphasizing statistical thinking, the statistical investigation process, multivariable thinking, and simulation-based inference.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Lester R. Curtin Award</h4><p class="meta">American Statistical Association</p><p>Annual award providing promising young health statisticians with financial support for conference registration, travel, and continuing education courses.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Statistics in Pharmaceuticals (SIP) Scholarship Award</h4><p class="meta">University of Connecticut</p><p>Scholarship supporting graduate students in statistics for pharmaceutical research, providing opportunities for conference participation and professional development.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Joint Statistical Meetings Student Travel Award</h4><p class="meta">American Statistical Association</p><p>Travel award supporting student participation at the Joint Statistical Meetings through funding for registration, travel, and professional development opportunities.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Statistics and Data Science Symposium Student Travel Award</h4><p class="meta">American Statistical Association</p><p>Travel award supporting student participation at the Statistics and Data Science Symposium through funding for registration, travel, and professional development opportunities.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Sigma Xi Member</h4><p class="meta">University of New Mexico Chapter</p><p>Elected member of Sigma Xi in recognition of excellence in scientific research.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>The South Central Topology Conference IV Travel Award</h4><p class="meta">Texas A&amp;M University</p><p>Support for student travel to present research at the South Central Topology Conference IV, Texas A&amp;M University.</p></div></article>
+<article class="entry"><div class="entry-date">2025</div><div class="entry-body"><h4>Excellence in Teaching Award</h4><p class="meta">University of New Mexico</p><p>Award recognizing outstanding performance and commitment to excellence in teaching.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Biopharmaceutical Section Student Scholarship Award</h4><p class="meta">American Statistical Association</p><p>Recognizes notable research, academic achievement, and applied project work in biopharmaceutical statistics, with additional consideration given to overall academic performance, leadership, volunteerism, and service. Selected as the sole master’s student among nine other elite PhD candidates.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Diversity Mentoring Program Award</h4><p class="meta">Joint Statistical Meetings</p><p>Award supporting participation in the Diversity Mentoring Program, fostering mentorship, professional development, and networking for early-career statisticians.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Office of the Vice President for Research Zancada Graduate Fellowship</h4><p class="meta">University of New Mexico</p><p>Fellowship program fostering a cohort of future leaders in science, technology, humanities, and the arts, with “Zancada” — Spanish for stride — symbolizing preparation to pursue interdisciplinary, actionable, and meaningful solutions to global challenges.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Acxiom Diversity Scholarship Award</h4><p class="meta">Acxiom</p><p>Scholarship providing tuition support, stipends, and books to promote diversity in data science and related fields.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Golden Key International Honour Society Member</h4><p class="meta">University of New Mexico Chapter</p><p>Induction into an international honor society recognizing the top 15% of the graduating class for academic excellence, leadership, and service.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Graduate Scholarship Fund Grant</h4><p class="meta">University of New Mexico</p><p>Grant providing support for tuition and books to advance graduate education.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>The South Central Topology Conference III Travel Award</h4><p class="meta">New Mexico State University</p><p>Support for student travel to participate in the South Central Topology Conference III, fostering research exchange and professional development.</p></div></article>
+<article class="entry"><div class="entry-date">2023 – 2025</div><div class="entry-body"><h4>Professional Development Grant</h4><p class="meta">University of New Mexico</p><p>Grant providing support for professional development through attendance at academic conferences.</p></div></article>
+<article class="entry"><div class="entry-date">2023 – 2025</div><div class="entry-body"><h4>Project for New Mexico Graduates of Color Scholarship</h4><p class="meta">University of New Mexico</p><p>Program providing mentoring, guidance, and professional development opportunities to promote diversity in statistics and data science.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>Scholarship of Teaching &amp; Learning Award</h4><p class="meta">University of New Mexico</p><p>Recognition for advancing teaching and learning through scholarly inquiry, innovation, and reflective practice in the classroom.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>Prof. Michael Woodroofe Memorial Conference Travel Award</h4><p class="meta">University of Michigan</p><p>Support for student travel to present research at the Prof. Michael Woodroofe Memorial Conference, fostering professional development and collaboration in statistics.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>Student Research Grant</h4><p class="meta">University of New Mexico</p><p>Grant support to present research on adolescent obesity, fostering professional growth and dissemination of findings.</p></div></article>
+<article class="entry"><div class="entry-date">2021</div><div class="entry-body"><h4>Dean's Honor List</h4><p class="meta">University of Ghana</p><p>Recognition for achieving high academic performance and maintaining excellence in coursework.</p></div></article>
+<article class="entry"><div class="entry-date">2012</div><div class="entry-body"><h4>Overall Best Student in HIV/AIDS Prevention Competition</h4><p class="meta">Gomoa West Education District</p><p>Recognition as the overall best student in an HIV/AIDS prevention competition for knowledge, awareness, and advocacy.</p></div></article>
+</div></section>
+```

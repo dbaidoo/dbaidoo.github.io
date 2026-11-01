@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dbaidoo.github.io/posts/paper-title/index.html</loc>
+    <loc>https://dbaidoo.github.io/teaching.html</loc>
+    <lastmod>2026-11-01T21:42:50.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbaidoo.github.io/projects.html</loc>
     <lastmod>2026-06-14T01:47:31.000Z</lastmod>
   </url>
   <url>
@@ -9,55 +13,59 @@
     <lastmod>2026-06-14T01:47:31.000Z</lastmod>
   </url>
   <url>
-    <loc>https://dbaidoo.github.io/teaching.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://dbaidoo.github.io/posts.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+    <lastmod>2026-11-01T21:42:50.706Z</lastmod>
   </url>
   <url>
     <loc>https://dbaidoo.github.io/mediatab.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+    <lastmod>2026-11-01T21:42:50.706Z</lastmod>
   </url>
   <url>
-    <loc>https://dbaidoo.github.io/blog.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+    <loc>https://dbaidoo.github.io/cv.html</loc>
+    <lastmod>2026-11-01T21:42:50.709Z</lastmod>
   </url>
   <url>
-    <loc>https://dbaidoo.github.io/MyUpdate.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dbaidoo.github.io/contact.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dbaidoo.github.io/Awards.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+    <loc>https://dbaidoo.github.io/collaborative.html</loc>
+    <lastmod>2026-11-01T21:42:50.704Z</lastmod>
   </url>
   <url>
     <loc>https://dbaidoo.github.io/algoverse.html</loc>
     <lastmod>2026-06-14T01:47:31.000Z</lastmod>
   </url>
   <url>
+    <loc>https://dbaidoo.github.io/Awards.html</loc>
+    <lastmod>2026-11-01T21:42:50.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbaidoo.github.io/MyUpdate.html</loc>
+    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbaidoo.github.io/blog.html</loc>
+    <lastmod>2026-11-01T21:42:50.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbaidoo.github.io/contact.html</loc>
+    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://dbaidoo.github.io/index.html</loc>
-    <lastmod>2026-09-13T03:51:14.553Z</lastmod>
+    <lastmod>2026-11-01T21:42:50.709Z</lastmod>
   </url>
   <url>
     <loc>https://dbaidoo.github.io/people.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dbaidoo.github.io/publications.html</loc>
-    <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+    <lastmod>2026-11-01T21:42:50.706Z</lastmod>
   </url>
   <url>
     <loc>https://dbaidoo.github.io/posts/event-title/index.html</loc>
     <lastmod>2026-06-14T01:47:31.000Z</lastmod>
   </url>
   <url>
-    <loc>https://dbaidoo.github.io/projects.html</loc>
+    <loc>https://dbaidoo.github.io/posts/paper-title/index.html</loc>
     <lastmod>2026-06-14T01:47:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbaidoo.github.io/publications.html</loc>
+    <lastmod>2026-11-01T21:44:13.737Z</lastmod>
   </url>
 </urlset>

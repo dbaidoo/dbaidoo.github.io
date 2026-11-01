@@ -1,0 +1,71 @@
+<footer class="site-footer"><div class="wrap foot">
+  <div>
+    <div class="foot-name">Dennis Baidoo, M.S., GStat</div>
+    <div>Ph.D. Student in Biostatistics, The Ohio State University</div>
+    <div><a class="mail" data-u="baidoo.20" data-d="osu.edu" href="#">baidoo.20 [at] osu.edu</a></div>
+  </div>
+  <div class="foot-right">
+    <div><a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Dennis-Baidoo-4/research" target="_blank" rel="noopener">ResearchGate</a> · <a href="https://orcid.org/0009-0006-2719-7730" target="_blank" rel="noopener">ORCID</a> · <a href="https://github.com/dbaidoo/dbaidoo.github.io" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.linkedin.com/in/dennisbaidoo1" target="_blank" rel="noopener">LinkedIn</a></div>
+    <div class="muted" id="updated"></div>
+  </div>
+</div></footer>
+<script>
+(function () {
+  // Mark the current tab.
+  var path = location.pathname.split("/").pop() || "index.html";
+  if (path.indexOf(".") === -1) path += ".html";
+  document.querySelectorAll(".nav a").forEach(function (a) {
+    if (a.getAttribute("href").split("/").pop().toLowerCase() === path.toLowerCase()) {
+      a.classList.add("active");
+      a.setAttribute("aria-current", "page");
+    }
+  });
+
+  // Spam-resistant email links.
+  document.querySelectorAll("a.mail").forEach(function (a) {
+    var addr = a.dataset.u + "@" + a.dataset.d;
+    a.href = "mailto:" + addr;
+    if (a.textContent.indexOf("[at]") !== -1) a.textContent = addr;
+  });
+
+  // Footer date.
+  var updated = document.getElementById("updated");
+  if (updated) {
+    updated.textContent = "Updated " + new Date(document.lastModified).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  }
+
+  // Research page filters.
+  var pills = document.querySelectorAll(".pill");
+  if (!pills.length) return;
+  var items = document.querySelectorAll(".paper[data-type]");
+  var groups = document.querySelectorAll(".pub-group");
+  var search = document.querySelector(".search");
+  var empty = document.querySelector(".empty");
+  var type = "all";
+
+  function apply() {
+    var q = (search.value || "").trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function (li) {
+      var ok = (type === "all" || li.dataset.type === type) &&
+               (!q || li.textContent.toLowerCase().indexOf(q) !== -1);
+      li.hidden = !ok;
+      if (ok) shown++;
+    });
+    groups.forEach(function (g) {
+      g.hidden = !g.querySelector(".paper:not([hidden])");
+    });
+    empty.hidden = shown !== 0;
+  }
+
+  pills.forEach(function (b) {
+    b.addEventListener("click", function () {
+      pills.forEach(function (x) { x.classList.remove("active"); });
+      b.classList.add("active");
+      type = b.dataset.filter;
+      apply();
+    });
+  });
+  search.addEventListener("input", apply);
+})();
+</script>
