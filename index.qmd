@@ -1,6 +1,6 @@
 ---
 title: "Dennis Baidoo"
-description-meta: "Website of Dennis Baidoo, statistical scientist and Ph.D. student in Biostatistics at The Ohio State University."
+description-meta: "Website of Dennis Baidoo, Ph.D. student in Biostatistics in the College of Public Health at The Ohio State University."
 title-block-style: none
 aliases:
   - mediatab.html
@@ -9,9 +9,9 @@ aliases:
 ```{=html}
 <section class="wrap hero">
   <div class="hero-text">
-    <p class="overline">Ph.D. Student · Biostatistics · The Ohio State University</p>
+    <p class="overline">Ph.D. Student · College of Public Health · The Ohio State University</p>
     <h1>Dennis Baidoo, M.S., <a href="https://ww2.amstat.org/accreditation/roster.cfm" target="_blank" rel="noopener">GStat</a></h1>
-    <p class="lead">I am a Statistical Scientist and Ph.D. student in Biostatistics at <a href="https://www.osu.edu/" target="_blank" rel="noopener">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
+    <p class="lead">I am a Ph.D. student in Biostatistics in the <a href="https://cph.osu.edu/" target="_blank" rel="noopener">College of Public Health</a> at <a href="https://www.osu.edu/" target="_blank" rel="noopener">The Ohio State University</a>, with a background in statistics, mathematics, and data-driven approaches to scientific research.</p>
     <p class="cta"><a class="btn" href="publications.html">Research</a> <a class="btn ghost" href="cv.html">CV</a></p>
     <p class="links"><a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> <a href="https://www.researchgate.net/profile/Dennis-Baidoo-4/research" target="_blank" rel="noopener">ResearchGate</a> <a href="https://orcid.org/0009-0006-2719-7730" target="_blank" rel="noopener">ORCID</a> <a href="https://www.linkedin.com/in/dennisbaidoo1" target="_blank" rel="noopener">LinkedIn</a> <a class="mail" data-u="baidoo.20" data-d="osu.edu" href="#">Email</a></p>
   </div>
@@ -64,7 +64,7 @@ aliases:
   <div class="cols">
     <h2>My Academic Journey</h2>
     <div class="entries">
-<article class="entry"><div class="entry-date">Aug 2026 – May 2031</div><div class="entry-body"><h4>Interdisciplinary Ph.D. in Biostatistics</h4><p class="meta">The Ohio State University</p></div></article>
+<article class="entry"><div class="entry-date">Aug 2026 – May 2031</div><div class="entry-body"><h4>Interdisciplinary Ph.D. in Biostatistics</h4><p class="meta">College of Public Health, The Ohio State University</p></div></article>
 <article class="entry"><div class="entry-date">Jan 2023 – May 2025</div><div class="entry-body"><h4>M.S. in Statistics</h4><p class="meta">University of New Mexico</p></div></article>
 <article class="entry"><div class="entry-date">Aug 2017 – Nov 2021</div><div class="entry-body"><h4>B.Sc. in Mathematics &amp; Statistics</h4><p class="meta">University of Ghana, Legon</p></div></article>
     </div>

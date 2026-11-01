@@ -65,6 +65,7 @@ body:not(:has(.page-head, .hero)) ul, body:not(:has(.page-head, .hero)) ol { pad
 /* hero */
 .hero { display: grid; grid-template-columns: 1.35fr 0.85fr; gap: 64px; align-items: center; padding-top: 72px; padding-bottom: 72px; }
 .overline { font-family: var(--mono); font-size: 0.8rem; letter-spacing: 0.06em; color: var(--fill); font-weight: 500; margin-bottom: 14px; }
+.hero .overline { letter-spacing: 0.04em; }
 .hero h1 { font-size: clamp(2.2rem, 3.9vw, 2.9rem); letter-spacing: -0.01em; margin-bottom: 18px; }
 .hero h1 a { color: inherit; text-decoration: none; }
 .hero h1 a:hover { color: var(--fill-hover); }
