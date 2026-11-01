@@ -23,19 +23,19 @@ title-block-style: none
 <section class="cv-section" id="conferences"><h2>Recent and Upcoming Conferences</h2>
 <ul class="news">
 <li><span class="news-date">Oct 2026</span><span>Presented a poster at the <strong>Statistics and Biostatistics Graduate Student Poster Session</strong>, The Ohio State University, Columbus, OH</span></li>
-<li><span class="news-date">Aug 2026</span><span>Attended the <strong>Joint Statistical Meetings (JSM)</strong>, received the <strong>Norman Beery Memorial Scholarship</strong> at the ASA President Speech &amp; Award Night, and won 3rd Place in the Best Contributed Poster Award (Biopharmaceutical Section), Boston, MA</span></li>
+<li><span class="news-date">Aug 2026</span><span>Attended the <strong>Joint Statistical Meetings (JSM)</strong>, received the <strong>Norman Beery Memorial Scholarship</strong> at the American Statistical Association President Speech &amp; Award Night, and won 3rd Place in the Best Contributed Poster Award (Biopharmaceutical Section), Boston, MA</span></li>
 <li><span class="news-date">July 2026</span><span>Attended the <strong>Teaching Statistical Thinking with GAISE Workshop</strong>, Curry College, Milton, MA</span></li>
 <li><span class="news-date">Sept 2025</span><span>Received a travel award for the <strong>South Central Topology Conference IV</strong>, Texas A&amp;M University, College Station, TX</span></li>
 <li><span class="news-date">Aug 2025</span><span>Presented a poster at the <strong>Statistics in Pharmaceuticals (SIP) Conference</strong>, University of Connecticut, CT</span></li>
 <li><span class="news-date">Aug 2025</span><span>Participated in the <strong>Joint Statistical Meetings (JSM)</strong>, Nashville, TN</span></li>
-<li><span class="news-date">Apr 2025</span><span>Attended the <strong>ASA Symposium on Data Science &amp; Statistics (SDSS)</strong>, Salt Lake City, UT</span></li>
+<li><span class="news-date">Apr 2025</span><span>Attended the <strong>American Statistical Association Symposium on Data Science &amp; Statistics (SDSS)</strong>, Salt Lake City, UT</span></li>
 <li><span class="news-date">Mar 2025</span><span>Attended the <strong>ENAR Spring Meeting</strong>, New Orleans, LA</span></li>
 <li><span class="news-date">Sept 2024</span><span>Served as a reviewer for the <strong>Ronald E. McNair Scholars Research Competition Conference</strong></span></li>
 <li><span class="news-date">Aug 2024</span><span>Attended the <strong>Joint Statistical Meetings (JSM)</strong>, Portland, OR</span></li>
 <li><span class="news-date">Oct 2023</span><span>Received a travel award for the <strong>South Central Topology Conference III</strong>, New Mexico State University, Las Cruces, NM</span></li>
 <li><span class="news-date">Sept 2023</span><span>Received a travel award and presented a poster at the <strong>Prof. Michael Woodroofe Memorial Conference</strong>, University of Michigan, Ann Arbor, MI</span></li>
 <li><span class="news-date">Sept 2023</span><span>Served as a reviewer for the <strong>Ronald E. McNair Scholars Research Competition Conference</strong></span></li>
-<li><span class="news-date">Sept 2023</span><span>Served as Registration Assistant and attended the <strong>ASA Biopharmaceutical Section Regulatory–Industry Statistics Workshop</strong>, Rockville, MD</span></li>
+<li><span class="news-date">Sept 2023</span><span>Served as Registration Assistant and attended the <strong>American Statistical Association Biopharmaceutical Section Regulatory–Industry Statistics Workshop</strong>, Rockville, MD</span></li>
 <li><span class="news-date">Sept 2023</span><span>Served as a volunteer at the <strong>2023 Albuquerque Cybersecurity Conference</strong>, University of New Mexico, Albuquerque, NM</span></li>
 </ul>
 </section>
