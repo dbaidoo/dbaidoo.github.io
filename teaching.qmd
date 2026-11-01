@@ -24,6 +24,7 @@ title-block-style: none
 </section>
 <section class="cv-section" id="ug"><h2>University of Ghana</h2>
 <div class="entries"><article class="entry"><div class="entry-date">STAT 445</div><div class="entry-body"><h4>Regression Analysis</h4><p class="meta">Teaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 84 students.</p><div class="terms"><a href="https://balme.ug.edu.gh/past.exampapers/index.php?p=show_detail&id=7855&keywords=STAT+445" target="_blank" rel="noopener">Fall 2021</a></div></div></article>
+<article class="entry"><div class="entry-date">STAT 222</div><div class="entry-body"><h4>Time Series</h4><p class="meta">Teaching Assistant, University of Ghana, Department of Statistics and Actuarial Science - 125 students.</p></div></article>
 </div>
 </section>
 </div>
