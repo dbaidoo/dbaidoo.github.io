@@ -181,6 +181,8 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
 .news li { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 20px; padding: 14px 0; border-bottom: 1px solid var(--line); }
 .news-date { font-family: var(--mono); font-size: 0.82rem; color: var(--muted); padding-top: 4px; }
 .news strong { color: var(--heading); }
+/* Close the small visual gap where an underlined link meets punctuation. */
+.news a { margin-right: -0.07em; }
 /* Keep lists and text inside sidebar sections the same size. */
 .cv-section .news, .cv-section > p { font-size: 0.96rem; }
 .news-toggle { margin-top: 18px; cursor: pointer; font: inherit; font-weight: 600; font-size: 0.95rem; }
