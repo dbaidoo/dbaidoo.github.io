@@ -38,23 +38,8 @@ aliases:
 </section>
 <section class="wrap section" id="algoverse">
 <div class="cols"><h2>Algoverse AI Research Fellowship</h2><div class="prose">
-<p>I am currently an <strong>AI Research Fellow</strong> with the <a href="https://algoverseairesearch.org/ai-research-program" target="_blank" rel="noopener"><strong>Algoverse AI Research Program</strong></a>—a global initiative supporting early-career researchers in machine learning, large-scale optimization, and computational science. The program fosters interdisciplinary research and advances ethical, reliable, and socially beneficial AI systems.</p>
-<details class="abs"><summary>More about the fellowship</summary>
-<h3>About the Program</h3>
-<p>The Algoverse AI Research Program offers fellows a rich environment for research development, including:</p>
-<ul><li>Advanced instruction in machine learning and optimization</li><li>Access to global mentors and collaborative research teams</li><li>Technical workshops, seminars, and research presentations</li><li>Structured support for building impactful research projects</li><li>Training centered around scalable, interpretable, and responsible AI</li></ul>
-<p>Fellows are encouraged to pursue projects addressing real-world scientific, public-health, mathematical, and computational challenges.</p>
-<h3>My Role in the Fellowship</h3>
-<p>As an AI Research Fellow, my work focuses on:</p>
-<ul><li><strong>Optimization techniques for large-scale machine learning systems</strong></li><li><strong>AI applications in public health and epidemiological modeling</strong></li></ul>
-<p>I integrate statistical modeling, modern computational methods, and AI-driven techniques to address complex biomedical and public health problems.</p>
-<h3>Research Areas I Contribute To</h3>
-<ul><li>Adaptive and efficient optimization algorithms</li><li>High-dimensional statistical and computational modeling</li><li>Algorithmic fairness, robustness, and model reliability</li><li>Integration of statistical principles into machine-learning workflows</li></ul>
-<h3>Goals Within the Fellowship</h3>
-<p>Through this fellowship, I aim to:</p>
-<ol><li>Strengthen my foundation in advanced optimization and modern AI methods</li><li>Build computational tools for public health and biomedical research</li><li>Collaborate with interdisciplinary researchers within the Algoverse network</li><li>Contribute to open scientific communities through applied AI research</li><li>Develop publishable, high-impact academic work supporting equitable and transparent AI</li></ol>
-<p><a href="https://algoverseairesearch.org/ai-research-program" target="_blank" rel="noopener"><strong>Visit the Algoverse AI Research Program</strong></a></p>
-</details>
+<p>I am an AI Research Fellow with the <a href="https://algoverseairesearch.org/ai-research-program" target="_blank" rel="noopener">Algoverse AI Research Program</a>, which supports early-career researchers in machine learning, optimization, and computational science.</p>
+<p>My work focuses on optimization techniques for large-scale machine learning systems and on AI applications in public health and epidemiological modeling.</p>
 </div></div>
 </section>
 ```
