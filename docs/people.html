@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-html-1bd2906f7cde3ebe504a953173599db5.min.css" rel="stylesheet" append-hash="true" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="6ae4bc85-a01f-4090-ab87-a6f14639441d"></script>
+<script>try { if (localStorage.getItem("theme") === "dark") document.documentElement.setAttribute("data-theme", "dark"); } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=Josefin+Sans:wght@600;700&amp;family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap">
@@ -66,6 +67,10 @@ ul.task-list li input[type="checkbox"] {
         <a href="./blog.html">Blog</a>
       </div>
     </details>
+    <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode" hidden="">
+      <svg class="icon-moon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"></path></svg>
+      <svg class="icon-sun" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+    </button>
   </nav>
 </div></header>
 
@@ -108,6 +113,25 @@ University of Ghana</p><p>Dr. Sakyi-Yeboah mentored me during my undergraduate s
 </div></footer>
 <script>
 (function () {
+  // Light and dark switch.
+  var toggle = document.querySelector(".theme-toggle");
+  if (toggle) {
+    var root = document.documentElement;
+    var label = function () {
+      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      toggle.setAttribute("aria-label", "Switch to " + next + " mode");
+      toggle.title = "Switch to " + next + " mode";
+    };
+    toggle.hidden = false;
+    label();
+    toggle.addEventListener("click", function () {
+      var dark = root.getAttribute("data-theme") !== "dark";
+      if (dark) { root.setAttribute("data-theme", "dark"); } else { root.removeAttribute("data-theme"); }
+      try { localStorage.setItem("theme", dark ? "dark" : "light"); } catch (e) {}
+      label();
+    });
+  }
+
   // Mark the current tab.
   var path = location.pathname.split("/").pop() || "index.html";
   if (path.indexOf(".") === -1) path += ".html";

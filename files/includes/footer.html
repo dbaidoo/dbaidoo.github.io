@@ -11,6 +11,25 @@
 </div></footer>
 <script>
 (function () {
+  // Light and dark switch.
+  var toggle = document.querySelector(".theme-toggle");
+  if (toggle) {
+    var root = document.documentElement;
+    var label = function () {
+      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      toggle.setAttribute("aria-label", "Switch to " + next + " mode");
+      toggle.title = "Switch to " + next + " mode";
+    };
+    toggle.hidden = false;
+    label();
+    toggle.addEventListener("click", function () {
+      var dark = root.getAttribute("data-theme") !== "dark";
+      if (dark) { root.setAttribute("data-theme", "dark"); } else { root.removeAttribute("data-theme"); }
+      try { localStorage.setItem("theme", dark ? "dark" : "light"); } catch (e) {}
+      label();
+    });
+  }
+
   // Mark the current tab.
   var path = location.pathname.split("/").pop() || "index.html";
   if (path.indexOf(".") === -1) path += ".html";
