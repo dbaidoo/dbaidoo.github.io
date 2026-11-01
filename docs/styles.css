@@ -106,6 +106,8 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
 .papers { list-style: none; }
 .paper { padding: 16px 0; border-top: 1px solid var(--line); }
 .paper:first-child { border-top: 0; }
+.collab-note { padding: 16px 0; border-top: 1px solid var(--line); }
+.collab-note p { color: #3b485c; font-size: 0.95rem; margin: 6px 0 0; }
 .paper-title { font-size: 1.15rem; font-weight: 700; line-height: 1.35; color: var(--heading); }
 .paper-authors { color: #3b485c; font-size: 0.95rem; margin-top: 4px; }
 .me { color: var(--ink); font-weight: 700; }
