@@ -7,8 +7,8 @@ title-block-style: none
 ```{=html}
 <section class="wrap page-head">
 <p class="overline">Presentations</p>
-<h1>Research Presentations and Contributed Talks</h1>
-
+<h1>Talks and posters</h1>
+<p class="lead">Research presentations and contributed talks.</p>
 
 </section>
 <div class="wrap cv-layout">

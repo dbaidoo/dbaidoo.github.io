@@ -6,21 +6,21 @@ title-block-style: none
 
 ```{=html}
 <section class="wrap page-head">
-<p class="overline">People</p>
+<p class="overline">Mentors</p>
 <h1>My Mentors</h1>
 <p class="lead">Guiding My Academic, Professional, and Personal Journey</p>
 
 </section>
 <section class="wrap page-body"><div class="entries">
-<article class="entry"><div class="entry-date">Mentor 1</div><div class="entry-body"><h4>Prof. Ofer Harel</h4><p class="meta">Professor &amp; Dean of the College of Liberal Arts and Sciences<br>
-University of Connecticut</p><p><strong>Impact on my journey:</strong> Prof. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.</p><p><a href="https://ofer-harel.uconn.edu/" target="_blank" rel="noopener">Website</a></p></div></article>
-<article class="entry"><div class="entry-date">Mentor 2</div><div class="entry-body"><h4>Prof. Briana Joy K. Stephenson</h4><p class="meta">Assistant Professor of Biostatistics<br>
-Harvard T.H. Chan School of Public Health</p><p><strong>Impact on my journey:</strong> Prof. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.</p><p><a href="https://hsph.harvard.edu/profile/briana-joy-k-stephenson/" target="_blank" rel="noopener">Profile</a></p></div></article>
-<article class="entry"><div class="entry-date">Mentor 3</div><div class="entry-body"><h4>Dr. Rebbecca Wilson</h4><p class="meta">Principal Statistician<br>
-The Janssen Pharmaceutical Companies of Johnson &amp; Johnson</p><p><strong>Impact on my journey:</strong> Dr. Wilson has provided invaluable academic mentorship, career guidance, and personal support, especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.</p><p><a href="https://www.linkedin.com/in/rebbecca-wilson-doctor-of-public-health-63751b50/" target="_blank" rel="noopener">LinkedIn: View Profile</a></p></div></article>
-<article class="entry"><div class="entry-date">Mentor 4</div><div class="entry-body"><h4>Dr. Stephanie McIver</h4><p class="meta">Executive Director of Student Health &amp; Counseling (SHAC)<br>
-University of New Mexico</p><p><strong>Impact on my journey:</strong> Dr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service. Involving me in her ongoing research projects made a significant difference in my journey.</p><p><a href="https://shac.unm.edu/about/staff/stephanie-mciver.html" target="_blank" rel="noopener">Profile: SHAC Staff Page</a></p></div></article>
-<article class="entry"><div class="entry-date">Mentor 5</div><div class="entry-body"><h4>Dr. Enoch Sakyi-Yeboah</h4><p class="meta">Senior Lecturer, Department of Statistics &amp; Actuarial Science<br>
-University of Ghana</p><p><strong>Impact on my journey:</strong> Dr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies.</p><p><a href="https://www.ug.edu.gh/statistics/people/dr-enoch-sakyi-yeboah" target="_blank" rel="noopener">Profile: UG Profile</a></p></div></article>
+<article class="entry solo"><div class="entry-body"><h4><a href="https://ofer-harel.uconn.edu/" target="_blank" rel="noopener">Prof. Ofer Harel</a></h4><p class="meta">Professor &amp; Dean of the College of Liberal Arts and Sciences · 
+University of Connecticut</p><p>Prof. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4><a href="https://hsph.harvard.edu/profile/briana-joy-k-stephenson/" target="_blank" rel="noopener">Prof. Briana Joy K. Stephenson</a></h4><p class="meta">Assistant Professor of Biostatistics · 
+Harvard T.H. Chan School of Public Health</p><p>Prof. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4><a href="https://www.linkedin.com/in/rebbecca-wilson-doctor-of-public-health-63751b50/" target="_blank" rel="noopener">Dr. Rebbecca Wilson</a></h4><p class="meta">Principal Statistician · 
+The Janssen Pharmaceutical Companies of Johnson &amp; Johnson</p><p>Dr. Wilson has provided invaluable academic mentorship, career guidance, and personal support, especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4><a href="https://shac.unm.edu/about/staff/stephanie-mciver.html" target="_blank" rel="noopener">Dr. Stephanie McIver</a></h4><p class="meta">Executive Director of Student Health &amp; Counseling (SHAC) · 
+University of New Mexico</p><p>Dr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service. Involving me in her ongoing research projects made a significant difference in my journey.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4><a href="https://www.ug.edu.gh/statistics/people/dr-enoch-sakyi-yeboah" target="_blank" rel="noopener">Dr. Enoch Sakyi-Yeboah</a></h4><p class="meta">Senior Lecturer, Department of Statistics &amp; Actuarial Science · 
+University of Ghana</p><p>Dr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies.</p></div></article>
 </div></section>
 ```

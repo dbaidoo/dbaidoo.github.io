@@ -7,8 +7,8 @@ title-block-style: none
 ```{=html}
 <section class="wrap page-head">
 <p class="overline">Blog</p>
-<h1>Blog Posts</h1>
-<p class="lead">Statistical analyses and write-ups by Dennis Baidoo.</p>
+<h1>Statistical analyses and write-ups</h1>
+
 
 </section>
 <section class="wrap page-body"><ul class="news">

@@ -56,13 +56,17 @@ ul.task-list li input[type="checkbox"] {
     <a href="./index.html">Home</a>
     <a href="./publications.html">Research</a>
     <a href="./collaborative.html">Collaborative Work</a>
-    <a href="./posts.html">Presentations</a>
+    <a href="./posts.html">Talks</a>
     <a href="./teaching.html">Teaching</a>
     <a href="./Awards.html">Awards</a>
-    <a href="./mediatab.html">News</a>
-    <a href="./people.html">People</a>
-    <a href="./blog.html">Blog</a>
     <a href="./cv.html">CV</a>
+    <details class="nav-more">
+      <summary>More</summary>
+      <div class="nav-menu">
+        <a href="./people.html">Mentors</a>
+        <a href="./blog.html">Blog</a>
+      </div>
+    </details>
   </nav>
 </div></header>
 
@@ -74,13 +78,13 @@ ul.task-list li input[type="checkbox"] {
 
 <section class="wrap page-head">
 <p class="overline">Collaborative work</p>
-<h1>Collaborative Work</h1>
-<p class="lead">Research carried out with collaborators.</p>
+<h1>Research with collaborators</h1>
+
 
 </section>
 <section class="wrap pubs">
-<div class="pub-group"><div class="year">2023</div><ol class="papers">
-<li class="paper"><div class="paper-title">Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models</div><div class="paper-authors">Okeke, O. J., <span class="me">Baidoo, D.</span>, Frimpong, J.A., et al (2023).</div><div class="paper-venue"><a class="plink" href="https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16" target="_blank" rel="noopener">doi.org/978-624-6045-02-9</a></div></li>
+<div class="pub-group"><div class="year">Published</div><ol class="papers">
+<li class="paper"><div class="paper-title">Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models</div><div class="paper-authors">Okeke, O. J., <span class="me">Baidoo, D.</span>, Frimpong, J.A., et al</div><div class="paper-venue"><span class="chip published">Published</span>2023 <a class="plink" href="https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16" target="_blank" rel="noopener">doi.org/978-624-6045-02-9</a></div></li>
 </ol></div>
 </section>
 
@@ -105,7 +109,15 @@ ul.task-list li input[type="checkbox"] {
     if (a.getAttribute("href").split("/").pop().toLowerCase() === path.toLowerCase()) {
       a.classList.add("active");
       a.setAttribute("aria-current", "page");
+      var more = a.closest(".nav-more");
+      if (more) more.querySelector("summary").classList.add("active");
     }
+  });
+
+  // Close the More menu when clicking elsewhere.
+  document.addEventListener("click", function (e) {
+    var more = document.querySelector(".nav-more");
+    if (more && more.open && !more.contains(e.target)) more.open = false;
   });
 
   // Spam-resistant email links.
@@ -119,6 +131,24 @@ ul.task-list li input[type="checkbox"] {
   var updated = document.getElementById("updated");
   if (updated) {
     updated.textContent = "Updated " + new Date(document.lastModified).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  }
+
+  // Collapse older news behind a button.
+  var extra = document.querySelectorAll(".news .news-extra");
+  if (extra.length) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn ghost news-toggle";
+    var setOpen = function (open) {
+      extra.forEach(function (li) { li.hidden = !open; });
+      btn.textContent = open ? "Show fewer" : "Show earlier news";
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+    btn.addEventListener("click", function () {
+      setOpen(btn.getAttribute("aria-expanded") !== "true");
+    });
+    document.querySelector(".news").insertAdjacentElement("afterend", btn);
+    setOpen(false);
   }
 
   // Research page filters.

@@ -18,7 +18,15 @@
     if (a.getAttribute("href").split("/").pop().toLowerCase() === path.toLowerCase()) {
       a.classList.add("active");
       a.setAttribute("aria-current", "page");
+      var more = a.closest(".nav-more");
+      if (more) more.querySelector("summary").classList.add("active");
     }
+  });
+
+  // Close the More menu when clicking elsewhere.
+  document.addEventListener("click", function (e) {
+    var more = document.querySelector(".nav-more");
+    if (more && more.open && !more.contains(e.target)) more.open = false;
   });
 
   // Spam-resistant email links.
@@ -32,6 +40,24 @@
   var updated = document.getElementById("updated");
   if (updated) {
     updated.textContent = "Updated " + new Date(document.lastModified).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  }
+
+  // Collapse older news behind a button.
+  var extra = document.querySelectorAll(".news .news-extra");
+  if (extra.length) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn ghost news-toggle";
+    var setOpen = function (open) {
+      extra.forEach(function (li) { li.hidden = !open; });
+      btn.textContent = open ? "Show fewer" : "Show earlier news";
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+    btn.addEventListener("click", function () {
+      setOpen(btn.getAttribute("aria-expanded") !== "true");
+    });
+    document.querySelector(".news").insertAdjacentElement("afterend", btn);
+    setOpen(false);
   }
 
   // Research page filters.
