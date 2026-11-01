@@ -4,7 +4,7 @@ project:
   render:
     - "*.qmd"
   resources:
-    - "files/Dennis.Baidoo_CV_osu.pdf"
+    - "files/Dennis_Baidoo_CV_osu__.pdf"
     - "files/images/PIWC.JPG"
 
 description-meta: "Website for Dennis Baidoo"
