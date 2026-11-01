@@ -2,14 +2,16 @@
 title: "Research"
 description-meta: "Published articles, preprints, and work in progress by Dennis Baidoo."
 title-block-style: none
+aliases:
+  - collaborative.html
 ---
 
 ```{=html}
 <section class="wrap page-head">
 <p class="overline">Research</p>
 <h1>Papers and preprints</h1>
-<p class="lead">Published articles, preprints, and work in progress. See also <a href="collaborative.html">Collaborative Work</a>. A current list is on <a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
-<div class="filters" role="group" aria-label="Filter research"><button class="pill active" data-filter="all">All <span>11</span></button><button class="pill" data-filter="published">Published <span>1</span></button><button class="pill" data-filter="preprint">Preprints <span>8</span></button><button class="pill" data-filter="progress">In progress <span>2</span></button><input class="search" type="search" placeholder="Search title or author" aria-label="Search research"></div>
+<p class="lead">Published articles, preprints, work in progress, and collaborative work. A current list is on <a href="https://scholar.google.com/citations?user=ffB7SWYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<div class="filters" role="group" aria-label="Filter research"><button class="pill active" data-filter="all">All <span>12</span></button><button class="pill" data-filter="published">Published <span>1</span></button><button class="pill" data-filter="preprint">Preprints <span>8</span></button><button class="pill" data-filter="progress">In progress <span>2</span></button><button class="pill" data-filter="collaborative">Collaborative Work <span>1</span></button><input class="search" type="search" placeholder="Search title or author" aria-label="Search research"></div>
 </section>
 <section class="wrap pubs">
 <div class="pub-group"><div class="year">Published</div><ol class="papers">
@@ -28,6 +30,9 @@ title-block-style: none
 <div class="pub-group"><div class="year">In progress</div><ol class="papers">
 <li class="paper" data-type="progress"><div class="paper-title">From Data to Policy: Quantitative Insights on the Mortality Burden of Student Suicide in New Mexico</div><div class="paper-authors"><span class="me">Baidoo, D.</span> &amp; McIver, S.</div><div class="paper-venue"><span class="chip progress">In progress</span>2025 </div></li>
 <li class="paper" data-type="progress"><div class="paper-title">Elucidating Community-Level Determinants of Adolescent Obesity in New Mexico: An Artificial Intelligence Approach Using Bayesian Belief Networks</div><div class="paper-authors"><span class="me">Baidoo, D.</span>, Okeke, O. J., Amevor, R., et al</div><div class="paper-venue"><span class="chip progress">In progress</span>Submitted to EMCEI 2024 Proceedings (Springer Nature ASTI Book Series), 2024 </div></li>
+</ol></div>
+<div class="pub-group" id="collaborative"><div class="year">Collaborative Work</div><ol class="papers">
+<li class="paper" data-type="collaborative"><div class="paper-title">Modelling Land Suitability for Optimal Rice Cultivation in Ebonyi State, Nigeria: A Comparative Study of Empirical Bayesian Kriging and Inverse Distance Weighted Geostatistical Models</div><div class="paper-authors">Okeke, O. J., <span class="me">Baidoo, D.</span>, Frimpong, J.A., et al</div><div class="paper-venue"><span class="chip published">Published</span>2023 <a class="plink" href="https://repo.sltc.ac.lk/items/3b082a86-b640-4eb7-a2d4-fceeb02c3f16" target="_blank" rel="noopener">doi.org/978-624-6045-02-9</a></div></li>
 </ol></div>
 <p class="empty" hidden>No papers match that search.</p>
 </section>
