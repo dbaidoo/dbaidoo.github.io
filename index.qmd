@@ -32,10 +32,12 @@ aliases:
   <div class="section-head"><h2>Recent News</h2><a class="more" href="Awards.html">All awards and honors</a></div>
   <ul class="news">
     <li><span class="news-date">October 2026</span><span>Paper published in <em>PLOS One</em>: <a href="https://doi.org/10.1371/journal.pone.0348390" target="_blank" rel="noopener">Multi-dimensional structure and subtype-specific heterogeneity of angiogenesis in breast cancer</a>.</span></li>
-    <li><span class="news-date">August 2026</span><span>Started the Ph.D. in Biostatistics at The Ohio State University, supported by a <strong>University Fellowship</strong>.</span></li>
+    <li><span class="news-date">October 2026</span><span>Presented a poster at the Statistics and Biostatistics Graduate Student Poster Session, The Ohio State University.</span></li>
+    <li><span class="news-date">August 2026</span><span>Won <strong>3rd Place in the Best Contributed Poster Award</strong> (Biopharmaceutical Section) at the Joint Statistical Meetings.</span></li>
+    <li><span class="news-date">August 2026</span><span>Started the Interdisciplinary Ph.D. in Biostatistics at The Ohio State University, supported by a <strong>University Fellowship</strong>.</span></li>
     <li><span class="news-date">July 2026</span><span>Selected for the <strong>Teaching Statistical Thinking with GAISE Workshop Travel Award</strong> (NSF-funded EAPOST Program), Curry College, Milton, MA.</span></li>
     <li><span class="news-date">June 2026</span><span>Selected for the <a href="https://www.amstat.org/your-career/awards/norman-beery-memorial-scholarship" target="_blank" rel="noopener"><strong>Norman Beery Memorial Scholarship</strong></a>, which supports first-generation college students in statistics, and <a href="https://magazine.amstat.org/blog/2026/06/01/2026-awards/" target="_blank" rel="noopener">featured among ASA award recipients</a>.</span></li>
-    <li><span class="news-date">2026</span><span>Received the <strong>NISS Writing Workshop for Junior Researchers Travel Award</strong> from the National Institute of Statistical Sciences.</span></li>
+    <li class="news-extra"><span class="news-date">2026</span><span>Received the <strong>NISS Writing Workshop for Junior Researchers Travel Award</strong> from the National Institute of Statistical Sciences.</span></li>
     <li class="news-extra"><span class="news-date">Fall 2025</span><span>Featured in the <a href="https://www.amstat.org/docs/default-source/amstat-documents/ASAGiving-NewsletterFall2025.pdf" target="_blank" rel="noopener">ASA Giving Newsletter</a>, sharing my experience at the 2025 Joint Statistical Meetings and the impact of the ASA Student and Early Career Travel Fund.</span></li>
     <li class="news-extra"><span class="news-date">June 2025</span><span>Received the <strong>Lester R. Curtin Award</strong> from the American Statistical Association and <a href="https://magazine.amstat.org/blog/2025/06/02/awardees/" target="_blank" rel="noopener">featured among ASA award recipients</a>.</span></li>
     <li class="news-extra"><span class="news-date">2025</span><span>Honored by the University of New Mexico with the <strong>Excellence in Teaching Award</strong> and <strong>Student of the Year</strong> (<a href="https://www.instagram.com/unmafro/p/DJKe6LWvQJe/" target="_blank" rel="noopener">UNM recognition</a>).</span></li>
@@ -62,7 +64,7 @@ aliases:
   <div class="cols">
     <h2>My Academic Journey</h2>
     <div class="entries">
-<article class="entry"><div class="entry-date">Aug 2026 – May 2031</div><div class="entry-body"><h4>Ph.D. in Biostatistics</h4><p class="meta">The Ohio State University</p></div></article>
+<article class="entry"><div class="entry-date">Aug 2026 – May 2031</div><div class="entry-body"><h4>Interdisciplinary Ph.D. in Biostatistics</h4><p class="meta">The Ohio State University</p></div></article>
 <article class="entry"><div class="entry-date">Jan 2023 – May 2025</div><div class="entry-body"><h4>M.S. in Statistics</h4><p class="meta">University of New Mexico</p></div></article>
 <article class="entry"><div class="entry-date">Aug 2017 – Nov 2021</div><div class="entry-body"><h4>B.Sc. in Mathematics &amp; Statistics</h4><p class="meta">University of Ghana, Legon</p></div></article>
     </div>
