@@ -1,5 +1,5 @@
 ---
-title: "Research"
+pagetitle: "Research – Dennis Baidoo"
 description-meta: "Published articles, preprints, and work in progress by Dennis Baidoo."
 title-block-style: none
 aliases:

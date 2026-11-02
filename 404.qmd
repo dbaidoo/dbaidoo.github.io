@@ -1,5 +1,5 @@
 ---
-title: "Page Unplugged"
+pagetitle: "Page Unplugged – Dennis Baidoo"
 description-meta: "Page not found."
 title-block-style: none
 ---

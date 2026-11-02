@@ -3,6 +3,10 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+    - "!MyUpdate.qmd"
+    - "!projects.qmd"
+    - "!contact.qmd"
+    - "!posts/"
   resources:
     - "files/Dennis_Baidoo_CV_osu__.pdf"
     - "files/images/PIWC.JPG"
@@ -11,7 +15,6 @@ description-meta: "Website for Dennis Baidoo"
 author-meta: "Dennis Baidoo"
 
 website:
-  title: "Dennis Baidoo"
   image: "files/images/PIWC.JPG"
   description: "Ph.D. Student, Division of Biostatistics, College of Public Health, The Ohio State University"
   site-url: "https://dbaidoo.github.io"
@@ -28,12 +31,14 @@ format:
     theme: none
     css: site.css
     page-layout: custom
+    canonical-url: true
     toc: false
     smooth-scroll: false
     anchor-sections: false
     code-copy: false
     include-in-header:
       - text: |
+          <meta name="google-site-verification" content="3pHmQ-h0wrS_CISpd5JMjWPlBDS9A-Jz_6_On2oYM0Y" />
           <script>document.documentElement.classList.add("js"); try { if (localStorage.getItem("theme") === "dark") document.documentElement.setAttribute("data-theme", "dark"); } catch (e) {}</script>
           <style>
             html .theme-toggle { display: none; }

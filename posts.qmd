@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+pagetitle: "Presentations – Dennis Baidoo"
 description-meta: "Research presentations and contributed talks by Dennis Baidoo."
 title-block-style: none
 ---

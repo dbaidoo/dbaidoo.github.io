@@ -1,12 +1,15 @@
 ---
-title: "Dennis Baidoo"
-description-meta: "Website of Dennis Baidoo, Ph.D. student in the Division of Biostatistics, College of Public Health, at The Ohio State University."
+pagetitle: "Dennis Baidoo | Biostatistics PhD Student, The Ohio State University"
+description-meta: "Dennis Baidoo is a doctoral student in the Division of Biostatistics, College of Public Health, at The Ohio State University."
+image: "files/images/Dbaidoo.JPG"
+canonical-url: "https://dbaidoo.github.io/"
 title-block-style: none
 aliases:
   - mediatab.html
 ---
 
 ```{=html}
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ProfilePage", "url": "https://dbaidoo.github.io/", "mainEntity": {"@type": "Person", "name": "Dennis Baidoo", "url": "https://dbaidoo.github.io/", "image": "https://dbaidoo.github.io/files/images/Dbaidoo.JPG", "jobTitle": "Ph.D. Student in Biostatistics", "affiliation": {"@type": "CollegeOrUniversity", "name": "The Ohio State University", "url": "https://www.osu.edu/"}, "alumniOf": [{"@type": "CollegeOrUniversity", "name": "University of New Mexico"}, {"@type": "CollegeOrUniversity", "name": "University of Ghana"}], "knowsAbout": ["Biostatistics", "Statistics", "Cancer survival analysis", "Clinical trial methods"], "sameAs": ["https://www.linkedin.com/in/dennisbaidoo1", "https://scholar.google.com/citations?user=ffB7SWYAAAAJ", "https://orcid.org/0009-0006-2719-7730", "https://www.researchgate.net/profile/Dennis-Baidoo-4", "https://github.com/dbaidoo"]}}</script>
 <section class="wrap hero">
   <div class="hero-text">
     <p class="overline">Ph.D. Student · Division of Biostatistics · College of Public Health</p>

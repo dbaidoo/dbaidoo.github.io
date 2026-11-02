@@ -1,5 +1,5 @@
 ---
-title: "My Mentors"
+pagetitle: "My Mentors – Dennis Baidoo"
 description-meta: "Mentors of Dennis Baidoo."
 title-block-style: none
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Awards and Honors"
+pagetitle: "Awards and Honors – Dennis Baidoo"
 description-meta: "Awards, honors, and scholarships received by Dennis Baidoo."
 title-block-style: none
 ---

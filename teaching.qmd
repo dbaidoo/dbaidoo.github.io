@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+pagetitle: "Teaching – Dennis Baidoo"
 description-meta: "Courses taught by Dennis Baidoo."
 title-block-style: none
 ---
