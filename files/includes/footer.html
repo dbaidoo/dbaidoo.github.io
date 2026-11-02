@@ -20,7 +20,6 @@
       toggle.setAttribute("aria-label", "Switch to " + next + " mode");
       toggle.title = "Switch to " + next + " mode";
     };
-    toggle.hidden = false;
     label();
     toggle.addEventListener("click", function () {
       var dark = root.getAttribute("data-theme") !== "dark";
