@@ -8,7 +8,7 @@ project:
     - "!contact.qmd"
     - "!posts/"
   resources:
-    - "files/Dennis_Baidoo_CV_osu__.pdf"
+    - "files/Dennis_Baidoo_CV_OSU.pdf"
     - "files/images/PIWC.JPG"
 
 description-meta: "Website for Dennis Baidoo"
