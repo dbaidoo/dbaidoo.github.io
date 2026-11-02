@@ -73,7 +73,7 @@ body:has(.page-head, .hero) #title-block-header { display: none; }
 #title-block-header h1 { font-size: 2.2rem; }
 
 /* Pages without a .wrap (unlinked pages from the old template) still get the column. */
-body:not(:has(.page-head, .hero)) > :not(.site-header, .site-footer, script) { max-width: 960px; margin-left: auto; margin-right: auto; padding-left: 22px; padding-right: 22px; }
+body:not(:has(.page-head, .hero)) > :not(.site-header, .site-footer, .theme-toggle, script) { max-width: 960px; margin-left: auto; margin-right: auto; padding-left: 22px; padding-right: 22px; }
 body:not(:has(.page-head, .hero)) h2 { font-size: 1.6rem; margin: 28px 0 10px; }
 body:not(:has(.page-head, .hero)) ul, body:not(:has(.page-head, .hero)) ol { padding-left: 1.3em; margin-bottom: 1em; }
 
@@ -95,7 +95,7 @@ body:not(:has(.page-head, .hero)) ul, body:not(:has(.page-head, .hero)) ol { pad
 .nav-menu { position: absolute; right: 0; top: calc(100% + 6px); min-width: 130px; display: flex; flex-direction: column; gap: 2px; padding: 6px; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 6px 18px rgba(11, 36, 71, 0.12); z-index: 20; }
 
 /* light and dark switch */
-.theme-toggle { position: absolute; top: 15px; right: 16px; -webkit-appearance: none; appearance: none; display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; padding: 0; color: var(--muted); background: transparent; border: 1px solid var(--sky-line); border-radius: 50%; cursor: pointer; }
+.theme-toggle { position: fixed; z-index: 30; top: 19px; right: 16px; -webkit-appearance: none; appearance: none; display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; padding: 0; color: var(--muted); background: var(--paper); border: 1px solid var(--sky-line); border-radius: 50%; cursor: pointer; }
 .theme-toggle:hover { color: var(--heading); background: var(--sky); }
 .theme-toggle:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 .theme-toggle svg { width: 16px; height: 16px; display: block; }
@@ -255,7 +255,7 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
   body { font-size: 16px; }
   .site-header { position: relative; }
   .bar { padding-right: 22px; padding-top: 12px; }
-  .theme-toggle { top: 10px; right: 12px; }
+  .theme-toggle { top: 14px; right: 12px; }
   .brand { padding: 0 44px; }
   .bar { flex-direction: column; align-items: center; }
   .nav { justify-content: center; }
@@ -286,6 +286,6 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
 }
 
 @media print {
-  .site-header, .cv-toc, .cta, .site-footer, .filters { display: none; }
+  .site-header, .theme-toggle, .cv-toc, .cta, .site-footer, .filters { display: none; }
   body { background: #fff; font-size: 11pt; }
 }
