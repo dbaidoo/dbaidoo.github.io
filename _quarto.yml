@@ -6,6 +6,7 @@ project:
     - "!MyUpdate.qmd"
     - "!projects.qmd"
     - "!contact.qmd"
+    - "!people.qmd"
     - "!posts/"
   resources:
     - "files/Dennis_Baidoo_CV_OSU.pdf"
