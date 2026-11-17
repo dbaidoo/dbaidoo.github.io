@@ -10,6 +10,7 @@ project:
   resources:
     - "files/Dennis_Baidoo_CV_OSU.pdf"
     - "files/images/PIWC.JPG"
+    - "files/images/pennant.png"
     - "favicon.ico"
     - "files/icons/*"
 

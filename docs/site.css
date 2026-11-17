@@ -290,3 +290,9 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
   .site-header, .theme-toggle, .cv-toc, .cta, .site-footer, .filters { display: none; }
   body { background: #fff; font-size: 11pt; }
 }
+
+/* Pennant in the far top-left corner of the header (wide screens only, so it never overlaps the name). */
+.corner-pennant { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); line-height: 0; }
+.corner-pennant img { height: 53px; width: auto; display: block; }
+@media (max-width: 1259px) { .corner-pennant { display: none; } }
+@media print { .corner-pennant { display: none; } }
