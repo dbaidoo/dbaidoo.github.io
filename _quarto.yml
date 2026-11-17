@@ -10,6 +10,8 @@ project:
   resources:
     - "files/Dennis_Baidoo_CV_OSU.pdf"
     - "files/images/PIWC.JPG"
+    - "favicon.ico"
+    - "files/icons/*"
 
 description-meta: "Website for Dennis Baidoo"
 author-meta: "Dennis Baidoo"
@@ -39,6 +41,11 @@ format:
     include-in-header:
       - text: |
           <meta name="google-site-verification" content="3pHmQ-h0wrS_CISpd5JMjWPlBDS9A-Jz_6_On2oYM0Y" />
+          <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+          <link rel="icon" type="image/png" sizes="48x48" href="/files/icons/favicon-48.png">
+          <link rel="icon" type="image/png" sizes="96x96" href="/files/icons/favicon-96.png">
+          <link rel="icon" type="image/png" sizes="192x192" href="/files/icons/favicon-192.png">
+          <link rel="apple-touch-icon" sizes="180x180" href="/files/icons/apple-touch-icon.png">
           <script>document.documentElement.classList.add("js"); try { if (localStorage.getItem("theme") === "dark") document.documentElement.setAttribute("data-theme", "dark"); } catch (e) {}</script>
           <style>
             html .theme-toggle { display: none; }
