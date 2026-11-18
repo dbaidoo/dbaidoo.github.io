@@ -1,6 +1,6 @@
 ---
 pagetitle: "CV – Dennis Baidoo"
-description-meta: "Curriculum vitae of Dennis Baidoo."
+description-meta: "Curriculum vitae of Dennis Baidoo, Biostatistics Ph.D. student at The Ohio State University: education, research, teaching, awards, and service."
 title-block-style: none
 ---
 

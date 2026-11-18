@@ -1,6 +1,6 @@
 ---
 pagetitle: "Teaching – Dennis Baidoo"
-description-meta: "Courses taught by Dennis Baidoo."
+description-meta: "Statistics and mathematics courses taught by Dennis Baidoo at the University of New Mexico and the University of Ghana."
 title-block-style: none
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "Algoverse AI Research Fellowship"
+pagetitle: "Algoverse AI Research Fellowship – Dennis Baidoo"
+description-meta: "Dennis Baidoo's work as an AI Research Fellow in the Algoverse AI Research Program: responsible AI, bias detection in medical AI, and health equity."
 page-layout: full
 toc: true
 toc-location: right

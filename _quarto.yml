@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  post-render: _fix_sitemap.py
   render:
     - "*.qmd"
     - "!MyUpdate.qmd"

@@ -1,6 +1,6 @@
 ---
 pagetitle: "Blog Posts – Dennis Baidoo"
-description-meta: "Blog posts by Dennis Baidoo."
+description-meta: "Applied statistical analyses by Dennis Baidoo: survival analysis, regression, PCA, and classification, written up in R Markdown."
 title-block-style: none
 ---
 
